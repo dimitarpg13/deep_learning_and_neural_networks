@@ -1,6 +1,7 @@
-# deep_learning_and_neural_networks
-General Machine Learning, Deep Learning and Neural Nets articles, papers, tutorials and books
+# Deep Learning and Neural Networks
+## General Machine Learning, Deep Learning and Neural Nets articles, papers, tutorials and books
 
+This repo is a work in progress.
 
 ## Other Relevant Work
  
@@ -19,3 +20,7 @@ General Machine Learning, Deep Learning and Neural Nets articles, papers, tutori
  * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming)
+
+ * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
+
+   
