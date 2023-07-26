@@ -1,4 +1,4 @@
-# deep_learning_and_neural_networks
+# Deep Learning and Neural Networks
 General Machine Learning, Deep Learning and Neural Nets articles, papers, tutorials and books
 
 
