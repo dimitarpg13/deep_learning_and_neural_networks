@@ -1,6 +1,6 @@
 # Deep Learning and Neural Networks
 General Machine Learning, Deep Learning and Neural Nets articles, papers, tutorials and books
-
+This repo is a work in progress.
 
 ## Other Relevant Work
  
