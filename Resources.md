@@ -16,6 +16,8 @@
 
 [Employing EM in Pool-Based Active Learning for Text Classification, A. McCallum, K. Nigam, 1998](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/EmployingEMinPoolBasedActiveLearningForTextClassificationMcCallum98.pdf)
 
+[Approximation Capabilities of Multilayer Feedforward Networks, Kurt Hornik, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/ApproximationCapabilitiesOfMultilayerFeedforwardNetworksHornik1991.pdf)
+
 [Approximation by Superpositions of a Sigmoidal Function, G. Cybenko, 1989](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/ApproximationBySuperpositionsOfSigmoidalFunctionCybenko1989.pdf)
 
 ## medium
