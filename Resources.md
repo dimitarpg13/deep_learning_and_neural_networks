@@ -27,6 +27,8 @@
 
 [Approximation by Superpositions of a Sigmoidal Function, G. Cybenko, 1989](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/ApproximationBySuperpositionsOfSigmoidalFunctionCybenko1989.pdf)
 
+[Fast R-CNN, Ross Girshick, Microsoft Research, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Fast_R-CNN.pdf)
+
 ## medium
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
 
