@@ -1,7 +1,11 @@
 # Deep Learning and Neural Networks Resources
 
 ## Books
+[Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/deeplearning_latest_edition.pdf)
 
+[Neural Networks - Systematic Introduction, Raul Rojas, 1996](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/neuron.pdf)
+
+[Machine Learning - A Probabilistic Perspective, Kevin P. Murphy, 2012](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/MachineLearning-AProbabilisticPerspective.pdf)
 
 
 ## Articles and tutorials
