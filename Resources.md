@@ -17,6 +17,8 @@
 
 [Deep Learning: Methods and Applications, Li Deng, Dong Yu, 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
 
+[Learning with Local and Global Consistency, D. Zhou, O. Bousquet, T. Lal, J. Weston, B. Scholkopf, 2003](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NIPS-2003-learning-with-local-and-global-consistency-Paper.pdf)
+
 [Bagging, Boosting and Ensemble Methods, Peter Buehlmann, ETH Zurich, 2010](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Bagging_Boosting_and_Ensemble_Methods_Buhlmann_2010.pdf)
 
 [Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition, Dominik Scherer, Andreas Mueller, Sven Behnke, 2010](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/EvalutationOfPoolingOperationsInConvolutionalArchitecturesForObjectRecognition.pdf)
