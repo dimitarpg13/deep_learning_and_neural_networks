@@ -75,6 +75,8 @@
 
 [Pyramid Methods in Image Processing, E.H. Adelson, et al,  RCA, 1984](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/PyramidMethodsForImageProcessingRCA84.pdf)
 
+[What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
+
 ## medium
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
 
