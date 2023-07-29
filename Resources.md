@@ -23,6 +23,8 @@
 
 [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks, J. Frankle, M. Carbin MIT CSAIL 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TheLotteryTicketHypothesisFindingSparseTrainableNeuralNetworksFrankle2017.pdf)
 
+[A Theory of Transfer Learning with Applications of Active Learning, Liu Yang, Steve Hanneke, Jaime Carbonell, Carnegy Mellon University, 2013](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TheoryOfTransferLearningWithApplicationsToActiveLearningCMUYang.pdf)
+
 [Learning with Local and Global Consistency, D. Zhou, O. Bousquet, T. Lal, J. Weston, B. Scholkopf, 2003](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NIPS-2003-learning-with-local-and-global-consistency-Paper.pdf)
 
 [Bagging, Boosting and Ensemble Methods, Peter Buehlmann, ETH Zurich, 2010](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Bagging_Boosting_and_Ensemble_Methods_Buhlmann_2010.pdf)
