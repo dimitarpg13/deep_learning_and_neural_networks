@@ -23,6 +23,8 @@
 
 [Deep Learning: Methods and Applications, Li Deng, Dong Yu, 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
 
+[Universal Approximation of an Unknown Mapping and Its Derivatives Using Multilayer Feedforward Networks, Kurt Hornik, Maxwell Stinchcombe, Halbert White, 1990](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/UniversalApproximationOfUnknownMappingHrnik90.pdf)
+
 [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks, J. Frankle, M. Carbin MIT CSAIL 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TheLotteryTicketHypothesisFindingSparseTrainableNeuralNetworksFrankle2017.pdf)
 
 [A Theory of Transfer Learning with Applications of Active Learning, Liu Yang, Steve Hanneke, Jaime Carbonell, Carnegy Mellon University, 2013](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TheoryOfTransferLearningWithApplicationsToActiveLearningCMUYang.pdf)
@@ -34,6 +36,8 @@
 [Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition, Dominik Scherer, Andreas Mueller, Sven Behnke, 2010](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/EvalutationOfPoolingOperationsInConvolutionalArchitecturesForObjectRecognition.pdf)
 
 [Learning Deep Architectures for AI, Yoshua Bengio, 2009](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_Deep_Architectures_for_AI_Y_Bengio_2009.pdf)
+
+[Learning both Weights and Connections for Efficient Neural Networks, Song Han et al, Stanford U, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/learning-both-weights-and-connections-for-efficient-neural-network-Han-Pool-Tran-Dally-2015.pdf)
 
 [Boosting Algorithms: Regularization, Prediction and Model Fitting, Peter Buehlmann, Torsten Hothorn, 2008](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/BoostingAlgorithmsRegularizationPredictionAndModelFittingBuehlman2007.pdf)
 
