@@ -1,0 +1,3 @@
+[submodule "examples/intro-to-deep-learning"]
+	path = examples/intro-to-deep-learning
+	url = https://github.com/dimitarpg13/intro-to-deep-learning.git
