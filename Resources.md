@@ -10,6 +10,8 @@
 
 [Boosting Algorithms: Regularization, Prediction and Model Fitting, Peter Buehlmann, Torsten Hothorn, 2008](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/BoostingAlgorithmsRegularizationPredictionAndModelFittingBuehlman2007.pdf)
 
+[Improving Generalization With Active Learning, David Cohn, Les Atlas, Richard Landner, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Cohn1994_ImprovingGeneralizationWithActiveLearning.pdf)
+
 ## medium
 
 ## Relevant Repos
