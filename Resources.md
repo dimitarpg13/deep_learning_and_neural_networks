@@ -7,6 +7,8 @@
 ## Articles and tutorials
 [Learning Representations by Back-propagating Errors, D. Rumelhart, G. Hinton, R. Williams,Nature, 1986](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_representations_by_backpropagating_errors_Rummelhart_Hinton_Williams_1986.pdf)
 
+[Multilayer Feedforward Networks are Universal Approximators, Kurt Hornik, Maxwell Stinchcombe, Halber White, 1989](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/MultilayerFeedforwardNetworksAreUniversalApproximatorsHornik89.pdf)
+
 [The Forward-Forward Algorithm: Some Preliminary Investigations, Geoffrey Hinton, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/The_Forward-Forward_Algorithm-Some_Preliminary_Investigations_Hinton_2022.pdf)
 
 [Deep Learning: Methods and Applications, Li Deng, Dong Yu, 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
