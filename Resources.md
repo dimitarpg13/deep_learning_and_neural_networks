@@ -59,6 +59,8 @@
 
 [Feature Representation In Convolutional Neural Networks, Ben Athiwaratkun et al, Cornell U, 2011](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Feature_Representation_in_CNN.pdf)
 
+[Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation, Tech Report, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
+
 [Pyramid Methods in Image Processing, E.H. Adelson, et al,  RCA, 1984](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/PyramidMethodsForImageProcessingRCA84.pdf)
 
 ## medium
