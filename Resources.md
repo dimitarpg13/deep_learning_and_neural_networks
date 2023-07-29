@@ -62,6 +62,8 @@
 ## medium
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
 
+[Pruning Neural Networks, Rohit Bandaru, 2020](https://towardsdatascience.com/pruning-neural-networks-1bb3ab5791f9)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
