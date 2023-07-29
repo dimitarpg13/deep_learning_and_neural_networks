@@ -12,6 +12,10 @@
 
 [Improving Generalization With Active Learning, David Cohn, Les Atlas, Richard Landner, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Cohn1994_ImprovingGeneralizationWithActiveLearning.pdf)
 
+[Employing EM in Pool-Based Active Learning for Text Classification, A. McCallum, K. Nigam, 1998](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/EmployingEMinPoolBasedActiveLearningForTextClassificationMcCallum98.pdf)
+
+
+
 ## medium
 
 ## Relevant Repos
