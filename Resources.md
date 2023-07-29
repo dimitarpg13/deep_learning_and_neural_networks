@@ -43,6 +43,8 @@
 
 [Improving Generalization With Active Learning, David Cohn, Les Atlas, Richard Landner, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Cohn1994_ImprovingGeneralizationWithActiveLearning.pdf)
 
+[Pruning Convolutional Neural Networks for Resource Efficient Inference, P. Molchanov, S. Tyree, T. Karras, T. Aila, J. Kautz, NVIDIA, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/PruningCNNForResourceEfficientInferenceMolchanov2017.pdf)
+
 [Employing EM in Pool-Based Active Learning for Text Classification, A. McCallum, K. Nigam, 1998](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/EmployingEMinPoolBasedActiveLearningForTextClassificationMcCallum98.pdf)
 
 [Approximation Capabilities of Multilayer Feedforward Networks, Kurt Hornik, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/ApproximationCapabilitiesOfMultilayerFeedforwardNetworksHornik1991.pdf)
