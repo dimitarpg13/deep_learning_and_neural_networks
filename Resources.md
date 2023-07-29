@@ -59,6 +59,8 @@
 
 [Feature Representation In Convolutional Neural Networks, Ben Athiwaratkun et al, Cornell U, 2011](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Feature_Representation_in_CNN.pdf)
 
+[Pyramid Methods in Image Processing, E.H. Adelson, et al,  RCA, 1984](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/PyramidMethodsForImageProcessingRCA84.pdf)
+
 ## medium
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
 
