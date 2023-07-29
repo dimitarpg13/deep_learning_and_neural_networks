@@ -21,6 +21,8 @@
 
 [Least Angle Regression, Bradley Efron, Trevor Hastie, Iain Johnstone, Robert Tibshirani, 2004](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/LeastAngleRegressionEffron2004.pdf)
 
+[The Modern Mathematics of Deep Learning, J. Berner et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/ModernMathematicsOfDeepLearning2021.pdf)
+
 [Introduction To Metric Fixed Point Theory, M.A. Khamsi, 2002](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/IntroductionToMetricFIxedPointTheoryKhamsi.pdf)
 
 [A Global Geometric Framework for Nonlinear Dimensionality Reduction, J. Tenenbaum, et al, 2000](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/GlobalGeometricFrameworkForNonlinearDimensionalityReductionTenenbaum2000.pdf)
