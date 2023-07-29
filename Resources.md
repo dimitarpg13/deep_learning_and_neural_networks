@@ -6,6 +6,8 @@
 
 ## Articles adn tutorials
 
+[Deep Learning: Methods and Applications, Li Deng, Dong Yu, 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
+
 [Learning Deep Architectures for AI, Yoshua Bengio, 2009](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_Deep_Architectures_for_AI_Y_Bengio_2009.pdf)
 
 [Boosting Algorithms: Regularization, Prediction and Model Fitting, Peter Buehlmann, Torsten Hothorn, 2008](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/BoostingAlgorithmsRegularizationPredictionAndModelFittingBuehlman2007.pdf)
