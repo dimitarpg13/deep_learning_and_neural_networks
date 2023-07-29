@@ -31,6 +31,10 @@
 
 [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, S. Ren, K. He, Ross Girshick, Jian Sun, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Faster_R-CNN_Towards_Real-Time_Object_Detection_with_Region_Proposal_Networks.pdf)
 
+[Feature Extraction using Convolution Neural Networks (CNN) and Deep Learning, M. Jogin, et al](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Feature_Extraction_Using_CNN_and_DeepLearning.pdf)
+
+
+
 ## medium
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
 
