@@ -85,6 +85,10 @@
 
 [Pyramid Methods in Image Processing, E.H. Adelson, et al,  RCA, 1984](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/PyramidMethodsForImageProcessingRCA84.pdf)
 
+[Learning Sparse Neural Networks Through L_0 Regularization, Christos Louizos, Max Welling, Diederik P. Kingma, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_Sparse_Neural_Networks_Through_L0_Regularization_ICLR_2018.pdf)
+
+[Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning, Gal et al, Cambridge, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Dropout_as_a_Bayesian_Approximation-Representing_Model_Uncertainty_in_Deep_Learning_Gal_2016.pdf)
+
 [Bayesian Learning for Neural Networks: Algorithmic Survey, Martin Margis, Alexandros Iosifidis, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Bayesian_Learning_for_Neural_Networks-an_algorithmic_survey_2023.pdf)
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
