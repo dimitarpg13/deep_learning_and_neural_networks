@@ -94,6 +94,8 @@
 
 [Nesterov Momentum Explained with examples in TensorFlow and PyTorch with Giorgio Martinez, 2022](https://medium.com/@giorgio.martinez1926/nesterov-momentum-explained-with-examples-in-tensorflow-and-pytorch-4673dbf21998)
 
+[Gentle Introduction to Bayesian Deep Learning with François Porcher](https://pub.aimind.so/a-gentle-introduction-to-bayesian-deep-learning-d298c7243fd6)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
