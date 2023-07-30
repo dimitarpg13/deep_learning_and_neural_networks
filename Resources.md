@@ -96,6 +96,8 @@
 
 [Nesterov Momentum Explained with examples in TensorFlow and PyTorch with Giorgio Martinez, 2022](https://medium.com/@giorgio.martinez1926/nesterov-momentum-explained-with-examples-in-tensorflow-and-pytorch-4673dbf21998)
 
+[An Overview for Model Compression Techniques for Deep Learning in Space with Hannah Peterson](https://medium.com/gsi-technology/an-overview-of-model-compression-techniques-for-deep-learning-in-space-3fd8d4ce84e5)
+
 [Gentle Introduction to Bayesian Deep Learning with François Porcher](https://pub.aimind.so/a-gentle-introduction-to-bayesian-deep-learning-d298c7243fd6)
 
 ## Relevant Repos
