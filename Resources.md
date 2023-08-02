@@ -67,6 +67,8 @@
 
 [What is The State of Neural Network Pruning? D. Blalock, J. Ortiz, J. Frankle, J. Guttag, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatIsTheStateOfNeuralNetworkPruningBlalock2020.pdf)
 
+[Deep Ensembles: A Loss Landascape Perspective, S. Fort et al, Google Research, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Deep_Ensembles-A_Loss_Landscape_Perspective_Fort_GoogleBrain_2020.pdf)
+
 [You Only Look Once: Unified, Real-Time Object Detection, J. Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/YOLO-UnifiedRealTimeObjectDetection.pdf)
 
 [Employing EM in Pool-Based Active Learning for Text Classification, A. McCallum, K. Nigam, 1998](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/EmployingEMinPoolBasedActiveLearningForTextClassificationMcCallum98.pdf)
