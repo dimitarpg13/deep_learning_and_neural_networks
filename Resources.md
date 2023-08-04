@@ -108,6 +108,8 @@
 
 [Gentle Introduction to Bayesian Deep Learning with François Porcher](https://pub.aimind.so/a-gentle-introduction-to-bayesian-deep-learning-d298c7243fd6)
 
+[Why Deep Learning Ensembles Outperform Bayesian Neural Networks with Devansh](https://medium.com/swlh/why-deep-learning-ensembles-outperform-bayesian-neural-networks-dba2cd34da24)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
