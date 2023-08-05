@@ -112,6 +112,12 @@
 
 [Why Deep Learning Ensembles Outperform Bayesian Neural Networks with Devansh](https://medium.com/swlh/why-deep-learning-ensembles-outperform-bayesian-neural-networks-dba2cd34da24)
 
+[Bayesian Neural Network Series Post 1: Need for Bayesian Neural Networks with Kumar Shridhar](https://medium.com/neuralspace/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2)
+
+[Bayesian Neural Network Series Post 2: Background Knowledge with Kumar Shridhar](https://medium.com/neuralspace/bayesian-neural-network-series-post-2-background-knowledge-fdec6ac62d43)
+
+
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
