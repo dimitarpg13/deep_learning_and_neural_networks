@@ -95,6 +95,8 @@
 
 [Bayesian Learning for Neural Networks: Algorithmic Survey, Martin Margis, Alexandros Iosifidis, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Bayesian_Learning_for_Neural_Networks-an_algorithmic_survey_2023.pdf)
 
+[Bayesian Methods for Neural Networks, Joao de Freitas, Cambridge U., 2000, PhD thesis](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Bayesian_Methods_For_Neural_Networks_Freitas_PhD_thesis_CambdridgeU_2000.pdf)
+
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
 
 ## medium
