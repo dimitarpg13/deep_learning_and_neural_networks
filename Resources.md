@@ -118,6 +118,10 @@
 
 [Bayesian Neural Network Series Post 2: Background Knowledge with Kumar Shridhar](https://medium.com/neuralspace/bayesian-neural-network-series-post-2-background-knowledge-fdec6ac62d43)
 
+[Spectral Graph Convolutions with Jose Luis Castro Garica](https://medium.com/@jlcastrog99/spectral-graph-convolutions-c7241af4d8e2)
+
+[TS2Vec review: Towards universal time series representation learning with hierarchical contrasting with Alexander Li](https://medium.com/@findalexli/ts2vec-review-towards-universial-time-series-representation-learning-with-hierarchical-contra-c50dd789e85c)
+
 
 
 ## Relevant Repos
