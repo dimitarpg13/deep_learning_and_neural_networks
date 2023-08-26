@@ -99,6 +99,8 @@
 
 [A Comprehensive guide to Bayesian Convolutional Neural Network with Variational Inference, Kumar Shridhar et al, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/A_Comprehensive_guide_to_Bayesian_Convolutional_Neural_Network_with_Variational_Inference_Shridhar_2019.pdf)
 
+[A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges, Abdar, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/A_Review_of_Uncertainty_Quantification_in_Deep_Learning-Techniques_Applications_and_Challenges_Abdar_2021.pdf)
+
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
 
 ## medium
