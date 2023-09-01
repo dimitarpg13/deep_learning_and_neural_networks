@@ -52,6 +52,8 @@
 
 [Regression Shrinkage and Selection via the Lasso, Robert Tibshirani, 1996](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/RegressionShrinkageAndSelectionViaTheLassoTibshirani1996.pdf)
 
+[Six Lectures on Linearized Neural Networks, T. Misiakiewicz, A. Montanari, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/SixLecturesonLinearizedNeuralNetworks_Misiakiewicz_2023.pdf)
+
 [The Modern Mathematics of Deep Learning, J. Berner et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/ModernMathematicsOfDeepLearning2021.pdf)
 
 [Introduction To Metric Fixed Point Theory, M.A. Khamsi, 2002](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/IntroductionToMetricFIxedPointTheoryKhamsi.pdf)
