@@ -129,7 +129,7 @@
 
 [TS2Vec review: Towards universal time series representation learning with hierarchical contrasting with Alexander Li](https://medium.com/@findalexli/ts2vec-review-towards-universial-time-series-representation-learning-with-hierarchical-contra-c50dd789e85c)
 
-
+[Is PyTorch's Nesterov Momentum Implementation Worng? with Jason Vega](https://towardsdatascience.com/is-pytorchs-nesterov-momentum-implementation-wrong-5dc5f5032008)
 
 ## Relevant Repos
 
