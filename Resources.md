@@ -131,6 +131,8 @@
 
 [Is PyTorch's Nesterov Momentum Implementation Worng? with Jason Vega](https://towardsdatascience.com/is-pytorchs-nesterov-momentum-implementation-wrong-5dc5f5032008)
 
+[Effective Load Balancing with Ray on Amazon SageMaker with Chaim Rand](https://towardsdatascience.com/effective-load-balancing-with-ray-on-amazon-sagemaker-d3b9020679d3)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
