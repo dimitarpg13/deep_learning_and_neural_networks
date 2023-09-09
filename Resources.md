@@ -133,6 +133,8 @@
 
 [Effective Load Balancing with Ray on Amazon SageMaker with Chaim Rand](https://towardsdatascience.com/effective-load-balancing-with-ray-on-amazon-sagemaker-d3b9020679d3)
 
+[Layerwise learning for Quantum Neural Networks with Qiskit with Gopal Dahale](https://medium.com/qiskit/layerwise-learning-for-quantum-neural-networks-with-qiskit-e17ff4b1c419)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
