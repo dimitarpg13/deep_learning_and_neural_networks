@@ -135,6 +135,8 @@
 
 [Layerwise learning for Quantum Neural Networks with Qiskit with Gopal Dahale](https://medium.com/qiskit/layerwise-learning-for-quantum-neural-networks-with-qiskit-e17ff4b1c419)
 
+[Forward-Forward Algorithm: Will it replace Backpropagation? with Vishal Rajput](https://medium.com/aiguys/forward-forward-algorithm-will-it-replace-backpropagation-8d9047192975)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
