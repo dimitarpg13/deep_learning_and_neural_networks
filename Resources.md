@@ -137,6 +137,8 @@
 
 [Forward-Forward Algorithm: Will it replace Backpropagation? with Vishal Rajput](https://medium.com/aiguys/forward-forward-algorithm-will-it-replace-backpropagation-8d9047192975)
 
+[Tabula Rasa: Why Do Tree-Based Algorithms Outperform Neural Networks with Salvatore Raieli](https://levelup.gitconnected.com/tabula-rasa-why-do-tree-based-algorithms-outperform-neural-networks-db641862859b)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
