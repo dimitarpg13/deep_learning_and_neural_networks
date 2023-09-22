@@ -139,6 +139,10 @@
 
 [Tabula Rasa: Why Do Tree-Based Algorithms Outperform Neural Networks with Salvatore Raieli](https://levelup.gitconnected.com/tabula-rasa-why-do-tree-based-algorithms-outperform-neural-networks-db641862859b)
 
+[DeepMind Decodes the Puzzle of ‘ Grokking ’ In Neural Network Generalization Through Circuit Efficiency](https://medium.com/syncedreview/deepmind-decodes-the-puzzle-of-grokking-in-neural-network-generalization-through-circuit-b5bc32380557)
+
+   related paper: [Explaining Grokking Through Circuit Efficiency, Varma et al, DeepMind, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Explaining_grokking_through_circuit_efficiency_Varma_DeepMind_2023.pdf)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
