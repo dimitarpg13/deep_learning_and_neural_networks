@@ -143,6 +143,35 @@
 
    related paper: [Explaining Grokking Through Circuit Efficiency, Varma et al, DeepMind, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Explaining_grokking_through_circuit_efficiency_Varma_DeepMind_2023.pdf)
 
+### ML Ops for deep learning 
+[Instance Selection for Deep Learning with Chaim Rand](https://towardsdatascience.com/instance-selection-for-deep-learning-7463d774cff0)
+
+[Effective Load Balancing with Ray on Amazon SageMaker with Chaim Rand](https://towardsdatascience.com/effective-load-balancing-with-ray-on-amazon-sagemaker-d3b9020679d3)
+
+[PyTorch Model Performance Analysis and Optimization (Part 1) with Chaim Rand](https://towardsdatascience.com/pytorch-model-performance-analysis-and-optimization-10c3c5822869)
+
+[PyTorch Model Performance Analysis and Optimization (Part 2) with Chaim Rand](https://towardsdatascience.com/pytorch-model-performance-analysis-and-optimization-part-2-3bc241be91)
+
+[PyTorch Model Performance Analysis and Optimization (Part 3) with Chaim Rand](https://towardsdatascience.com/pytorch-model-performance-analysis-and-optimization-part-3-1c5876d78fe2)
+
+[PyTorch Model Performance Analysis and Optimization (Part 4) with Chaim Rand](https://towardsdatascience.com/solving-bottlenecks-on-the-data-input-pipeline-with-pytorch-profiler-and-tensorboard-5dced134dbe9)
+
+[PyTorch Model Performance Analysis and Optimization (Part 5) with Chaim Rand](https://towardsdatascience.com/how-to-optimize-your-dl-data-input-pipeline-with-a-custom-pytorch-operator-7f8ea2da5206)
+
+[PyTorch Model Performance Analysis and Optimization (Part 6) with Chaim Rand](https://towardsdatascience.com/pytorch-model-performance-analysis-and-optimization-part-6-b87412a0371b)
+
+[Smart Distributed Training on Amazon SageMaker with SMD (Part 1) with Chaim Rand](https://towardsdatascience.com/smart-distributed-training-on-amazon-sagemaker-with-smd-part-1-cd296f87a0ee)
+
+[Smart Distributed Training on Amazon SageMaker with SMD (Part 2) with Chaim Rand](https://towardsdatascience.com/smart-distributed-training-on-amazon-sagemaker-with-smd-part-2-c833e7139b5f)
+
+[Smart Distributed Training on Amazon SageMaker with SMD (Part 3) with Chaim Rand](https://towardsdatascience.com/smart-distributed-training-on-amazon-sagemaker-with-smd-part-3-db707db8a202)
+
+[How to Run Machine Learning Hyperparameter Optimization in the Cloud (Part 1) with Chaim Rand](https://towardsdatascience.com/how-to-run-machine-learning-hyperparameter-optimization-in-the-cloud-part-1-7877cdd6e879)
+
+[How to Run Machine Learning Hyperparameter Optimization in the Cloud (Part 2) with Chaim Rand](https://towardsdatascience.com/how-to-run-machine-learning-hyperparameter-optimization-in-the-cloud-part-2-23b1dac5ebed)
+
+[How to Run Machine Learning Hyperparameter Optimization in the Cloud (Part 3) with Chaim Rand](https://towardsdatascience.com/how-to-run-machine-learning-hyperparameter-optimization-in-the-cloud-part-3-f66dddbe1415)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
