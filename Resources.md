@@ -143,6 +143,8 @@
 
    related paper: [Explaining Grokking Through Circuit Efficiency, Varma et al, DeepMind, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Explaining_grokking_through_circuit_efficiency_Varma_DeepMind_2023.pdf)
 
+[Liquid Neural Network : A adaptive way to train ML model with Ved Prakash](https://ved933409.medium.com/liquid-neural-network-a-adaptive-way-to-train-ml-model-b6922d755066)
+
 ### ML Ops for deep learning 
 [Instance Selection for Deep Learning with Chaim Rand](https://towardsdatascience.com/instance-selection-for-deep-learning-7463d774cff0)
 
