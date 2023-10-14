@@ -52,6 +52,10 @@
 
 [Regression Shrinkage and Selection via the Lasso, Robert Tibshirani, 1996](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/RegressionShrinkageAndSelectionViaTheLassoTibshirani1996.pdf)
 
+[A Note on Learning Vector Quantization, Virginia de Sa, 1992](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NIPS-1992-a-note-on-learning-vector-quantization-Paper.pdf)
+
+[Learning Vector Quantization: The Dynamics of Winner-Takes-All Algorithms, M. Biehl et al, 2006](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_Vector_Quantization-The_Dynamics_of_Winner-Takes-All_Algorithms_Biehl_2006.pdf)
+
 [Six Lectures on Linearized Neural Networks, T. Misiakiewicz, A. Montanari, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/SixLecturesonLinearizedNeuralNetworks_Misiakiewicz_2023.pdf)
 
 [The Modern Mathematics of Deep Learning, J. Berner et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/ModernMathematicsOfDeepLearning2021.pdf)
