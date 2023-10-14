@@ -108,6 +108,17 @@
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
 
+
+## Self-organizing maps
+
+[The Self-Organizing Map, Kohonen, IEEE, 1998](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TheSelfOrganizing_map_Kohonen_IEEE_1998.pdf)
+
+[Kohonen Self-Organizing Map for the Traveling Salesperson Problem, Lucas Brocki, 2010](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Kohonen-Self-Organizing_Map_for_the_Traveling_Salesperson_Problem_Brocki_2010.pdf)
+
+[Using Self-Organizing Maps to solve the Traveling Salesman Problem, Diego Vincente's blog](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Using_Self-Organizing_Maps_to_solve_the_Traveling_Salesman_Problem_Diego_Vicente_Blog.pdf)
+
+[Diego Vincente's github repo on self-organizing maps for solving TSP](https://github.com/diego-vicente/som-tsp)
+
 ## medium
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
 
