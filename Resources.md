@@ -1,6 +1,8 @@
 # Deep Learning and Neural Networks Resources
 
 ## Books
+[Understanding Deep Learning, Simon J. Prince, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/UnderstandingDeepLearning_13_10_23_C.pdf)
+
 [Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/deeplearning_latest_edition.pdf)
 
 [Neural Networks - Systematic Introduction, Raul Rojas, 1996](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/neuron.pdf)
