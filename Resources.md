@@ -162,6 +162,24 @@
 
 [Liquid Neural Network : A adaptive way to train ML model with Ved Prakash](https://ved933409.medium.com/liquid-neural-network-a-adaptive-way-to-train-ml-model-b6922d755066)
 
+[Unraveling the Design Pattern of Physics-Informed Neural Networks: Series 01 with Shuai Guo](https://towardsdatascience.com/unraveling-the-design-pattern-of-physics-informed-neural-networks-series-01-8190df459527)
+
+[Operator Learning via Physics-Informed DeepONet: Let’s Implement It From Scratch with Shuai Guo](https://towardsdatascience.com/operator-learning-via-physics-informed-deeponet-lets-implement-it-from-scratch-6659f3179887)
+
+   related paper: [DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators, L. Lu et al, Brown U., 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/DeepONet-Learning_nonlinear_operators_for_identifying_differential_equations_based_on_the_universal_approximation_theorem_of_operators_Lu_BrownU_2020.pdf)
+
+   related paper: [Learning the Solution Operator of Paramteric Partial Differential Equations with Physics-Iinformed DeepONets, S. Wang, U Penn, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_the_Solution_Operator_of_Parametric_Partial_Differential_Equations_with_Physics-Informed_DeepONets_Wang_UPenn_2021.pdf)
+
+[Discovering Differential Equations with Physics-Informed Neural Networks and Symbolic Regression with Shuai Guo](https://towardsdatascience.com/discovering-differential-equations-with-physics-informed-neural-networks-and-symbolic-regression-c28d279c0b4d)
+
+   related paper: [Interpretable Machine Learning for Science
+with PySR and SymbolicRegression.jl, M. Carnmer, Princeton U., 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Interpretable_Machine_Learning_for_Science_with_PySR_and_SymbolicRegression.jl_Carnmer_2023.pdf)
+
+   related paper: [Discovering a reaction-diffusion model for Alzheimer’s disease by
+combining PINNs with symbolic regression, Z. Zhang, et al, Brown U, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Discovering_a_reaction-diffusion_model_for_Alzheimers_disease_by_combining_PINNs_with_symbolic_regression_Zhang_StanfordU_2023.pdf)
+
+   related repo: https://github.com/ShuaiGuo16/PINN_symbolic_regression
+
 ### ML Ops for deep learning 
 [Instance Selection for Deep Learning with Chaim Rand](https://towardsdatascience.com/instance-selection-for-deep-learning-7463d774cff0)
 
