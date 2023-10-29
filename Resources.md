@@ -217,6 +217,8 @@ combining PINNs with symbolic regression, Z. Zhang, et al, Brown U, 2023](https:
 
  related paper: [Zero-Shot Learning and its Applications from Autonomous Vehicles to COVID-19 Diagnosis: A Review, Rezaei et al, U Leeds, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Zero-Shot_Learning_and_its_Applications_from_Autonomous_Vehicles_to_COVID-19_Diagnosis-A_Review_Rezael_ULeeds_2020.pdf)
 
+[Differential Equations as a Pytorch Neural Network Layer with Kevin Hannay](https://towardsdatascience.com/differential-equations-as-a-pytorch-neural-network-layer-7614ba6d587f)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
