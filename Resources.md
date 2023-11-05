@@ -239,6 +239,8 @@ related paper: [The Graph Neural Network Model, F. Scarcelli et al, U of Sienna,
 
 related paper: [Towards Foundation Models for Knowledge Graph Reasoning, M. Galkin et al, Intel AI Lab, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Towards_Foundation_Models_for_Knowledge_Graph_Reasoning_Galkin_2023.pdf)
 
+related paper: [Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks, C Morris et al, TU Dortmund, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Weisfeiler_and_Leman_Go_Neural-Higher-order_Graph_Neural_Networks_Morris_2018.pdf)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
