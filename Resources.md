@@ -241,6 +241,10 @@ related paper: [Towards Foundation Models for Knowledge Graph Reasoning, M. Galk
 
 related paper: [Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks, C Morris et al, TU Dortmund, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Weisfeiler_and_Leman_Go_Neural-Higher-order_Graph_Neural_Networks_Morris_2018.pdf)
 
+related paper: [Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction, Zhu et al, Quebec AI Inst., 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Neural_Bellman-Ford_Networks-A_General_Graph_Neural_Network_Framework_for_Link_Prediction_Quebec_AI_Inst_Zhu_2022.pdf)
+
+related paper: [NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs, M. Galkin et al, McGill, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NodePiece-Compositional_and_Parameter-Efficient_Representations_of_Large_Knowledge_Graphs_Galkin_McGill_2022.pdf)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
