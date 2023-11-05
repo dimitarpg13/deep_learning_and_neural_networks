@@ -223,6 +223,12 @@ combining PINNs with symbolic regression, Z. Zhang, et al, Brown U, 2023](https:
 
 [Differential Equations as a Pytorch Neural Network Layer with Kevin Hannay](https://towardsdatascience.com/differential-equations-as-a-pytorch-neural-network-layer-7614ba6d587f)
 
+[ULTRA: Foundation Models for Knowledge Graph Reasoning with Michail Galkin](https://towardsdatascience.com/ultra-foundation-models-for-knowledge-graph-reasoning-9f8f4a0d7f09)
+
+related paper: [A Theory of Link Prediction via Relational Weisfeiler-Leman on Knowledge Graphs, X. Huang et al, Oxford U, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/A_Theory_of_Link_Prediction_via_Relational_Weisfeiler-Leman_on_Knowledge_Graphs_Huang_Oxford_2023.pdf)
+
+related paper: [Double Equivariance for Inductive Link Prediction for Both New Nodes and New Relation Types, J. Gao et al, Purdue U, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Double_Equivariance_for_Inductive_Link_Prediction_for_Both_New_Nodes_and_New_Relation_Types_Gao_PurdueU_2023.pdf)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
