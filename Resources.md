@@ -231,7 +231,7 @@ related paper: [Double Equivariance for Inductive Link Prediction for Both New N
 
 related paper: [Edge Directionality Improves Learning on Heterophilic Graphs, Rossi et al, Imperial College, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Edge_Directionality_Improves_Learning_on_Heterophilic_Graphs_Rossi_2023.pdf)
 
-related paper: []()
+related paper: [How Powerful are Graph Neural Networks? K. Xu et al, MIT, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/How_Powerful_are_Graph_Neural_Networks_Xu_MIT_2019.pdf)
 
 ## Relevant Repos
 
