@@ -112,6 +112,8 @@
 
 [Convex Bounds on the Softmax Function with Applications to Robustness Verification, Wei, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Convex_Bounds_on_the_Softmax_Function_with_Applications_to_Robustness_Verification_wei_23.pdf)
 
+[Everything is Connected: Graph Neural Networks, Peter Velickovic, DeepMind, U Cambridge, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Everything_is_Connected-Graph_Neural_Networks_Petar_Velickovic_2023.pdf)
+
 [A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges, Abdar, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/A_Review_of_Uncertainty_Quantification_in_Deep_Learning-Techniques_Applications_and_Challenges_Abdar_2021.pdf)
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
