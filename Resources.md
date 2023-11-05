@@ -229,6 +229,10 @@ related paper: [A Theory of Link Prediction via Relational Weisfeiler-Leman on K
 
 related paper: [Double Equivariance for Inductive Link Prediction for Both New Nodes and New Relation Types, J. Gao et al, Purdue U, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Double_Equivariance_for_Inductive_Link_Prediction_for_Both_New_Nodes_and_New_Relation_Types_Gao_PurdueU_2023.pdf)
 
+related paper: [Edge Directionality Improves Learning on Heterophilic Graphs, Rossi et al, Imperial College, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Edge_Directionality_Improves_Learning_on_Heterophilic_Graphs_Rossi_2023.pdf)
+
+related paper: []()
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
