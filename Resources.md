@@ -237,6 +237,8 @@ related paper: [On The Equivalence Between Positional Node Embeddings and Struct
 
 related paper: [The Graph Neural Network Model, F. Scarcelli et al, U of Sienna, 2009](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TheGraphNeuralNetworkModelScarselli2009.pdf)
 
+related paper: [Towards Foundation Models for Knowledge Graph Reasoning, M. Galkin et al, Intel AI Lab, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Towards_Foundation_Models_for_Knowledge_Graph_Reasoning_Galkin_2023.pdf)
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
