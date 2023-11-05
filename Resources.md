@@ -233,6 +233,10 @@ related paper: [Edge Directionality Improves Learning on Heterophilic Graphs, Ro
 
 related paper: [How Powerful are Graph Neural Networks? K. Xu et al, MIT, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/How_Powerful_are_Graph_Neural_Networks_Xu_MIT_2019.pdf)
 
+related paper: [On The Equivalence Between Positional Node Embeddings and Structural Graph Representation, Srinivasan et al, Purdue U., 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/On_the_Equivalence_between_Positional_Node_Embeddings_and_Structural_Graph_Representations_Srinivasa_ISLR_2020.pdf)
+
+
+
 ## Relevant Repos
 
 * [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
