@@ -235,7 +235,7 @@ related paper: [How Powerful are Graph Neural Networks? K. Xu et al, MIT, 2019](
 
 related paper: [On The Equivalence Between Positional Node Embeddings and Structural Graph Representation, Srinivasan et al, Purdue U., 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/On_the_Equivalence_between_Positional_Node_Embeddings_and_Structural_Graph_Representations_Srinivasa_ISLR_2020.pdf)
 
-
+related paper: [The Graph Neural Network Model, F. Scarcelli et al, U of Sienna, 2009](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TheGraphNeuralNetworkModelScarselli2009.pdf)
 
 ## Relevant Repos
 
