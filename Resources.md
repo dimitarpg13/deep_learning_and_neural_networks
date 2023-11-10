@@ -246,6 +246,12 @@ related paper: [NodePiece: Compositional and Parameter-Efficient Representations
 
 [How to Run Machine Learning Hyperparameter Optimization in the Cloud (Part 3) with Chaim Rand](https://towardsdatascience.com/how-to-run-machine-learning-hyperparameter-optimization-in-the-cloud-part-3-f66dddbe1415)
 
+## Yan LeCun's Deep Learning Course at Center for Data Science, NYU
+
+https://cds.nyu.edu/deep-learning/
+
+[Transforming Deep Learning Education with Yann LeCun and Alfredo Canziani’s Free Online Course, NYU Center for Data Science, Medium](https://nyudatascience.medium.com/transforming-deep-learning-education-with-yann-lecun-and-alfredo-canzianis-free-online-course-6cccfd1970b3)
+
 
 ## Relevant Repos
 
