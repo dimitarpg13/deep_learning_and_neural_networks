@@ -217,6 +217,20 @@ related paper: [Neural Bellman-Ford Networks: A General Graph Neural Network Fra
 
 related paper: [NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs, M. Galkin et al, McGill, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NodePiece-Compositional_and_Parameter-Efficient_Representations_of_Large_Knowledge_Graphs_Galkin_McGill_2022.pdf)
 
+[A gentle introduction to Steerable Neural Networks (part 1) with Matteo Ciprian](https://towardsdatascience.com/a-gentle-introduction-to-steerable-neural-networks-part-1-32323d95b03f)
+
+related paper: [3D Steerable CNNs: Learning Rotationally Equivariant Features in Volumetric Data, M. Weller et al, U Amsterdam 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/3D_Steerable_CNNs-Learning_Rotationally_Equivariant_Features_in_Volumetric_Data_Weller_UAmsterdam_2018.pdf)
+
+related paper: [Steerable CNNs, Taco S Cohen, Max Welling, U. Amsterdam, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Steerable_CNNs_Cohen_UAmsterdam_2016.pdf)
+
+related paper: [Learning Steerable Filters for Rotation Equivariant CNNs, Maurice Weiler et al, U Amsterdam, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_Steerable_Filters_for_Rotation_Equivariant_CNNs_Weiler_UAmsterdam_2018.pdf)
+
+related paper: [General E(2)-Equivariant Steerable CNNs, Maurice Weiler, Gabriele Cesa, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/General_E2-Equivariant_Steerable_CNNs_Weiler_2018.pdf)
+
+related paper: [Scale Steerable Filters for the Locally Scale-Invariant Convolutional Neural Network, R. Ghosh et al, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Scale_Steerable_Filters_for_the_Locally_Scale-Invariant_Convolutional_Neural_Network_Ghosh_2019.pdf)
+
+related paper: [A program to build E(n)-equivariant steerable CNNs, Cesa et al, U Amsterdam, Qualcomm AI Research, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/A_program_to_build_E_n-equivariant_steerable_CNNs_Cesa_2022.pdf)
+
 ### ML Ops for deep learning 
 [Instance Selection for Deep Learning with Chaim Rand](https://towardsdatascience.com/instance-selection-for-deep-learning-7463d774cff0)
 
