@@ -37,6 +37,8 @@
 
 [Neural Networks and Deep Learning, Michael Nielsen, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NeuralNetworksAndDeepLearningNielsen.pdf)
 
+[Autoencoding Video Frames, Terence Broad, Master Thesis, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoding_Video_Frames_Broad_2016.pdf)
+
 [Deep Learning: Methods and Applications, Li Deng, Dong Yu, 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
 
 [Universal Approximation of an Unknown Mapping and Its Derivatives Using Multilayer Feedforward Networks, Kurt Hornik, Maxwell Stinchcombe, Halbert White, 1990](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/UniversalApproximationOfUnknownMappingHrnik90.pdf)
