@@ -11,6 +11,8 @@
 
 [Machine Learning - A Probabilistic Perspective, Kevin P. Murphy, 2012](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/MachineLearning-AProbabilisticPerspective.pdf)
 
+[Pattern Recognition and Machine Learning, Christopher Bishop, 2006](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Bishop-Pattern_Recognition_and_Machine_Learning.pdf)
+
 [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, M. Bronstein et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
 
 [Machine Learning Refined - Foundations, Algorithms, and Applications, Jeremy Watt, Reza Bohrani, Aggelos Katsaggelos, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Machine_Learning_Refined.pdf)
