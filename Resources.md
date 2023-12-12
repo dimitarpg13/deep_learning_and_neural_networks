@@ -1,6 +1,8 @@
 # Deep Learning and Neural Networks Resources
 
 ## Books
+[Deep Learning: Foundations and Concepts, Christopher Bishop, Hugh Bishop, Cambridge, UK, 2023, online viewing only](https://issuu.com/cmb321/docs/deep_learning_ebook)
+
 [Understanding Deep Learning, Simon J. Prince, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/UnderstandingDeepLearning_13_10_23_C.pdf)
 
 [Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/deeplearning_latest_edition.pdf)
@@ -12,6 +14,7 @@
 [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, M. Bronstein et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
 
 [Machine Learning Refined - Foundations, Algorithms, and Applications, Jeremy Watt, Reza Bohrani, Aggelos Katsaggelos, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Machine_Learning_Refined.pdf)
+
 
 ## Articles and tutorials
 [Learning Representations by Back-propagating Errors, D. Rumelhart, G. Hinton, R. Williams,Nature, 1986](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_representations_by_backpropagating_errors_Rummelhart_Hinton_Williams_1986.pdf)
