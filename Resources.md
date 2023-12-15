@@ -220,6 +220,8 @@ related paper: [Scale Steerable Filters for the Locally Scale-Invariant Convolut
 
 related paper: [A program to build E(n)-equivariant steerable CNNs, Cesa et al, U Amsterdam, Qualcomm AI Research, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/A_program_to_build_E_n-equivariant_steerable_CNNs_Cesa_2022.pdf)
 
+[TiDE: the ‘embarrassingly’ simple MLP that beats Transformers with Rafael Guedes](https://towardsdatascience.com/tide-the-embarrassingly-simple-mlp-that-beats-transformers-7db77d588079)
+
 ### Physics based Deep Learning
 
 [Unraveling the Design Pattern of Physics-Informed Neural Networks: Series 01 with Shuai Guo](https://towardsdatascience.com/unraveling-the-design-pattern-of-physics-informed-neural-networks-series-01-8190df459527)
