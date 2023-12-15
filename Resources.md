@@ -222,6 +222,16 @@ related paper: [A program to build E(n)-equivariant steerable CNNs, Cesa et al, 
 
 [TiDE: the ‘embarrassingly’ simple MLP that beats Transformers with Rafael Guedes](https://towardsdatascience.com/tide-the-embarrassingly-simple-mlp-that-beats-transformers-7db77d588079)
 
+related paper: [Long-term Forecasting with TiDE: Time-series Dense Encoder, Das et al, Google Research, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Long-term_Forecasting_with_TiDE-Time-series_Dense_Encoder_Das_GoogleResearch_2023.pdf)
+
+related paper: [Darts: User-Friendly Modern Machine Learning for Time Series, Herzen et al, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Darts-User-Friendly_Modern_Machine_Learning_for_Time_Series_Herzen_2022.pdf)
+
+related paper: [GluonTS: Probabilistic Time Series Models in Python, A. Alexandrov et al, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/GluonTS-Probabilistic_Time_Series_Models_in_Python_Alexandrov_AWS_2019.pdf)
+
+related paper: [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting, B Lim et al, Oxford U., 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Temporal_Fusion_Transformers_for_Interpretable_Multi-horizon_Time_Series_Forecasting_Lim_OxfordU_2020.pdf)
+
+related paper: [An All-MLP Architecture for Time Series Forecasting, S. Chen et al, Google Cloud AI Research, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TSMixer-An_All-MLP_Architecture_for_Time_Series_Forecasting_Chen_GoogleCloudAIResearch_2023.pdf)
+
 ### Physics based Deep Learning
 
 [Unraveling the Design Pattern of Physics-Informed Neural Networks: Series 01 with Shuai Guo](https://towardsdatascience.com/unraveling-the-design-pattern-of-physics-informed-neural-networks-series-01-8190df459527)
