@@ -127,6 +127,8 @@
 
 [MotherNet: A Foundational Hypernetwork for Tabular Classification, A.C. Mueller et al, Microsoft Research, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/MotherNet-A_Foundational_Hypernetwork_for_Tabular_Classification_Mueller_2023.pdf)
 
+[Using Sequences of Life-events to Predict Human Lives, Germans Savcisens et al, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Using_Sequences_of_Life-events_to_Predict_Human_Lives_Savcisens_2023.pdf)
+
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
 
 
