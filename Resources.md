@@ -190,6 +190,8 @@
 
  related paper: [Zero-Shot Learning and its Applications from Autonomous Vehicles to COVID-19 Diagnosis: A Review, Rezaei et al, U Leeds, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Zero-Shot_Learning_and_its_Applications_from_Autonomous_Vehicles_to_COVID-19_Diagnosis-A_Review_Rezael_ULeeds_2020.pdf)
 
+[Conditional Variational Autoencoders with Learnable Conditional Embeddings with Tim Rose](https://towardsdatascience.com/conditional-variational-autoencoders-with-learnable-conditional-embeddings-e22ee5359a2a)
+
 [Differential Equations as a Pytorch Neural Network Layer with Kevin Hannay](https://towardsdatascience.com/differential-equations-as-a-pytorch-neural-network-layer-7614ba6d587f)
 
 [ULTRA: Foundation Models for Knowledge Graph Reasoning with Michail Galkin](https://towardsdatascience.com/ultra-foundation-models-for-knowledge-graph-reasoning-9f8f4a0d7f09)
