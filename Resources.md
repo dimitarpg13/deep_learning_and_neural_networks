@@ -133,6 +133,27 @@
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
 
+## Attention
+
+[Bidirectional Recurrent Neural Networks, Mike Schuster, Kuldip Paliwal, IEEE Transactions on Signal Processing,1997](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Bidirectional_Recurrent_Neural_Networks_Schuster_Paliwal_1997.pdf)
+
+[Neural Networks for Pattern Recognition, Christopher M. Bishop, 1995](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Neural_Networks_for_Pattern_Recognition-Bishop_1995.pdf)
+
+[Recurrent Continuous Translation Models, Nal Kalchbrenner, Phil Blunsom, Oxford U.,2013](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Recurrent_continuous_translation_models_Kalchbrenner_Blunsson_OxfordU_2013.pdf)
+
+[Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation, K. Cho, B. van Merrienboer, C. Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio, 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_Phrase_Representations_using_RNN_Encoder%E2%80%93Decoder_for_Statistical_Machine_Translation_Cho_UdMontreal_2014.pdf)
+
+[Generating Sequences With Recurrent Neural Networks, Alex Graves, U of Toronto, 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Generating_Sequences_With_Recurrent_Neural_Networks_Graves_2014.pdf)
+
+[End-to-end Continuous Speech Recognition using Attention-based Recurrent NN: First Results, Jan Chorowski et al, 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/End-to-end_Continuous_Speech_Recognition_using_Attention-based_Recurrent_NN-First_Results_Chorowski_2014.pdf)
+
+[Translation Modeling with Bidirectional Recurrent Neural Networks, M. Sundermeyer et al, Aachen U., 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Translation_Modeling_with_Bidirectional_Recurrent_Neural_Networks_Sundermeyer_2014.pdf)
+
+[LSTM Can Solve Hard Long Time Lag Problems, Sepp Hochreiter, Jurgen Schmidhuber NIPS, 1996](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NIPS-1996-lstm-can-solve-hard-long-time-lag-problems-Paper_Hochreiter.pdf)
+
+[Overcoming the Curse of Sentence Length for Neural Machine Translation using Automatic Segmentation, Jean Pouget-Abadie et al, EPF, 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Overcoming_the_Curse_of_Sentence_Length_for_Neural_Machine_Translation_using_Automatic_Segmentation_Puget-Abadie_EPF_2014.pdf)
+
+[Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations, E. Kiperwasser, Y. Goldberg,  2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Simple_and_Accurate_Dependency_Parsing_Using_Bidirectional_LSTM_Feature_Representations_Kiperwasser_2016.pdf)
 
 ## Self-organizing maps
 
