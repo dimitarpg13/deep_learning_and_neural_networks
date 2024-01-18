@@ -6,7 +6,7 @@
 [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory, Arnulf Jentzen, Benno Kuckuck, Phillipe von Wurstemberger, University of Muenster, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Mathematical_Introduction_to_Deep_Learning-Methods_Implementations_and_Theory_Jentzen_2023.pdf)
 
 [Understanding Deep Learning, Simon J. Prince, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/UnderstandingDeepLearning_13_10_23_C.pdf)
-book site URL: https://udlbook.github.io/udlbook/
+(book site URL: https://udlbook.github.io/udlbook/)
 
 [Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/deeplearning_latest_edition.pdf)
 
