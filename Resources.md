@@ -170,6 +170,12 @@
 
 [Diego Vincente's github repo on self-organizing maps for solving TSP](https://github.com/diego-vicente/som-tsp)
 
+## Graph Neural Networks
+
+[Temporal Graph Learning in 2024: continue the journey for evolving networks, S. Huang, Towards Data Science, 2024](https://towardsdatascience.com/temporal-graph-learning-in-2024-feaa9371b8e2)
+
+[TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs, H. Zhou, U o SoCal, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/tgl-a-general-framework-for-temporal-gnn-training-on-billion-scale-graphs-scalable-data-science.pdf)
+
 ## medium
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
 
