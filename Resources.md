@@ -126,6 +126,8 @@
 
 [A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges, Abdar, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/A_Review_of_Uncertainty_Quantification_in_Deep_Learning-Techniques_Applications_and_Challenges_Abdar_2021.pdf)
 
+[Solving olympiad geometry without human demonstrations, Trieu H. Trinh et al, DeepMind, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Solving_olympiad_geometry_without_human_demonstrations_Trinh_DeepMind_2023.pdf)
+
 [HyperNetworks, David Ha, GoogleBrain, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Hypernetworks_David_Ha_GoogleBrain_2017.pdf)
 
 [MotherNet: A Foundational Hypernetwork for Tabular Classification, A.C. Mueller et al, Microsoft Research, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/MotherNet-A_Foundational_Hypernetwork_for_Tabular_Classification_Mueller_2023.pdf)
