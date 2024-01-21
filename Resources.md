@@ -172,6 +172,10 @@
 
 ## Graph Neural Networks
 
+[Graph Representation Learning, W. Hamilton, McGill U., 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Graph_Representation_Learning_Book_Hamilton_2020.pdf)
+
+[DistDGL: Distributed Graph Neural Network Training for Billion-Scale Graphs, D. Zheng et al, AWS AI, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/DistDGL-Distributed_Graph_Neural_Network_Training_for_Billion-Scale_Graphs_Zheng_AWS_AI_2023.pdf)
+
 [Temporal Graph Learning in 2024: continue the journey for evolving networks, S. Huang, Towards Data Science, 2024](https://towardsdatascience.com/temporal-graph-learning-in-2024-feaa9371b8e2)
 
 [TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs, H. Zhou, U o SoCal, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/tgl-a-general-framework-for-temporal-gnn-training-on-billion-scale-graphs-scalable-data-science.pdf)
