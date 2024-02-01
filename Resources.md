@@ -182,6 +182,17 @@
 
 [TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs, H. Zhou, U o SoCal, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/tgl-a-general-framework-for-temporal-gnn-training-on-billion-scale-graphs-scalable-data-science.pdf)
 
+## Vector Databases
+
+[Foundations of Vector Retrieval, Sebastian Bruch, 2024, arXiv](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Foundations_of_Vector_Retrieval_Bruch_2024.pdf)
+
+[A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge, Y. Han et al, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/A_Comprehensive_Survey_on_Vector_Database-Storage_and_Retrieval_Technique_Challenge_Han_2023.pdf)
+
+[Vector database management systems: Fundamental concepts, use-cases, and current challenges, T. Taipalus, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Vector_database_management_systems-Fundamental_concepts_use-cases_and_current_challenges_Taipalus_2023.pdf)
+
+[Embeddings, Vector Databases and Search, Module 2 slides from Databricks course, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Embedding_Vector_DBs_and_Search_Databricks_slides_2023.pdf)
+
+
 ## medium
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
 
