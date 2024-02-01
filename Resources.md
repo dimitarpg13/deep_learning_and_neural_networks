@@ -20,6 +20,8 @@
 
 [Machine Learning Refined - Foundations, Algorithms, and Applications, Jeremy Watt, Reza Bohrani, Aggelos Katsaggelos, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Machine_Learning_Refined.pdf)
 
+[Foundations of Vector Retrieval, Sebastian Bruch, 2024, arXiv](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Foundations_of_Vector_Retrieval_Bruch_2024.pdf)
+
 
 ## Articles and tutorials
 [Learning Representations by Back-propagating Errors, D. Rumelhart, G. Hinton, R. Williams,Nature, 1986](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_representations_by_backpropagating_errors_Rummelhart_Hinton_Williams_1986.pdf)
