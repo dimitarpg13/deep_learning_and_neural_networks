@@ -184,6 +184,11 @@
 
 [TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs, H. Zhou, U o SoCal, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/tgl-a-general-framework-for-temporal-gnn-training-on-billion-scale-graphs-scalable-data-science.pdf)
 
+## Theorem Proving
+[NeurIPS Tutorial on Machine Learning for Theorem Proving, video](https://machine-learning-for-theorem-proving.github.io/)
+
+[DeepMath - Deep Sequence Models for Premise Selection, Alexander Alemi, Francois Chollet et al, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/theorem_proving/DeepMath-Deep_Sequence_Models_for_Premise_Selection_alemi_2016.pdf)
+
 ## Vector Databases
 
 [Foundations of Vector Retrieval, Sebastian Bruch, 2024, arXiv](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Foundations_of_Vector_Retrieval_Bruch_2024.pdf)
