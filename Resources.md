@@ -24,6 +24,8 @@
 
 [Deep Learning and Computational Physics, Lecture Notes, USC, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Deep_Learning_and_Computational_Physics_LectureNotes_2004.pdf)
 
+[The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning, RY Rubinstein, DP Kroese, 2004](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf)
+
 
 ## Articles and tutorials
 [Learning Representations by Back-propagating Errors, D. Rumelhart, G. Hinton, R. Williams,Nature, 1986](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_representations_by_backpropagating_errors_Rummelhart_Hinton_Williams_1986.pdf)
