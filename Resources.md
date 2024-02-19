@@ -201,6 +201,13 @@
 
 [Embeddings, Vector Databases and Search, Module 2 slides from Databricks course, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Embedding_Vector_DBs_and_Search_Databricks_slides_2023.pdf)
 
+## Deep Learning for Physical Applications
+
+[Predicting disruptive instabilities in controlled fusion plasmas through deep learning, Julian Kates-Harbeck et al, Harvard U, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/Predicting_disruptive_instabilities_in_controlled_fusion_plasmas_through_deep_learning_Kates-Harbeck_Harvard_2019.pdf)
+
+[Magnetic Control of Tokamak Plasmas through Deep Reinforcement Learning, Jonas Degrave, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/Magnetic_control_of_tokamak_plasmas_through_deep_reinforcement_learning_Degrave_DeepMind_2019.pdf)
+
+[First Nuclear Plasma Control with Digital Twin, Sabine Hossenfelder, Feb 2024, youtube video](https://youtu.be/4VD_DLPQJBU)
 
 ## medium
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
