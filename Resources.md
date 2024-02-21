@@ -186,6 +186,8 @@
 
 [TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs, H. Zhou, U o SoCal, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/tgl-a-general-framework-for-temporal-gnn-training-on-billion-scale-graphs-scalable-data-science.pdf)
 
+[Graph neural networks in TensorFlow, Dustin Zelle, Distin Zelle, Feb 6, 2024, online blog](https://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html)
+
 ## Theorem Proving
 [NeurIPS Tutorial on Machine Learning for Theorem Proving, video](https://machine-learning-for-theorem-proving.github.io/)
 
