@@ -366,6 +366,21 @@ https://cds.nyu.edu/deep-learning/
 
 [Transforming Deep Learning Education with Yann LeCun and Alfredo Canziani’s Free Online Course, NYU Center for Data Science, Medium](https://nyudatascience.medium.com/transforming-deep-learning-education-with-yann-lecun-and-alfredo-canzianis-free-online-course-6cccfd1970b3)
 
+## online videos
+
+### Neural Networks - from zero to hero, Andrej Karpathi, Feb 2023
+
+[The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0)
+
+[The spelled-out intro to language modeling: building makemore](https://youtu.be/PaCmpygFfXo)
+
+[Building makemore Part 2: MLP](https://youtu.be/PaCmpygFfXo)
+
+[Building makemore Part 3: Activations & Gradients, BatchNorm](https://youtu.be/P6sfmUTpUmc)
+
+[Building makemore Part 4: Becoming a Backprop Ninja](https://youtu.be/q8SA3rM6ckI)
+
+[Building makemore Part 5: Building a WaveNet](https://youtu.be/t3YJ5hKiMQ0)
 
 ## Relevant Repos
 
