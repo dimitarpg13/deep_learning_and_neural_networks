@@ -368,7 +368,7 @@ https://cds.nyu.edu/deep-learning/
 
 ## online videos
 
-### Neural Networks - from zero to hero, Andrej Karpathi, Feb 2023
+### Neural Networks - from zero to hero, Andrej Karpathy, Feb 2023
 
 [The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0)
 
