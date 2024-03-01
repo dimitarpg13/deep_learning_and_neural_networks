@@ -193,6 +193,20 @@
 
 [DeepMath - Deep Sequence Models for Premise Selection, Alexander Alemi, Francois Chollet et al, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/theorem_proving/DeepMath-Deep_Sequence_Models_for_Premise_Selection_alemi_2016.pdf)
 
+## Computability of Neural Networks
+
+[Turing Computability with Neural Nets, Hava T. Siegelmann, Eduardo Sontag, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/computability/TuringComputabilityWithNeuralNets_Siegelman1991.pdf)
+
+[On the computational power of Neural Nets, Hava T. Siegelmann, 1992 (earlier version)](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/computability/OnTheComputationalPowerOfNeuralNets_1992_Siegelmann.pdf)
+
+[On The Computation Power of Neural Nets, Hava T. Siegelmann, Eduardo Sontag, 1995](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/computability/OnTheComputationalPowerOfNeuralNets_1995_Siegelmann_JComSysSci.pdf)
+
+[Computation beyond Turing limit, Hava T. Siegelmann, 1995](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/computability/ComputationBeyondtheTuringLimit_1995_Siegelmann_Science.pdf)
+
+[Neural Networks and Analog Computation beyond Turing limit, 1999](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/computability/NeuralNetworksandAnalogComputationBeyondTheTuringLimit.pdf)
+
+
+
 ## Vector Databases
 
 [Foundations of Vector Retrieval, Sebastian Bruch, 2024, arXiv](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Foundations_of_Vector_Retrieval_Bruch_2024.pdf)
