@@ -186,6 +186,8 @@
 
 [TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs, H. Zhou, U o SoCal, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/tgl-a-general-framework-for-temporal-gnn-training-on-billion-scale-graphs-scalable-data-science.pdf)
 
+[Graph neural networks in TensorFlow, Dustin Zelle, Distin Zelle, Feb 6, 2024, online blog](https://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html)
+
 ## Theorem Proving
 [NeurIPS Tutorial on Machine Learning for Theorem Proving, video](https://machine-learning-for-theorem-proving.github.io/)
 
@@ -201,6 +203,13 @@
 
 [Embeddings, Vector Databases and Search, Module 2 slides from Databricks course, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Embedding_Vector_DBs_and_Search_Databricks_slides_2023.pdf)
 
+## Deep Learning for Physical Applications
+
+[Predicting disruptive instabilities in controlled fusion plasmas through deep learning, Julian Kates-Harbeck et al, Harvard U, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/Predicting_disruptive_instabilities_in_controlled_fusion_plasmas_through_deep_learning_Kates-Harbeck_Harvard_2019.pdf)
+
+[Magnetic Control of Tokamak Plasmas through Deep Reinforcement Learning, Jonas Degrave, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/Magnetic_control_of_tokamak_plasmas_through_deep_reinforcement_learning_Degrave_DeepMind_2019.pdf)
+
+[First Nuclear Plasma Control with Digital Twin, Sabine Hossenfelder, Feb 2024, youtube video](https://youtu.be/4VD_DLPQJBU)
 
 ## medium
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
@@ -357,6 +366,21 @@ https://cds.nyu.edu/deep-learning/
 
 [Transforming Deep Learning Education with Yann LeCun and Alfredo Canziani’s Free Online Course, NYU Center for Data Science, Medium](https://nyudatascience.medium.com/transforming-deep-learning-education-with-yann-lecun-and-alfredo-canzianis-free-online-course-6cccfd1970b3)
 
+## online videos
+
+### Neural Networks - from zero to hero, Andrej Karpathy, Feb 2023
+
+[The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0)
+
+[The spelled-out intro to language modeling: building makemore](https://youtu.be/PaCmpygFfXo)
+
+[Building makemore Part 2: MLP](https://youtu.be/PaCmpygFfXo)
+
+[Building makemore Part 3: Activations & Gradients, BatchNorm](https://youtu.be/P6sfmUTpUmc)
+
+[Building makemore Part 4: Becoming a Backprop Ninja](https://youtu.be/q8SA3rM6ckI)
+
+[Building makemore Part 5: Building a WaveNet](https://youtu.be/t3YJ5hKiMQ0)
 
 ## Relevant Repos
 
