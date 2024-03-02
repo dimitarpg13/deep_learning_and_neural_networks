@@ -205,7 +205,7 @@
 
 [Neural Networks and Analog Computation beyond Turing limit, 1999](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/computability/NeuralNetworksandAnalogComputationBeyondTheTuringLimit.pdf)
 
-
+[Efficient Simulation of Finite Automata by Neural Nets, Noga Alon et al, JACM, Vol. 38, No. 2, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/computability/Efficient_simulations_of_finite_automata_by_neural_nets_Alon_1991.pdf)
 
 ## Vector Databases
 
