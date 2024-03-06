@@ -26,7 +26,7 @@
 
 [The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning, RY Rubinstein, DP Kroese, 2004](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf)
 
-[Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, online version, Aston Zhang, Zachary Lipton, Mu Li, Alexander Smola](https://d2l.ai/index.html)
+[Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, Aston Zhang, Zachary Lipton, Mu Li, Alexander Smola, online version](https://d2l.ai/index.html)
 
 [Deep Learning: Foundations and Concepts, Christopher M. Bishop, Hugh Bishop, online version](https://issuu.com/cmb321/docs/deep_learning_ebook)
 
