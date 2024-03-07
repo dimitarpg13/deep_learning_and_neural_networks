@@ -27,7 +27,7 @@ This repo is a work in progress.
 
  * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
  
- * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/Resources.md)
+ * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/Resources.md)
 
  * [Dynamical Systems, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
 
