@@ -3,7 +3,7 @@
 
 This repo is a work in progress.
 
-## Other Relevant Work
+## Selected Topics in Machine Learning
  
  * [Reinforcement Learning and Game Theory](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
