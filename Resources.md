@@ -179,6 +179,12 @@
 
 [Diego Vincente's github repo on self-organizing maps for solving TSP](https://github.com/diego-vicente/som-tsp)
 
+## State Space Models
+
+[Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu, T. Dao, CMU, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/state_space_models/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2023.pdf)
+
+[A Visual Guide to Mamba and State Space Models, Maarten Grootendorst, 2024](https://towardsdatascience.com/a-visual-guide-to-mamba-and-state-space-models-8d0d3f7d3ea6)
+
 ## Graph Neural Networks
 
 [Graph Representation Learning, W. Hamilton, McGill U., 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Graph_Representation_Learning_Book_Hamilton_2020.pdf)
