@@ -179,6 +179,8 @@
 
 [Is Cosine-Similarity of Embeddings Really About Similarity? Harald Steck, Chaitanya Ekanadham, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Is_Cosine-Similarity_of_Embeddings_Really_About_Similarity_Steck_2024.pdf)
 
+[Word Embeddings What Works, What Doesn't And How To Tell The Difference For Applied Research, A. Spirling, P. Rodriguez, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Word_Embeddings_Spirling_Rogriguez_2019.pdf)
+
 [Word Embeddings - A Survey, Felipe Almeida, Geraldo Xexeo, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Word_Embeddings-A_Survey_Almeida_2023.pdf)
 
 ## Self-organizing maps
