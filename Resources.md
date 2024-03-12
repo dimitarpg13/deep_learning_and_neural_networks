@@ -173,6 +173,8 @@
 
 [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
 
+[Vector Semantics and Embeddings, Daniel Jurafsky and James H Martin, Speech and Language Processing, Chapter 6, Stanford U,, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Vector_Semantics_and_Embeddings_Jurafsky_2024.pdf)
+
 [Efficient Estimation of Word Representations in Vector Space, Tomas Mikolov et al, Google, 2013](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Efficient_Estimation_of_Word_Representations_in_Vector_Space_Mikolov_Google_2013.pdf)
 
 [Factors Influencing the Surprising Instability of Word Embeddings, L. Wendtlandt et al, U. Michigan Ann Arbor, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Factors_Influencing_the_Surprising_Instability_of_Word_Embeddings_Wendlandt_AnnArbor_2018.pdf)
