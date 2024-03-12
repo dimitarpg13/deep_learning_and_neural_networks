@@ -173,6 +173,8 @@
 
 [Is Cosine-Similarity of Embeddings Really About Similarity? Harald Steck, Chaitanya Ekanadham, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Is_Cosine-Similarity_of_Embeddings_Really_About_Similarity_Steck_2024.pdf)
 
+[Efficient Estimation of Word Representations in Vector Space, Tomas Mikolov et al, Google, 2013](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Efficient_Estimation_of_Word_Representations_in_Vector_Space_Mikolov_Google_2013.pdf)
+
 ## Self-organizing maps
 
 [The Self-Organizing Map, Kohonen, IEEE, 1998](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TheSelfOrganizing_map_Kohonen_IEEE_1998.pdf)
