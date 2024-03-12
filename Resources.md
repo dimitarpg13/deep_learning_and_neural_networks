@@ -147,6 +147,13 @@
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
 
+
+## Feature Learning
+[Mechanism of feature learning in deep fully connected networks
+and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Mechanism_of_feature_learning_in_deep_fully_connected_networks_and_kernel_machines_that_recursively_learn_features_Radhakrishnan_2023.pdf)
+
+[Foundations of Machine Learning: Over-parameterization and Feature Learning, A. Radhakrishnan, PhD Thesis, MIT, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/radhakrishnan-aradha-phd-eecs-2023-thesis.pdf)
+
 ## Attention
 
 [Bidirectional Recurrent Neural Networks, Mike Schuster, Kuldip Paliwal, IEEE Transactions on Signal Processing,1997](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Bidirectional_Recurrent_Neural_Networks_Schuster_Paliwal_1997.pdf)
