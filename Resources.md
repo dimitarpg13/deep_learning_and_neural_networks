@@ -152,7 +152,7 @@
 [Mechanism of feature learning in deep fully connected networks
 and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Mechanism_of_feature_learning_in_deep_fully_connected_networks_and_kernel_machines_that_recursively_learn_features_Radhakrishnan_2023.pdf)
 
-[Supplementary amterial for Mechanism for feature learning in neural networks and backpropagation-free machine learning models, A. Radhakrishnan et al, 2024, Science](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Mechanism_for_feature_learning_in_neural_networks_and_backpropagation-free_machine_learning_models_science_supplement_2024.pdf)
+[Supplementary material for Mechanism for feature learning in neural networks and backpropagation-free machine learning models, A. Radhakrishnan et al, 2024, Science](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Mechanism_for_feature_learning_in_neural_networks_and_backpropagation-free_machine_learning_models_science_supplement_2024.pdf)
 
 [Foundations of Machine Learning: Over-parameterization and Feature Learning, A. Radhakrishnan, PhD Thesis, MIT, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/radhakrishnan-aradha-phd-eecs-2023-thesis.pdf)
 
