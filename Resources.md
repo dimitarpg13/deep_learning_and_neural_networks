@@ -169,6 +169,10 @@
 
 [Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations, E. Kiperwasser, Y. Goldberg,  2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Simple_and_Accurate_Dependency_Parsing_Using_Bidirectional_LSTM_Feature_Representations_Kiperwasser_2016.pdf)
 
+## Embeddings
+
+[Is Cosine-Similarity of Embeddings Really About Similarity? Harald Steck, Chaitanya Ekanadham, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Is_Cosine-Similarity_of_Embeddings_Really_About_Similarity_Steck_2024.pdf)
+
 ## Self-organizing maps
 
 [The Self-Organizing Map, Kohonen, IEEE, 1998](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TheSelfOrganizing_map_Kohonen_IEEE_1998.pdf)
