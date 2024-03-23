@@ -260,6 +260,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 [First Nuclear Plasma Control with Digital Twin, Sabine Hossenfelder, Feb 2024, youtube video](https://youtu.be/4VD_DLPQJBU)
 
 ## medium
+[The Math Behind the Adam Optimizer with Cristian Leo, 2024](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b)
+
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
 
 [Pruning Neural Networks, Rohit Bandaru, 2020](https://towardsdatascience.com/pruning-neural-networks-1bb3ab5791f9)
