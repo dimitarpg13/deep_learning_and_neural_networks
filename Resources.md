@@ -152,6 +152,8 @@
 [Mechanism of feature learning in deep fully connected networks
 and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Mechanism_of_feature_learning_in_deep_fully_connected_networks_and_kernel_machines_that_recursively_learn_features_Radhakrishnan_2023.pdf)
 
+[Supplementary material for Mechanism for feature learning in neural networks and backpropagation-free machine learning models, A. Radhakrishnan et al, 2024, Science](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Mechanism_for_feature_learning_in_neural_networks_and_backpropagation-free_machine_learning_models_science_supplement_2024.pdf)
+
 [Foundations of Machine Learning: Over-parameterization and Feature Learning, A. Radhakrishnan, PhD Thesis, MIT, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/radhakrishnan-aradha-phd-eecs-2023-thesis.pdf)
 
 ## Attention
@@ -258,6 +260,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 [First Nuclear Plasma Control with Digital Twin, Sabine Hossenfelder, Feb 2024, youtube video](https://youtu.be/4VD_DLPQJBU)
 
 ## medium
+[The Math Behind the Adam Optimizer with Cristian Leo, 2024](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b)
+
 [Ensemble Learning: Bagging and Boosting with Jonas Dieckmann](https://towardsdatascience.com/ensemble-learning-bagging-and-boosting-23f9336d3cb0)
 
 [Pruning Neural Networks, Rohit Bandaru, 2020](https://towardsdatascience.com/pruning-neural-networks-1bb3ab5791f9)
