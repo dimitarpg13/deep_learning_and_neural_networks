@@ -160,6 +160,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
 
+[Autoencoders, Unsupervised Learning, and Deep Architectures, Pierre Baldi, 2012](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders_Unsupervised_Learning_and_Deep_Architectures_Baldi_2012a.pdf)
+
 ## Attention
 
 [Bidirectional Recurrent Neural Networks, Mike Schuster, Kuldip Paliwal, IEEE Transactions on Signal Processing,1997](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Bidirectional_Recurrent_Neural_Networks_Schuster_Paliwal_1997.pdf)
