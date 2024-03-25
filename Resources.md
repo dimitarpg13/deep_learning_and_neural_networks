@@ -156,6 +156,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Foundations of Machine Learning: Over-parameterization and Feature Learning, A. Radhakrishnan, PhD Thesis, MIT, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/radhakrishnan-aradha-phd-eecs-2023-thesis.pdf)
 
+## AutoEncoders
+
+[Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
+
 ## Attention
 
 [Bidirectional Recurrent Neural Networks, Mike Schuster, Kuldip Paliwal, IEEE Transactions on Signal Processing,1997](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Bidirectional_Recurrent_Neural_Networks_Schuster_Paliwal_1997.pdf)
