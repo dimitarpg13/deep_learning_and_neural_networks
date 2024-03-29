@@ -32,7 +32,6 @@
 
 [Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, Aston Zhang, Zachary Lipton, Mu Li, Alexander Smola, online version](https://d2l.ai/index.html)
 
-[Deep Learning: Foundations and Concepts, Christopher M. Bishop, Hugh Bishop, online version](https://issuu.com/cmb321/docs/deep_learning_ebook)
 
 ## Articles and tutorials
 [Learning Representations by Back-propagating Errors, D. Rumelhart, G. Hinton, R. Williams,Nature, 1986](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_representations_by_backpropagating_errors_Rummelhart_Hinton_Williams_1986.pdf)
