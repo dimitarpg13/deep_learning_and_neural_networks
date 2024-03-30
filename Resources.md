@@ -220,9 +220,25 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu, T. Dao, CMU, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/state_space_models/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2023.pdf)
 
+[Mamba: Can it replace Transformers? Vishal Rajput, Medium Jan 8, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/state_space_models/Mamba_Can_it_replace_Transformers_Vishal_Rajput_Jan_2024_Medium.pdf)
+
+[Why Mamba was rejected? Joe El Khoury, Medium, Feb 28, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/state_space_models/Why_Mamba_was_rejected_recently_at_the_ICLR_by_Joe_Elkhoury_Feb_2024_Medium.pdf)
+
 [A Visual Guide to Mamba and State Space Models, Maarten Grootendorst, 2024](https://towardsdatascience.com/a-visual-guide-to-mamba-and-state-space-models-8d0d3f7d3ea6)
 
 [Mamba Explained, Kola Ayonrinde, The Gradient, March 2024](https://github.com/dimitarpg13/transformers_intro/blob/main/literature/articles/state_space_models/Mamba_Explained_The_Gradient.pdf)
+
+[HiPPO: Recurrent Memory with Optimal Polynomial Projections, A. Gu et al, Stanford U., 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/state_space_models/HiPPO-Recurrent_Memory_with_Optimal_Polynomial_Projections_Gu_2020.pdf)
+
+[How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections, A. Gu et al, Stanford U., 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/state_space_models/How_to_Train_Your_HiPPO-State_Space_Models_with_Generalized_Orthogonal_Basis_Projections_Gu_2022.pdf)
+
+[Hungry Hungry Hippos: Towards Language Modeling with State Space Models, D. Fu, T. Dao, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/state_space_models/Hungry_Hungry_Hippos-Towards_Language_Modeling_with_State_Space_Models_Fu_Dao_Stanford_2023.pdf)
+
+[Efficiently Modeling Long Sequences with Structured State Spaces, K. Goel, A. Gu et al, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/state_space_models/Efficiently_Modeling_Long_Sequences_with_Structured_State_Spaces_Gu_Stanford_2022.pdf)
+
+[Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers, A. Gu et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/state_space_models/Combining_Recurrent_Convolutional_and_Continuous-time_Models_with_Linear_State-Space_Layers_Gu_2021.pdf)
+
+[Diagonal State Spaces are as Effective as Structured State Spaces, A. Gupta, A. Gu et al, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/state_space_models/Diagonal_State_Spaces_are_as_Effective_as_Structured_State_Spaces_Gupta_Gu_2022.pdf)
 
 ## Graph Neural Networks
 
