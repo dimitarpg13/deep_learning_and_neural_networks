@@ -1,11 +1,14 @@
 # Deep Learning and Neural Networks Resources
 
 ## Books
-[Deep Learning: Foundations and Concepts, Christopher Bishop, Hugh Bishop, Cambridge, UK, 2023, online viewing only](https://issuu.com/cmb321/docs/deep_learning_ebook)
+
+[The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks, Daniel A. Roberts, Sho Yaida, Boris Hanin, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf)
+
+[Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory, Arnulf Jentzen, Benno Kuckuck, Phillipe von Wurstemberger, University of Muenster, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Mathematical_Introduction_to_Deep_Learning-Methods_Implementations_and_Theory_Jentzen_2023.pdf)
 
 [Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, Bernhard Schoelkopf, Alexander J. Smola, MIT, 2002](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/scholkopf2002learning_with_kernels.pdf)
 
-[Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory, Arnulf Jentzen, Benno Kuckuck, Phillipe von Wurstemberger, University of Muenster, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Mathematical_Introduction_to_Deep_Learning-Methods_Implementations_and_Theory_Jentzen_2023.pdf)
+[Deep Learning: Foundations and Concepts, Christopher Bishop, Hugh Bishop, Cambridge, UK, 2023, online viewing only](https://issuu.com/cmb321/docs/deep_learning_ebook)
 
 [Understanding Deep Learning, Simon J. Prince, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/UnderstandingDeepLearning_13_10_23_C.pdf)
 (book site URL: https://udlbook.github.io/udlbook/)
@@ -30,7 +33,6 @@
 
 [Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, Aston Zhang, Zachary Lipton, Mu Li, Alexander Smola, online version](https://d2l.ai/index.html)
 
-[Deep Learning: Foundations and Concepts, Christopher M. Bishop, Hugh Bishop, online version](https://issuu.com/cmb321/docs/deep_learning_ebook)
 
 ## Articles and tutorials
 [Learning Representations by Back-propagating Errors, D. Rumelhart, G. Hinton, R. Williams,Nature, 1986](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_representations_by_backpropagating_errors_Rummelhart_Hinton_Williams_1986.pdf)
