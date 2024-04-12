@@ -49,6 +49,8 @@
 
 [Distilling the Knowledge in a Neural Network, G. Hinton et al, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Distilling_the_Knowledge_in_a_Neural_Network_Hinton_2015.pdf)
 
+[Multiple Object Recognition with Visual Attention, Jimmy Ba, Volodymyr Mnih, Koray Kavukcuoglu, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Multiple_Object_Recognition_with_Visual_Attention_Ba_Mnih_2015.pdf)
+
 [The Forward-Forward Algorithm: Some Preliminary Investigations, Geoffrey Hinton, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/The_Forward-Forward_Algorithm-Some_Preliminary_Investigations_Hinton_2022.pdf)
 
 [Neural Networks and Deep Learning, Michael Nielsen, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NeuralNetworksAndDeepLearningNielsen.pdf)
