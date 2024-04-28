@@ -43,6 +43,8 @@
 
 [ImageNet Classification with Deep Convolutional Neural Networks, Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton, NIPS, 2012](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf)
 
+[Reducing the Dimensionality of Data with Neural Networks, G. Hinton, R. Salakhutdinov, 2006](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/ReducingTheDimensionalityOfDataWithNeuralNetsHinton2006.pdf)
+
 [Transforming Auto-encoders, G. Hinton, A. Krizhevsky, S.D. Wang, 2011](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TransformingAutoencodersHinton.pdf)
 
 [On the Importance of Initialization and Momentum in Deep Learning, Ilya Sutskever, James Martens, George Dahl, Geoffrey Hinton, 2013](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/OnTheImportanceOfInitializationAndMomentumInDeepLearningSutskever13.pdf)
