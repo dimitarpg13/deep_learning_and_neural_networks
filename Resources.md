@@ -170,7 +170,7 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Neural Networks and Principal Component Analysis: Learning from Examples Without Local Minima, Pierre Baldi, Kurt Hornik, 1988](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Neural_Networks_and_Principal_Component_Analysis-Learning_from_Examples_Without_Local_Minima_Baldi_Hornik-89.pdf)
 
-[Neural Networks: Unleashing the Power of Latent Space Compression, Julien Pascal, 2023](https://medium.com/@julien.pascal/neural-networks-unleashing-the-power-of-latent-space-compression-2c8630f6f6cc)
+[Neural Networks: Unleashing the Power of Latent Space Compression, Julien Pascal, Medium, 2023](https://medium.com/@julien.pascal/neural-networks-unleashing-the-power-of-latent-space-compression-2c8630f6f6cc)
 
 ## Attention
 
