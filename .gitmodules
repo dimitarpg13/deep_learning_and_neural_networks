@@ -1,3 +1,6 @@
 [submodule "examples/intro-to-deep-learning"]
 	path = examples/intro-to-deep-learning
 	url = https://github.com/dimitarpg13/intro-to-deep-learning.git
+[submodule "src/examples"]
+	path = src/examples
+	url = https://github.com/dimitarpg13/deep_learning_examples.git
