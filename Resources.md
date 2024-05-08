@@ -258,7 +258,7 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Graph neural networks in TensorFlow, Dustin Zelle, Distin Zelle, Feb 6, 2024, online blog](https://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html)
 
-## LSTM
+## Long Short Term Memory (LSTM)
 
 [xLSTM: Extended Long Short-Term Memory, Maximilian Beck et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/xLSTM-Extended_Long_Short-Term_Memory_Beck_2024.pdf)
 
