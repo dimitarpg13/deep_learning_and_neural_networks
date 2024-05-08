@@ -262,9 +262,15 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [xLSTM: Extended Long Short-Term Memory, Maximilian Beck et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/xLSTM-Extended_Long_Short-Term_Memory_Beck_2024.pdf)
 
+[Long Short Term Memory, Sepp Hochreiter, 1997](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/LongShortTermMemory.pdf)
+
 [LSTM Can Solve Hard Long Time Lag Problems, Sepp Hochreiter, Jurgen Schmidhuber NIPS, 1996](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NIPS-1996-lstm-can-solve-hard-long-time-lag-problems-Paper_Hochreiter.pdf)
 
 [Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations, E. Kiperwasser, Y. Goldberg,  2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Simple_and_Accurate_Dependency_Parsing_Using_Bidirectional_LSTM_Feature_Representations_Kiperwasser_2016.pdf)
+
+[Understanding LSTM: a Tutorial into Long Short Term Memory Recurrent Neural Networks, Ralf C. Staudemeyer et al, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TutorialOnLongShortTermMemory2019.pdf)
+
+[Understanding LSTM networks, Colah's blog, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/UnderstandingLSTMNetworks-colahsblog.pdf)
 
 ## Gated Recurrent Units (GRU)
 
