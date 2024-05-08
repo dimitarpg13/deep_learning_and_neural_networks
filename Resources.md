@@ -258,6 +258,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Graph neural networks in TensorFlow, Dustin Zelle, Distin Zelle, Feb 6, 2024, online blog](https://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html)
 
+## Gated Recurrent Units (GRU)
+
+[A Dynamic Regime-Switching Model Using Gated Recurrent Straight-Through Units, N. Antulov-Fantulin, A. Cauderan, Petter N. Kolm, NYU Courant Institute, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/gated_recurrent_unit/A_Dynamic_Regime-Switching_Model_Using_Gated_Recurrent_Straight-Through_Units_Fantoulin_Cauderas_Kolm_2024.pdf)
+
 ## Theorem Proving
 [NeurIPS Tutorial on Machine Learning for Theorem Proving, video](https://machine-learning-for-theorem-proving.github.io/)
 
