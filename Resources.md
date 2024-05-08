@@ -272,6 +272,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Understanding LSTM networks, Colah's blog, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/UnderstandingLSTMNetworks-colahsblog.pdf)
 
+[Fundamentals of RNN and LSTM Network, Alex Sherstinsky, MIT, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/FundamentalsOfRNNandLSTMNetwork.pdf)
+
 ## Gated Recurrent Units (GRU)
 
 [A Dynamic Regime-Switching Model Using Gated Recurrent Straight-Through Units, N. Antulov-Fantulin, A. Cauderan, Petter N. Kolm, NYU Courant Institute, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/gated_recurrent_unit/A_Dynamic_Regime-Switching_Model_Using_Gated_Recurrent_Straight-Through_Units_Fantoulin_Cauderas_Kolm_2024.pdf)
