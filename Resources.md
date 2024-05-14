@@ -164,6 +164,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Foundations of Machine Learning: Over-parameterization and Feature Learning, A. Radhakrishnan, PhD Thesis, MIT, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/radhakrishnan-aradha-phd-eecs-2023-thesis.pdf)
 
+## Double Descent
+
+[Understanding the Double Descent Phenomenon in DeepLearning, Marc Lafon, Alexandre Thomas, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Understanding_the_Double_Descent_Phenomenon_in_Deep_Learning_Lafon_2021.pdf)
+
 ## AutoEncoders
 
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
