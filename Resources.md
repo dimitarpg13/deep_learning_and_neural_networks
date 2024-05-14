@@ -168,6 +168,12 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Understanding the Double Descent Phenomenon in DeepLearning, Marc Lafon, Alexandre Thomas, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Understanding_the_Double_Descent_Phenomenon_in_Deep_Learning_Lafon_2021.pdf)
 
+[Reconciling modern machine learning practice and the bias-variance trade-of, Mikhail Belkin et al, The OSU, 2019 ](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2019.pdf)
+
+[Onthe Optimization of Deep Networks: Implicit Acceleration by Overparameterization, S. Arora et al, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/On_the_Optimization_of_Deep_Networks-Implicit_Acceleration_by_Overparameterization_Arora_2018.pdf)
+
+[Relational inductive biases, deep learning, and graph networks, Peter W Battaglia et al, DeepMind, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Relational_inductive_biases_deep_learning_and_graph_networks_Bataglia_2018.pdf)
+
 ## AutoEncoders
 
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
