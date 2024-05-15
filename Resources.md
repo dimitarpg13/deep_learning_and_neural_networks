@@ -480,6 +480,8 @@ combining PINNs with symbolic regression, Z. Zhang, et al, Brown U, 2023](https:
 
 [How to Run Machine Learning Hyperparameter Optimization in the Cloud (Part 3) with Chaim Rand](https://towardsdatascience.com/how-to-run-machine-learning-hyperparameter-optimization-in-the-cloud-part-3-f66dddbe1415)
 
+[Recreating PyTorch from Scratch (with GPU Support and Automatic Differentiation), Lucas de Lima Nogueira, 2024, Towards Data Science](https://towardsdatascience.com/recreating-pytorch-from-scratch-with-gpu-support-and-automatic-differentiation-8f565122a3cc)
+
 ## Yan LeCun's Deep Learning Course at Center for Data Science, NYU
 
 https://cds.nyu.edu/deep-learning/
