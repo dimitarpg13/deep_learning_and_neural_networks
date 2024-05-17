@@ -329,6 +329,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, V. Ekambaram et al, IBM, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/Tiny_Time_Mixers-Fast_Pre-trained_Models_or_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_2024.pdf)
 
+[N-BEATS — The First Interpretable Deep Learning Model That Worked for Time Series Forecasting, Jonte Dancker, 2024](https://towardsdatascience.com/n-beats-the-first-interpretable-deep-learning-model-that-worked-for-time-series-forecasting-06920daadac2)
+
+[N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, BN Oreshkin et al, Element AI, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/N-BEATS-Neural_basis_expansion_analysis_for_interpretable_time_series_forecasting_Oreshkin_ElementAI_2020.pdf)
+
 ## medium
 [The Math Behind the Adam Optimizer with Cristian Leo, 2024](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b)
 
