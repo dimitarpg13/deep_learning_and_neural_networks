@@ -155,6 +155,13 @@
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
 
+## Sequence to Sequence and RNNs
+
+[Recurrent Neural Networks Regularization, Wojciech Zaremba et al, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Recurrent_Neural_Networks_Regularization_Zaremba_2015.pdf)
+
+[Order Matters: Sequence to Squence for Sets, Oriol Vinyals et al, Google Brain, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Order_Matters_Sequence_to_Sequence_for_Sets_Vinyals_GoogleBrain_2016.pdf)
+
+[The Unreasonable Effectiveness of Recurrent Neural Networks, Andrej Karpathy's blog, 2015](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ## Feature Learning
 [Mechanism of feature learning in deep fully connected networks
