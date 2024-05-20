@@ -155,6 +155,10 @@
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
 
+## Deep Learning for image processing
+
+Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
+
 ## Sequence to Sequence and RNNs
 
 [Recurrent Neural Networks Regularization, Wojciech Zaremba et al, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Recurrent_Neural_Networks_Regularization_Zaremba_2015.pdf)
