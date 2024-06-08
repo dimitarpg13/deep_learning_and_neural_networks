@@ -338,6 +338,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [First Nuclear Plasma Control with Digital Twin, Sabine Hossenfelder, Feb 2024, youtube video](https://youtu.be/4VD_DLPQJBU)
 
+[Avoiding fusion plasma tearing instability with deep reinforcement learning, Jaemin Seo et al, Nature, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/Avoiding_fusion_plasma_tearing_instability_with_deep_reinforcement_learning_Seo_2024.pdf)
+
 ## Time Series Forecasting
 
 [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, V. Ekambaram et al, IBM, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/Tiny_Time_Mixers-Fast_Pre-trained_Models_or_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_2024.pdf)
