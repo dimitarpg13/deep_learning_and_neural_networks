@@ -348,6 +348,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [MLP-Mixer: An all-MLP Architecture for Vision, Ilya Tolstikhin et al, Google, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/MLP-Mixer-An_all-MLP_Architecture_for_Vision_Tolstikhin_Google_2021.pdf)
 
+[TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting, V. Ekambaram et al, IBM, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/TSMixer-Lightweight_MLP-Mixer_Model_for_Multivariate_Time_Series_Forecasting_Ekambaram_IBM_2023.pdf)
+
+[TSMixer: An All-MLP Architecture for Time Series Forecasting, SA Chen et al, Google, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/TSMixer-An_All-MLP_Architecture_for_Time_Series_Forecasting_Chen_Google_2023.pdf)
+
 [iTransformer: The Latest Breakthrough in Time Series Forecasting, Marco Peixeiro, Towards Data Science, April 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf)
 
 [Unified Training of Universal Time Series Forecasting Transformers, Woo, G et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/Unified_Training_of_Universal_Time_Series_Forecasting_Transformers_Woo_2024.pdf)
