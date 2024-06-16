@@ -354,6 +354,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [TSMixer: An All-MLP Architecture for Time Series Forecasting, SA Chen et al, Google, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/TSMixer-An_All-MLP_Architecture_for_Time_Series_Forecasting_Chen_Google_2023.pdf)
 
+[Predicting Venetian Lagoon Tide Levels with Multivariate Time Series Modeling, David Proietti, 2024](https://medium.com/@david.proietti_17/predicting-venetian-lagoon-tide-levels-with-multivariate-time-series-modeling-8bafdf229588)
+
 [iTransformer: The Latest Breakthrough in Time Series Forecasting, Marco Peixeiro, Towards Data Science, April 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf)
 
 [Unified Training of Universal Time Series Forecasting Transformers, Woo, G et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/Unified_Training_of_Universal_Time_Series_Forecasting_Transformers_Woo_2024.pdf)
@@ -363,6 +365,7 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 [N-BEATS — The First Interpretable Deep Learning Model That Worked for Time Series Forecasting, Jonte Dancker, 2024](https://towardsdatascience.com/n-beats-the-first-interpretable-deep-learning-model-that-worked-for-time-series-forecasting-06920daadac2)
 
 [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, BN Oreshkin et al, Element AI, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/N-BEATS-Neural_basis_expansion_analysis_for_interpretable_time_series_forecasting_Oreshkin_ElementAI_2020.pdf)
+
 
 ## medium
 [The Math Behind the Adam Optimizer with Cristian Leo, 2024](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b)
