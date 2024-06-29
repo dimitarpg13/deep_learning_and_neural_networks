@@ -362,6 +362,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Chronos: Learning the Language of Time Series, AF Ansari et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/Chronos-Learning_the_Language_of_Time_Series_Fatir_2024.pdf)
 
+[How to Effectively Forecast Time Series with Amazon's New Time Series Forecasting Model, Eivind Kjosbakken, April 9, 2024, Towards Data Science](https://towardsdatascience.com/how-to-effectively-forecast-time-series-with-amazons-new-time-series-forecasting-model-9e04d4ccf67e)
+
 [N-BEATS — The First Interpretable Deep Learning Model That Worked for Time Series Forecasting, Jonte Dancker, 2024](https://towardsdatascience.com/n-beats-the-first-interpretable-deep-learning-model-that-worked-for-time-series-forecasting-06920daadac2)
 
 [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, BN Oreshkin et al, Element AI, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/N-BEATS-Neural_basis_expansion_analysis_for_interpretable_time_series_forecasting_Oreshkin_ElementAI_2020.pdf)
