@@ -219,6 +219,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations, E. Kiperwasser, Y. Goldberg,  2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Simple_and_Accurate_Dependency_Parsing_Using_Bidirectional_LSTM_Feature_Representations_Kiperwasser_2016.pdf)
 
+[Contextual Position Encoding: Learning to Count What's Important, O. Golovneva et al, Meta, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/Contextual_Position_Encoding-Learning_to_Count_Whats_Important_Golovneva_Meta_2024.pdf)
+
 ## Embeddings
 
 [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
@@ -352,15 +354,20 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [TSMixer: An All-MLP Architecture for Time Series Forecasting, SA Chen et al, Google, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/TSMixer-An_All-MLP_Architecture_for_Time_Series_Forecasting_Chen_Google_2023.pdf)
 
+[Predicting Venetian Lagoon Tide Levels with Multivariate Time Series Modeling, David Proietti, 2024](https://medium.com/@david.proietti_17/predicting-venetian-lagoon-tide-levels-with-multivariate-time-series-modeling-8bafdf229588)
+
 [iTransformer: The Latest Breakthrough in Time Series Forecasting, Marco Peixeiro, Towards Data Science, April 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf)
 
 [Unified Training of Universal Time Series Forecasting Transformers, Woo, G et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/Unified_Training_of_Universal_Time_Series_Forecasting_Transformers_Woo_2024.pdf)
 
 [Chronos: Learning the Language of Time Series, AF Ansari et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/Chronos-Learning_the_Language_of_Time_Series_Fatir_2024.pdf)
 
+[How to Effectively Forecast Time Series with Amazon's New Time Series Forecasting Model, Eivind Kjosbakken, April 9, 2024, Towards Data Science](https://towardsdatascience.com/how-to-effectively-forecast-time-series-with-amazons-new-time-series-forecasting-model-9e04d4ccf67e)
+
 [N-BEATS — The First Interpretable Deep Learning Model That Worked for Time Series Forecasting, Jonte Dancker, 2024](https://towardsdatascience.com/n-beats-the-first-interpretable-deep-learning-model-that-worked-for-time-series-forecasting-06920daadac2)
 
 [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, BN Oreshkin et al, Element AI, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/N-BEATS-Neural_basis_expansion_analysis_for_interpretable_time_series_forecasting_Oreshkin_ElementAI_2020.pdf)
+
 
 ## medium
 [The Math Behind the Adam Optimizer with Cristian Leo, 2024](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b)
