@@ -101,6 +101,8 @@
 
 [Improving Generalization With Active Learning, David Cohn, Les Atlas, Richard Landner, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Cohn1994_ImprovingGeneralizationWithActiveLearning.pdf)
 
+[High-Dimensional Dynamics of Generalization Error in Neural Networks, M.S. Advani et al, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/High-dimensional_dynamics_of_generalization_error_in_neural_networks_Advani_2017.pdf)
+
 [Pruning Convolutional Neural Networks for Resource Efficient Inference, P. Molchanov, S. Tyree, T. Karras, T. Aila, J. Kautz, NVIDIA, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/PruningCNNForResourceEfficientInferenceMolchanov2017.pdf)
 
 [What is The State of Neural Network Pruning? D. Blalock, J. Ortiz, J. Frankle, J. Guttag, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatIsTheStateOfNeuralNetworkPruningBlalock2020.pdf)
