@@ -161,6 +161,8 @@
 
 related youtube presentation: [here](https://youtu.be/_y1tIdnB__Y?si=kZyy0ldXFUWTuqYx)
 
+[Exploring Adversarial Examples: Patterns of One-Pixel Attack, David Kügler et al, TU Darmstadt, 2019](https://ar5iv.labs.arxiv.org/html/1806.09410)
+
 ## Deep Learning for image processing
 
 Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
