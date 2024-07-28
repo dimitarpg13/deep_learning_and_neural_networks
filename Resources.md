@@ -157,6 +157,12 @@
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
 
+[One Pixel Attack for Fooling Deep Neural Networks, J. Su et al, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/One_Pixel_Attack_for_Fooling_Deep_Neural_Networks_Su_2019.pdf)
+
+related youtube presentation: [here](https://youtu.be/_y1tIdnB__Y?si=kZyy0ldXFUWTuqYx)
+
+[Exploring Adversarial Examples: Patterns of One-Pixel Attack, David Kügler et al, TU Darmstadt, 2019](https://ar5iv.labs.arxiv.org/html/1806.09410)
+
 ## Deep Learning for image processing
 
 Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
