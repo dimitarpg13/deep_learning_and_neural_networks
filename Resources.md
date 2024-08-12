@@ -376,6 +376,9 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, BN Oreshkin et al, Element AI, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/time_series_forecasting/N-BEATS-Neural_basis_expansion_analysis_for_interpretable_time_series_forecasting_Oreshkin_ElementAI_2020.pdf)
 
+## Visualization and Explainability
+
+[Visualizing Stochastic Regularization for Entity Embeddings, Valerie Carey, 2024, Medium](https://towardsdatascience.com/visualizing-stochastic-regularization-for-entity-embeddings-c0109ced4a3a)
 
 ## medium
 [The Math Behind the Adam Optimizer with Cristian Leo, 2024](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b)
