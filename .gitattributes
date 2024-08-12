@@ -79,3 +79,5 @@ literature/articles/High-dimensional_dynamics_of_generalization_error_in_neural_
 literature/articles/time_series_forecasting/Chronos-Learning_the_Language_of_Time_Series_Ansari_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/time_series_forecasting/How_to_Effectively_Forecast_Time_Series_with_Amazon_New_Time_Series_Forecasting_Model_by_Eivind_Kjosbakken_TowardsDataScience.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/One_Pixel_Attack_for_Fooling_Deep_Neural_Networks_Su_2019.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/double_descent/Relational_inductive_biases_deep_learning_and_graph_networks_Bataglia_2018.pdf filter=lfs diff=lfs merge=lfs -text
+
