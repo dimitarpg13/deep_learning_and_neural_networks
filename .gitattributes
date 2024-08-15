@@ -45,4 +45,6 @@ literature/lectures/CMU_GenAI_10-423_2024/lecture6-gans-ink.pdf filter=lfs diff=
 literature/lectures/CMU_GenAI_10-423_2024/lecture7-diffusion-ink.pdf filter=lfs diff=lfs merge=lfs -text
 literature/lectures/CMU_GenAI_10-423_2024/lecture8-diffusion-ink.pdf filter=lfs diff=lfs merge=lfs -text
 literature/lectures/CMU_GenAI_10-423_2024/lecture9-vae-ink.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/liquid_networks/Liquid_Time-constant_Networks_Hasani_2020.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/double_descent/Relational_inductive_biases_deep_learning_and_graph_networks_Bataglia_2018.pdf filter=lfs diff=lfs merge=lfs -text
 
