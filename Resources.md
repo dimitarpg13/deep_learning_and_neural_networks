@@ -311,6 +311,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [A Dynamic Regime-Switching Model Using Gated Recurrent Straight-Through Units, N. Antulov-Fantulin, A. Cauderan, Petter N. Kolm, NYU Courant Institute, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/gated_recurrent_unit/A_Dynamic_Regime-Switching_Model_Using_Gated_Recurrent_Straight-Through_Units_Fantoulin_Cauderas_Kolm_2024.pdf)
 
+## Liquid Time-constant Networks 
+
+[Liquid Time-constant Networks, R. Hasani et al, MIT, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/liquid_networks/Liquid_Time-constant_Networks_Hasani_2020.pdf)
+
 ## Theorem Proving
 [NeurIPS Tutorial on Machine Learning for Theorem Proving, video](https://machine-learning-for-theorem-proving.github.io/)
 
