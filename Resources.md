@@ -208,6 +208,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
 
+[Autoencoders: An Ultimate Guide for Data Scientists, Niklas Lang, Towards Data Science, 2024](https://towardsdatascience.com/autoencoders-an-ultimate-guide-for-data-scientists-dca3e56a070e)
+
 ## Attention
 
 [Bidirectional Recurrent Neural Networks, Mike Schuster, Kuldip Paliwal, IEEE Transactions on Signal Processing,1997](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Bidirectional_Recurrent_Neural_Networks_Schuster_Paliwal_1997.pdf)
