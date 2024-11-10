@@ -208,6 +208,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
 
+[Autoencoders: An Ultimate Guide for Data Scientists, Niklas Lang, Towards Data Science, 2024](https://towardsdatascience.com/autoencoders-an-ultimate-guide-for-data-scientists-dca3e56a070e)
+
 ## Attention
 
 [Bidirectional Recurrent Neural Networks, Mike Schuster, Kuldip Paliwal, IEEE Transactions on Signal Processing,1997](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Bidirectional_Recurrent_Neural_Networks_Schuster_Paliwal_1997.pdf)
@@ -231,6 +233,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 [Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations, E. Kiperwasser, Y. Goldberg,  2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Simple_and_Accurate_Dependency_Parsing_Using_Bidirectional_LSTM_Feature_Representations_Kiperwasser_2016.pdf)
 
 [Contextual Position Encoding: Learning to Count What's Important, O. Golovneva et al, Meta, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/Contextual_Position_Encoding-Learning_to_Count_Whats_Important_Golovneva_Meta_2024.pdf)
+
+[On The Relationship between Self-Attention and Convolutional Layers, JB Cordonnier et al, ICLR, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/On_the_Relationship_between_Self-Attention_and_Convolutional_Layers_Cordonnier_ICLR_2020.pdf)
 
 ## Embeddings
 
@@ -336,6 +340,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 [Neural Networks and Analog Computation beyond Turing limit, 1999](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/computability/NeuralNetworksandAnalogComputationBeyondTheTuringLimit.pdf)
 
 [Efficient Simulation of Finite Automata by Neural Nets, Noga Alon et al, JACM, Vol. 38, No. 2, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/computability/Efficient_simulations_of_finite_automata_by_neural_nets_Alon_1991.pdf)
+
+## Algorithmic Aspects and Parallelization of Neural Networks
+
+[Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks, Z. Jia et al, ICML, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/algorithmic_aspects/Exploring_the_hidden_dimension_in_accelerating_convolutional_neural_networks_Jia_ICML_2018.pdf)
 
 ## Vector Databases
 
