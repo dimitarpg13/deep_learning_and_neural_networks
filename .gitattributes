@@ -51,3 +51,4 @@ literature/articles/InferenceAndMachineLearningNotes_Deisenroth_ImperialCollege_
 literature/books/Huang-StatMechNeuralNet-Springer21.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/attention/On_the_Relationship_between_Self-Attention_and_Convolutional_Layers_Cordonnier_ICLR_2020.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/mccolloch.logical.calculus.ideas.1943.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Loss_Functions_and_Metrics_in_Deep_Learning_Terven_2024.pdf filter=lfs diff=lfs merge=lfs -text
