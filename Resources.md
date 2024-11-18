@@ -208,6 +208,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Relational inductive biases, deep learning, and graph networks, Peter W Battaglia et al, DeepMind, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Relational_inductive_biases_deep_learning_and_graph_networks_Bataglia_2018.pdf)
 
+## Deconstructing Deep Neural Networks
+
+[The Geometry of Concepts: Sparse Autoencoder Feature Structure, Y. Li et al (Max Tegmark's group at MIT), 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/The_Geometry_of_Concepts_Sparse_Autoencoder_Feature_Structure_Li_2024.pdf)
+
 ## AutoEncoders
 
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
