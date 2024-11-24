@@ -160,6 +160,8 @@
 
 [Lie Group Decompositions for Equivariant Neural Networks, Mircea Mironenco, Patrick Forre, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Lie_Group_Decompositions_for_Equivariant_Neural_Networks_Mironenco_2023.pdf)
 
+[The Unreasonable Ineffectiveness of the Deeper Layers, A. Gromov et al, Meta FAIR, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/The_Unreasonable_Ineffectiveness_of_the_Deeper_Layers_Gromov_2024.pdf)
+
 [Why Do We Need Weight Decay in Modern Deep Learning? Francesco D’Angelo et al, EPFL Lausanne, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Why_Do_We_Need_Weight_Decay_in_Modern_Deep_Learning_DAngello_2024.pdf)
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic, D. Goldberg, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/WhatEveryScientistShouldKnowAboutFloatingPointNumbersGoldberg1991.pdf)
