@@ -57,3 +57,4 @@ literature/articles/Why_Do_We_Need_Weight_Decay_in_Modern_Deep_Learning_DAngello
 literature/articles/The_Geometry_of_Concepts_Sparse_Autoencoder_Feature_Structure_Li_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/The_Unreasonable_Ineffectiveness_of_the_Deeper_Layers_Gromov_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/compression/Learning_to_Compress-Local_Rank_and_Information_Compression_in_Deep_Neural_Networks_Patel_Ziv_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Theory_of_Deep_Learning_Sanjeev_Arora.pdf filter=lfs diff=lfs merge=lfs -text
