@@ -190,6 +190,8 @@ Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_
 
 [Loss Functions and Metrics in Deep Learning, Juan Terven et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Loss_Functions_and_Metrics_in_Deep_Learning_Terven_2024.pdf)
 
+[softmax is not enough (for sharp out-of-distribution), Peter Velickovic et al, DeepMind, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/activation/softmax_is_not_enough_for_sharp_out-of-distribution_Velickovic_2024.pdf)
+
 ## Optimization Problems and Algorithms
 
 [Optimization for Deep Learning: Theory and Algorithms, Ruoyu Sun, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Optimization_for_deep_learning-theory_and_algorithms_Sun_2019.pdf)
