@@ -232,6 +232,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Grokking, a New Form of Reasoning, Ignacio de Gregorio, Medium, 2024](https://medium.com/@ignacio.de.gregorio.noblejas/grokking-a-new-form-of-reasoning-6785ea89d2ec)
 
+[Grokking: A Deep Dive into Delayed Generalization in Neural Networks, Kirouane Ayoub, Medium, 2024](https://medium.com/@ayoubkirouane3/grokking-a-deep-dive-into-delayed-generalization-in-neural-networks-e117fdef07a1)
+
 ## AutoEncoders
 
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
