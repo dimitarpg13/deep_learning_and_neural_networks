@@ -226,7 +226,11 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [The Complexity Dynamics of Grokking, Branton DeMoss, Silvia Sapora, Jakob Foerster, Nick Hawes, Ingmar Posner, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/The_Complexity_Dynamics_of_Grokking_DeMoss_2024.pdf)
 
+[Towards Understanding Grokking: An Effective Theory of Representation Learning, Ziming Liu, Ouail Kitouni, Niklas Nolte, Eric J. Michaud, Max Tegmark, Mike Williams, MIT, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/Towards_Understanding_Grokking-An_Effective_Theory_of_Representation_Learning_Liu_MIT_2022.pdf)
+
 [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets, Alethea Power, Yuri Burda, Harri Edwards, Igor Babuschkin, Vedant Misra, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/Grokking-Generalization_Beyond_Overfitting_on_Small_Algorithmic_Datasets_Power_2022.pdf)
+
+[Grokking, a New Form of Reasoning, Ignacio de Gregorio, Medium, 2024](https://medium.com/@ignacio.de.gregorio.noblejas/grokking-a-new-form-of-reasoning-6785ea89d2ec)
 
 ## AutoEncoders
 
