@@ -65,3 +65,4 @@ literature/articles/grokking/The_Complexity_ filter=lfs diff=lfs merge=lfs -text
 Dynamics_of_Grokking_DeMoss_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/grokking/The_Complexity_Dynamics_of_Grokking_DeMoss_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/grokking/Grokking-Generalization_Beyond_Overfitting_on_Small_Algorithmic_Datasets_Power_2022.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/grokking/Towards_Understanding_Grokking-An_Effective_Theory_of_Representation_Learning_Liu_MIT_2022.pdf filter=lfs diff=lfs merge=lfs -text
