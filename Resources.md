@@ -360,6 +360,42 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Liquid Time-constant Networks, R. Hasani et al, MIT, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/liquid_networks/Liquid_Time-constant_Networks_Hasani_2020.pdf)
 
+## Statistical Mechanics of Learning
+
+[Towards a new Theory of Learning: Statistical Mechanics of Deep Neural Networks, 2019, Charles H Martin](https://calculatedcontent.com/2019/12/03/towards-a-new-theory-of-learning-statistical-mechanics-of-deep-neural-networks/)
+
+[Why does Deep Learning work?, Charles H Martin, 2015](https://calculatedcontent.com/2015/03/25/why-does-deep-learning-work/)
+
+[Qualitatively Characterizing Neural Network Optimization Problems, Ian Goodfellow et al, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/Qualitatively_Characterizing_Neural_Network_Optimization_Problems_Goodfellow_2015.pdf)
+
+[The Loss Surfaces of Multilayer Networks, A. Choromanska et al, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/The_Loss_Surfaces_of_Multilayer_Networks_Choromanska_2015.pdf)
+
+[A Common Logic to Seeing Cats and Cosmos, Quanta Magazine, Natalie Wolchover, 2014](https://www.quantamagazine.org/a-common-logic-to-seeing-cats-and-cosmos-20141204/)
+
+[Mimicking The Folding Pathway to Improve Homology-Free Protein Structure Prediction, J. DeBartolo, 2008](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/debartolo-et-al-2009-mimicking-the-folding-pathway-to-improve-homology-free-protein-structure-prediction.pdf)
+
+[Funnels in Energy Landscapes, K. Klemm et al, 2007](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/Funnels_in_Energy_Landscapes_Klemm_2007.pdf)
+
+[Understanding Protein Folding with Energy Landscape Theory, K. Plotkin, JN Onuchic, 2002](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/Understanding_protein_folding_with_energy_landscape_theory_PlotkinOnuchic_part1.pdf)
+
+[Landscape Statistics of low autocorrelated binary string problem, F. Ferreira et al, 2000](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/Landscape_statistics_of_the_low_autocorrelated_binary_string_problem_Ferreira_2000.pdf)
+
+[Energy Landscapes, Supergraphs, and "Folding Funnels" in Spin Systems, Piotr Garstecki et al, 1999](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/Energy_Landscapes_Supergraphs_and_Folding_Funnels_in_Spin_Systems_Garstecki_1999.pdf)
+
+[From Levinthal to pathways to funnels, K. Dill, HS Chan, 1997](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/From_Levintal_to_pathways_to_funnels_Dill_1997.pdf)
+
+[Statistical Mechanics of Learning from Examples, HS Seung, H. Sompolinsky, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/Statistical_mechanics_of_learning_from_examples_1992-seung-somplinsky.pdf)
+
+[Spin Glasses and the Statistical Mechanics of Protein Folding, JD Bryngelson, PG Wolynes, 1987](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/bryngelson-wolynes-1987-spin-glasses-and-the-statistical-mechanics-of-protein-folding.pdf)
+
+## Generalization in Deep Learning
+
+[Rethinking– or Remembering–Generalization in Neural Networks, Charles H Martin, 2018](https://calculatedcontent.com/2018/04/01/rethinking-or-remembering-generalization-in-neural-networks/)
+
+[Understanding deep learning requires rethinking generalization, Chiyuan Zhang et al, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Understanding_deep_learning_requires_rethinking_generalization_Zhang_2018.pdf)
+
+[Measuring VC Dimension of Learning Machine, Vladimir Vapnik et al, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Measuring_VC_dimension_of_learning_machine_vapnik-levin-lecun-94.pdf)
+
 ## Equivalence theorems
 
 [The Mathematical Equivalence between Decision Trees and Artificial Neural Networks, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/equivalence_theorems/Mathemaical_Equivalence_between_DecisionTrees_and_ANN_Allonco_2024.pdf)
