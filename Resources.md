@@ -366,6 +366,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Towards a new Theory of Learning: Statistical Mechanics of Deep Neural Networks, 2019, Charles H Martin](https://calculatedcontent.com/2019/12/03/towards-a-new-theory-of-learning-statistical-mechanics-of-deep-neural-networks/)
 
+[Visualizing the Loss Landscape of Neural Nets, H. Li et al, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/Visualizing_the_Loss_Landscape_of_Neural_Nets_Li_2018.pdf)
+
 [Why does Deep Learning work?, Charles H Martin, 2015](https://calculatedcontent.com/2015/03/25/why-does-deep-learning-work/)
 
 [Qualitatively Characterizing Neural Network Optimization Problems, Ian Goodfellow et al, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/Qualitatively_Characterizing_Neural_Network_Optimization_Problems_Goodfellow_2015.pdf)
