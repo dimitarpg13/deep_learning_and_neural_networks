@@ -360,6 +360,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Liquid Time-constant Networks, R. Hasani et al, MIT, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/liquid_networks/Liquid_Time-constant_Networks_Hasani_2020.pdf)
 
+## Equivalence theorems
+
+[The Mathematical Equivalence between Decision Trees and Artificial Neural Networks, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/equivalence_theorems/Mathemaical_Equivalence_between_DecisionTrees_and_ANN_Allonco_2024.pdf)
+
 ## Theorem Proving
 [NeurIPS Tutorial on Machine Learning for Theorem Proving, video](https://machine-learning-for-theorem-proving.github.io/)
 
