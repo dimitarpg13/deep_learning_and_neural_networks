@@ -66,3 +66,8 @@ Dynamics_of_Grokking_DeMoss_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/grokking/The_Complexity_Dynamics_of_Grokking_DeMoss_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/grokking/Grokking-Generalization_Beyond_Overfitting_on_Small_Algorithmic_Datasets_Power_2022.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/grokking/Towards_Understanding_Grokking-An_Effective_Theory_of_Representation_Learning_Liu_MIT_2022.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/statistical_mechanics_of_DL/Statistical_mechanics_of_learning_from_examples_1992-seung-somplinsky.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/statistical_mechanics_of_DL/From_Levintal_to_pathways_to_funnels_Dill_1997.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/statistical_mechanics_of_DL/Understanding_protein_folding_with_energy_landscape_theory_PlotkinOnuchic_part1.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/statistical_mechanics_of_DL/Landscape_statistics_of_the_low_autocorrelated_binary_string_problem_Ferreira_2000.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/statistical_mechanics_of_DL/bryngelson-wolynes-1987-spin-glasses-and-the-statistical-mechanics-of-protein-folding.pdf filter=lfs diff=lfs merge=lfs -text
