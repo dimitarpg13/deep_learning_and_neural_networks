@@ -362,6 +362,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 ## Statistical Mechanics of Learning
 
+[Statistical Mechanics of Deep Learning Neural Networks - The Back-Propagating Kernel Renormalization, Q. Li, H. Sompolonsky, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/Statistical_Mechanics_of_Deep_Linear_Neural_Networks-The_Back-Propagating_Kernel_Renormalization_Li_Sompolinsky_2021.pdf)
+
 [Towards a new Theory of Learning: Statistical Mechanics of Deep Neural Networks, 2019, Charles H Martin](https://calculatedcontent.com/2019/12/03/towards-a-new-theory-of-learning-statistical-mechanics-of-deep-neural-networks/)
 
 [Why does Deep Learning work?, Charles H Martin, 2015](https://calculatedcontent.com/2015/03/25/why-does-deep-learning-work/)
