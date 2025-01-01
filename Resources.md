@@ -352,6 +352,14 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Fundamentals of RNN and LSTM Network, Alex Sherstinsky, MIT, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/FundamentalsOfRNNandLSTMNetwork.pdf)
 
+## Representation Learning
+
+[The Platonic Representation Hypothesis, M. Huh et al, MIT, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/representation_learning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf)
+
+[Occam's Razor for Self-Supervised Learning: What Is Sufficient to Learn Good Representation?, M. Ibrahim et al, FAIR Meta, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/representation_learning/Occams_Razor_for_Self-Supervised_Learning-What_is_Sufficient_to_Learn_Good_Representations_Ibrahim_2024.pdf)
+
+[Cross-Entropy is All You Need To Invert The Data Generating Process, P. Reizinger et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/representation_learning/Cross-Entropy_is_All_You_Need_to_Invert_the_Data_Generating_Process_Reizinger_2024.pdf)
+
 ## Gated Recurrent Units (GRU)
 
 [A Dynamic Regime-Switching Model Using Gated Recurrent Straight-Through Units, N. Antulov-Fantulin, A. Cauderan, Petter N. Kolm, NYU Courant Institute, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/gated_recurrent_unit/A_Dynamic_Regime-Switching_Model_Using_Gated_Recurrent_Straight-Through_Units_Fantoulin_Cauderas_Kolm_2024.pdf)
