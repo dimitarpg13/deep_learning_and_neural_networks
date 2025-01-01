@@ -73,3 +73,5 @@ literature/articles/statistical_mechanics_of_DL/Landscape_statistics_of_the_low_
 literature/articles/statistical_mechanics_of_DL/bryngelson-wolynes-1987-spin-glasses-and-the-statistical-mechanics-of-protein-folding.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/statistical_mechanics_of_DL/Statistical_Mechanics_of_Deep_Linear_Neural_Networks-The_Back-Propagating_Kernel_Renormalization_Li_Sompolinsky_2021.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/statistical_mechanics_of_DL/Visualizing_the_Loss_Landscape_of_Neural_Nets_Li_2018.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/representation_learning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/representation_learning/Occams_Razor_for_Self-Supervised_Learning-What_is_Sufficient_to_Learn_Good_Representations_Ibrahim_2024.pdf filter=lfs diff=lfs merge=lfs -text
