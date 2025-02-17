@@ -451,6 +451,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Magnetic Control of Tokamak Plasmas through Deep Reinforcement Learning, Jonas Degrave, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/Magnetic_control_of_tokamak_plasmas_through_deep_reinforcement_learning_Degrave_DeepMind_2019.pdf)
 
+[First application of data assimilation-based control to fusion plasma, Yuya Morishita et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/First_application_of_data_assimilation_based_control_to_fusion_plasma_Morishita_2024.pdf)
+
 [First Nuclear Plasma Control with Digital Twin, Sabine Hossenfelder, Feb 2024, youtube video](https://youtu.be/4VD_DLPQJBU)
 
 [Avoiding fusion plasma tearing instability with deep reinforcement learning, Jaemin Seo et al, Nature, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/Avoiding_fusion_plasma_tearing_instability_with_deep_reinforcement_learning_Seo_2024.pdf)
