@@ -110,3 +110,5 @@ literature/articles/state_space_models/Combining_Recurrent_Convolutional_and_Con
 literature/articles/radhakrishnan-aradha-phd-eecs-2023-thesis.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/plasma_control/Predicting_disruptive_instabilities_in_controlled_fusion_plasmas_through_deep_learning_Kates-Harbeck_Harvard_2019.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/plasma_control/Magnetic_control_of_tokamak_plasmas_through_deep_reinforcement_learning_Degrave_DeepMind_2019.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/time_series_forecasting/Chronos-Learning_the_Language_of_Time_Series_Ansari_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/time_series_forecasting/Unified_Training_of_Universal_Time_Series_Forecasting_Transformers_Woo_2024.pdf filter=lfs diff=lfs merge=lfs -text
