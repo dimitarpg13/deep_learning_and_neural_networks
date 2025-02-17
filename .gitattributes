@@ -156,3 +156,4 @@ literature/articles/intro_diapos.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/lecun-ranzato-icml2013.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/plasma_control/Avoiding_fusion_plasma_tearing_instability_with_deep_reinforcement_learning_Seo_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/plasma_control/First_application_of_data_assimilation_based_control_to_fusion_plasma_Morishita_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Mathematical_theory_of_deep_learning_Petersen_2024.pdf filter=lfs diff=lfs merge=lfs -text
