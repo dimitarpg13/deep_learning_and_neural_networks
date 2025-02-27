@@ -414,6 +414,24 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Measuring VC Dimension of Learning Machine, Vladimir Vapnik et al, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Measuring_VC_dimension_of_learning_machine_vapnik-levin-lecun-94.pdf)
 
+## Imitation Learning
+
+[X-IL: Exploring the Design Space of Imitation Learning Policies, X. Jia et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/X-IL-Exploring_the_Design_Space_of_Imitation_Learning_Policies_Jia_2025.pdf)
+
+[Visual Imitation Made Easy, Sarah Young et al, Berkeley, CMU, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/Visual_Imitation_Made_Easy_Young_2021.pdf)
+
+[A Survey of Robot Learning from Demonstration, BD Argall et al, CMU, 2009](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/A_survey_of_robot_learning_from_demonstration_Argail_2009.pdf)
+
+[An Algorithmic Perspective on Imitation Learning, T. Osa et al, U of Tokyo, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/An_Algorithmic_Perspective_on_Imitation_Learning_Osa_2018.pdf)
+
+[Behavioral Cloning from Observation, F. Torabi et al, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/Behavioral_Cloning_from_Observation_Torabi_2018.pdf)
+
+[Learning Latent Plans from Play, C. Lynch et al, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/Learning_Latent_Plans_from_Play_Lynch_2019.pdf)
+
+[Learning from Demonstration, Stefan Schaal, 1996](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/NIPS-1996-learning-from-demonstration-Paper.pdf)
+
+[Alvinn: An Autonomous Land Vehicle in a Neural Network, DA Pomerleau, NIPS, 1988](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/NIPS-1988-alvinn-an-autonomous-land-vehicle-in-a-neural-network-Paper.pdf)
+
 ## Equivalence theorems
 
 [The Mathematical Equivalence between Decision Trees and Artificial Neural Networks, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/equivalence_theorems/Mathemaical_Equivalence_between_DecisionTrees_and_ANN_Allonco_2024.pdf)
