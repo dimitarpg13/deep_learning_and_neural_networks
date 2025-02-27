@@ -278,6 +278,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [On The Relationship between Self-Attention and Convolutional Layers, JB Cordonnier et al, ICLR, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/On_the_Relationship_between_Self-Attention_and_Convolutional_Layers_Cordonnier_ICLR_2020.pdf)
 
+[The FFTStrikes Back: An Efficient Alternative to Self-Attention, Jacob Fein-Ashley, U of SoCal, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/The_FFT_Strikes_Back-An_Efficient_Alternative_to_Self-Attention_Fein-Ashley_2025.pdf)
+
 ## Embeddings
 
 [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
