@@ -41,6 +41,8 @@
 
 [Statistical Mechanics of Neural Networks, H. Huang, Springer, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Huang-StatMechNeuralNet-Springer21.pdf)
 
+[Probabilistic Artificial Intelligence, Andreas Krause, Jonas Hübotter, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Probabilistic_Artificial_Intelligence_Krause_Huebotter_2025.pdf)
+
 ## Articles and tutorials
 [A Logical Calculus of the Ideas Immanent in Nervous Activity, WS McCulloch, Walter Pitts, 1943](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mccolloch.logical.calculus.ideas.1943.pdf)
 
