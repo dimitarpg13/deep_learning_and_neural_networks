@@ -48,6 +48,8 @@
 ## Articles and tutorials
 [A Logical Calculus of the Ideas Immanent in Nervous Activity, WS McCulloch, Walter Pitts, 1943](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mccolloch.logical.calculus.ideas.1943.pdf)
 
+[On The Convergence Proofs for Perceptrons, Albert BJ Novikoff, Office of Naval Research, 1963](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/On_Convergence_Proofs_for_Perceptrons_Novikoff_1963.pdf)
+
 [Learning Representations by Back-propagating Errors, D. Rumelhart, G. Hinton, R. Williams,Nature, 1986](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_representations_by_backpropagating_errors_Rummelhart_Hinton_Williams_1986.pdf)
 
 [Multilayer Feedforward Networks are Universal Approximators, Kurt Hornik, Maxwell Stinchcombe, Halber White, 1989](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/MultilayerFeedforwardNetworksAreUniversalApproximatorsHornik89.pdf)
