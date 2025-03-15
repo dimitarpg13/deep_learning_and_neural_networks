@@ -4,6 +4,8 @@
 
 [Perceptrons: An Introduction to Computational Geometry, M. Minsky, S. Pappert, 1969, Expanded Edition, 3rd printing 1988](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Minsky-and-Papert-Perceptrons-1969.pdf)
 
+[Foundations of Machine Learning, Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar, 2012](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Foundations_of_Machine_Learning_Mohri_2012.pdf)
+
 [The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks, Daniel A. Roberts, Sho Yaida, Boris Hanin, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf)
 
 [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory, Arnulf Jentzen, Benno Kuckuck, Phillipe von Wurstemberger, University of Muenster, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Mathematical_Introduction_to_Deep_Learning-Methods_Implementations_and_Theory_Jentzen_2023.pdf)
