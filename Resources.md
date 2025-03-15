@@ -52,6 +52,8 @@
 
 [Learning Representations by Back-propagating Errors, D. Rumelhart, G. Hinton, R. Williams,Nature, 1986](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_representations_by_backpropagating_errors_Rummelhart_Hinton_Williams_1986.pdf)
 
+[Perceptrons: An Introduction to Computational Geometry, M. Minsky, S. Pappert, 1969, Expanded Edition, 3rd printing 1988](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Minsky-and-Papert-Perceptrons-1969.pdf)
+
 [Multilayer Feedforward Networks are Universal Approximators, Kurt Hornik, Maxwell Stinchcombe, Halber White, 1989](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/MultilayerFeedforwardNetworksAreUniversalApproximatorsHornik89.pdf)
 
 [Multilayer Feedforward Networks With a Nonpolynomial Activation Function Can Approximate Any Function, M. Leshno, V. Y. Lin, A. Pinkus, S. Schocken, 1993](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/MultilayerFeedforwardNetworksWithNonpolynomialActivationFunctionCanApproximateAnyFunctionLeshno1993.pdf)
