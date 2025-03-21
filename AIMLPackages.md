@@ -1,4 +1,4 @@
-# Neural Network Packages
+# AI/ML Packages
 
 ## NN-SVG
 
