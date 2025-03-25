@@ -310,6 +310,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Word Embeddings - A Survey, Felipe Almeida, Geraldo Xexeo, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Word_Embeddings-A_Survey_Almeida_2023.pdf)
 
+## LLM insights
+
+[Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skean et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/llm_insights/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
+
 ## Self-organizing maps
 
 [The Self-Organizing Map, Kohonen, IEEE, 1998](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TheSelfOrganizing_map_Kohonen_IEEE_1998.pdf)
