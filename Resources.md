@@ -250,6 +250,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [How to explain grokking, S.V. Kozyrev, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/How_to_explain_grokking_Kozyrev_2025.pdf)
 
+## Emergence phenomena
+
+[Intuitive physics understanding emerges from self-supervised pretraining on natural videos, Q. Garrido et al, Meta FAIR, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/emergence/Intuitive_physics_understanding_emerges_from_self-supervised_pretraining_on_natural_videos_Garrido_2025.pdf)
+
 ## AutoEncoders
 
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
