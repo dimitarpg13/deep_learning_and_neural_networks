@@ -2,9 +2,15 @@
 
 ## Books
 
+[Perceptrons: An Introduction to Computational Geometry, M. Minsky, S. Pappert, 1969, Expanded Edition, 3rd printing 1988](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Minsky-and-Papert-Perceptrons-1969.pdf)
+
+[Foundations of Machine Learning, Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar, 2012](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Foundations_of_Machine_Learning_Mohri_2012.pdf)
+
 [The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks, Daniel A. Roberts, Sho Yaida, Boris Hanin, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf)
 
 [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory, Arnulf Jentzen, Benno Kuckuck, Phillipe von Wurstemberger, University of Muenster, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Mathematical_Introduction_to_Deep_Learning-Methods_Implementations_and_Theory_Jentzen_2023.pdf)
+
+[Mathematical Theory of Deep Learning, Philipp Petersen, Jakob Zech, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Mathematical_theory_of_deep_learning_Petersen_2024.pdf)
 
 [The Theory of Deep Learning, Sanjeev Arora, Princeton U., 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Theory_of_Deep_Learning_Sanjeev_Arora.pdf)
 
@@ -39,14 +45,22 @@
 
 [Statistical Mechanics of Neural Networks, H. Huang, Springer, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Huang-StatMechNeuralNet-Springer21.pdf)
 
+[Probabilistic Artificial Intelligence, Andreas Krause, Jonas Hübotter, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Probabilistic_Artificial_Intelligence_Krause_Huebotter_2025.pdf)
+
 ## Articles and tutorials
 [A Logical Calculus of the Ideas Immanent in Nervous Activity, WS McCulloch, Walter Pitts, 1943](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mccolloch.logical.calculus.ideas.1943.pdf)
 
+[On The Convergence Proofs for Perceptrons, Albert BJ Novikoff, Office of Naval Research, 1963](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/On_Convergence_Proofs_for_Perceptrons_Novikoff_1963.pdf)
+
 [Learning Representations by Back-propagating Errors, D. Rumelhart, G. Hinton, R. Williams,Nature, 1986](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Learning_representations_by_backpropagating_errors_Rummelhart_Hinton_Williams_1986.pdf)
+
+[Perceptrons: An Introduction to Computational Geometry, M. Minsky, S. Pappert, 1969, Expanded Edition, 3rd printing 1988](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Minsky-and-Papert-Perceptrons-1969.pdf)
 
 [Multilayer Feedforward Networks are Universal Approximators, Kurt Hornik, Maxwell Stinchcombe, Halber White, 1989](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/MultilayerFeedforwardNetworksAreUniversalApproximatorsHornik89.pdf)
 
 [Multilayer Feedforward Networks With a Nonpolynomial Activation Function Can Approximate Any Function, M. Leshno, V. Y. Lin, A. Pinkus, S. Schocken, 1993](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/MultilayerFeedforwardNetworksWithNonpolynomialActivationFunctionCanApproximateAnyFunctionLeshno1993.pdf)
+
+[Large Margin Classification Using the Perceptron Algorithm, Yoav Freund, Robert S. Schapire, 1999](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Large_Margin_Classification_Using_the_Perceptron_Algorithm_Freund_Schapire_1999.pdf)
 
 [ImageNet Classification with Deep Convolutional Neural Networks, Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton, NIPS, 2012](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf)
 
@@ -234,6 +248,12 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Grokking: A Deep Dive into Delayed Generalization in Neural Networks, Kirouane Ayoub, Medium, 2024](https://medium.com/@ayoubkirouane3/grokking-a-deep-dive-into-delayed-generalization-in-neural-networks-e117fdef07a1)
 
+[How to explain grokking, S.V. Kozyrev, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/How_to_explain_grokking_Kozyrev_2025.pdf)
+
+## Emergence phenomena
+
+[Intuitive physics understanding emerges from self-supervised pretraining on natural videos, Q. Garrido et al, Meta FAIR, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/emergence/Intuitive_physics_understanding_emerges_from_self-supervised_pretraining_on_natural_videos_Garrido_2025.pdf)
+
 ## AutoEncoders
 
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
@@ -274,6 +294,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [On The Relationship between Self-Attention and Convolutional Layers, JB Cordonnier et al, ICLR, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/On_the_Relationship_between_Self-Attention_and_Convolutional_Layers_Cordonnier_ICLR_2020.pdf)
 
+[Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation, Srinadh Bhojanapalli et al, Google Research, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/Eigen_Analysis_of_Self-Attention_and_its_Reconstruction_from_Partial_Computation_Bhojanapali_2021.pdf)
+
+[The FFTStrikes Back: An Efficient Alternative to Self-Attention, Jacob Fein-Ashley, U of SoCal, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/The_FFT_Strikes_Back-An_Efficient_Alternative_to_Self-Attention_Fein-Ashley_2025.pdf)
+
 ## Embeddings
 
 [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
@@ -289,6 +313,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 [Word Embeddings What Works, What Doesn't And How To Tell The Difference For Applied Research, A. Spirling, P. Rodriguez, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Word_Embeddings_Spirling_Rogriguez_2019.pdf)
 
 [Word Embeddings - A Survey, Felipe Almeida, Geraldo Xexeo, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Word_Embeddings-A_Survey_Almeida_2023.pdf)
+
+## LLM insights
+
+[Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skean et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/llm_insights/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
 
 ## Self-organizing maps
 
@@ -408,6 +436,24 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Measuring VC Dimension of Learning Machine, Vladimir Vapnik et al, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Measuring_VC_dimension_of_learning_machine_vapnik-levin-lecun-94.pdf)
 
+## Imitation Learning
+
+[X-IL: Exploring the Design Space of Imitation Learning Policies, X. Jia et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/X-IL-Exploring_the_Design_Space_of_Imitation_Learning_Policies_Jia_2025.pdf)
+
+[Visual Imitation Made Easy, Sarah Young et al, Berkeley, CMU, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/Visual_Imitation_Made_Easy_Young_2021.pdf)
+
+[A Survey of Robot Learning from Demonstration, BD Argall et al, CMU, 2009](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/A_survey_of_robot_learning_from_demonstration_Argail_2009.pdf)
+
+[An Algorithmic Perspective on Imitation Learning, T. Osa et al, U of Tokyo, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/An_Algorithmic_Perspective_on_Imitation_Learning_Osa_2018.pdf)
+
+[Behavioral Cloning from Observation, F. Torabi et al, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/Behavioral_Cloning_from_Observation_Torabi_2018.pdf)
+
+[Learning Latent Plans from Play, C. Lynch et al, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/Learning_Latent_Plans_from_Play_Lynch_2019.pdf)
+
+[Learning from Demonstration, Stefan Schaal, 1996](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/NIPS-1996-learning-from-demonstration-Paper.pdf)
+
+[Alvinn: An Autonomous Land Vehicle in a Neural Network, DA Pomerleau, NIPS, 1988](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/NIPS-1988-alvinn-an-autonomous-land-vehicle-in-a-neural-network-Paper.pdf)
+
 ## Equivalence theorems
 
 [The Mathematical Equivalence between Decision Trees and Artificial Neural Networks, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/equivalence_theorems/Mathemaical_Equivalence_between_DecisionTrees_and_ANN_Allonco_2024.pdf)
@@ -450,6 +496,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 [Predicting disruptive instabilities in controlled fusion plasmas through deep learning, Julian Kates-Harbeck et al, Harvard U, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/Predicting_disruptive_instabilities_in_controlled_fusion_plasmas_through_deep_learning_Kates-Harbeck_Harvard_2019.pdf)
 
 [Magnetic Control of Tokamak Plasmas through Deep Reinforcement Learning, Jonas Degrave, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/Magnetic_control_of_tokamak_plasmas_through_deep_reinforcement_learning_Degrave_DeepMind_2019.pdf)
+
+[First application of data assimilation-based control to fusion plasma, Yuya Morishita et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/First_application_of_data_assimilation_based_control_to_fusion_plasma_Morishita_2024.pdf)
 
 [First Nuclear Plasma Control with Digital Twin, Sabine Hossenfelder, Feb 2024, youtube video](https://youtu.be/4VD_DLPQJBU)
 
