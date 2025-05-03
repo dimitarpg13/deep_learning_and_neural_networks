@@ -208,7 +208,7 @@ Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_
 
 ## Neural Network Optimizers, Optimization Problems and Algorithms
 
-[Optimization for Deep Learning: Theory and Algorithms, Ruoyu Sun, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Optimization_for_deep_learning-theory_and_algorithms_Sun_2019.pdf)
+[An overview of gradient descent optimization algorithms, S. Ruder, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/optimizers/An_overview_of_gradient_descent_optimization_algorithms_Ruder_2017.pdf)
 
 [Variational Stochastic Gradient Descent for Deep Neural Networks, Haotian Chen et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/optimizers/Variational_Stochastic_Gradient_Descent_for_Deep_Neural_Networks_Chen_2025.pdf)
 
@@ -217,6 +217,9 @@ Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_
 [Adam - A Method for Stochastic Optimization, D. Kingma et al, OpenAI, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/optimizers/Adam-A_Method_for_Stochastic_Optimization_Kingma_OpenAI_2017.pdf)
 
 [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization, John Duchi et al, UC Berkeley, 2011](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/optimizers/Adaptive_Subgradient_Methods_for_Online_Learning_and_Stochastic_Optimization_Duchi_2011.pdf)
+
+[Optimization for Deep Learning: Theory and Algorithms, Ruoyu Sun, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Optimization_for_deep_learning-theory_and_algorithms_Sun_2019.pdf)
+
 
 ## Feature Learning
 [Mechanism of feature learning in deep fully connected networks
