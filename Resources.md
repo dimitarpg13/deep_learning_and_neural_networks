@@ -212,6 +212,8 @@ Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_
 
 [Variational Stochastic Gradient Descent for Deep Neural Networks, Haotian Chen et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/optimizers/Variational_Stochastic_Gradient_Descent_for_Deep_Neural_Networks_Chen_2025.pdf)
 
+[Adam - A Method for Stochastic Optimization, D. Kingma et al, OpenAI, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/optimizers/Adam-A_Method_for_Stochastic_Optimization_Kingma_OpenAI_2017.pdf)
+
 ## Feature Learning
 [Mechanism of feature learning in deep fully connected networks
 and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Mechanism_of_feature_learning_in_deep_fully_connected_networks_and_kernel_machines_that_recursively_learn_features_Radhakrishnan_2023.pdf)
