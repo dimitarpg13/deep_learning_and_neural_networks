@@ -235,15 +235,27 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Learning to Compress: Local Rank and Information Compression in Deep Neural Networks, Niket Patel, Ravid Shwartz Ziv, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/compression/Learning_to_Compress-Local_Rank_and_Information_Compression_in_Deep_Neural_Networks_Patel_Ziv_2024.pdf)
 
-## Double Descent
+## Generalization in Deep Learning Netoworks, the Double Descent Phenomenon, and Statistical Mechanics interpretations
 
 [Understanding the Double Descent Phenomenon in DeepLearning, Marc Lafon, Alexandre Thomas, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Understanding_the_Double_Descent_Phenomenon_in_Deep_Learning_Lafon_2021.pdf)
 
 [Reconciling modern machine learning practice and the bias-variance trade-of, Mikhail Belkin et al, The OSU, 2019 ](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2019.pdf)
 
-[Onthe Optimization of Deep Networks: Implicit Acceleration by Overparameterization, S. Arora et al, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/On_the_Optimization_of_Deep_Networks-Implicit_Acceleration_by_Overparameterization_Arora_2018.pdf)
+[On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization, S. Arora et al, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/On_the_Optimization_of_Deep_Networks-Implicit_Acceleration_by_Overparameterization_Arora_2018.pdf)
 
 [Relational inductive biases, deep learning, and graph networks, Peter W Battaglia et al, DeepMind, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Relational_inductive_biases_deep_learning_and_graph_networks_Bataglia_2018.pdf)
+
+[Rethinking–or Remembering–Generalization in Neural Networks, Charles H Martin, April 2018](https://calculatedcontent.com/2018/04/01/rethinking-or-remembering-generalization-in-neural-networks/)
+
+[Rademacher Complexity & VC Dimension, Jordan Boyd-Graber, 2025](https://www.youtube.com/watch?v=gR9Q8pS03ZE)
+
+[Foundations: The Partition Function, Charles H. Martin, 2013](https://calculatedcontent.com/2013/11/14/foundations-the-parition-function/)
+
+[Measuring the VC dimension of a Learning Machine, V. Vapnik et al, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Measuring_the_VC-Dimension_of_a_Learning_Machine_Vapnik_LeCunn_1994.pdf)
+
+[Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior, Charles H. Martin et al, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Rethinking_generalization_requires_revisiting_old_ideas-statistical_mechanics_approaches_and_complex_learning_behavior_Martin_2019.pdf)
+
+[Understanding Deep Learning Requires Rethinking Generalization, C. Zhang et al, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Understanding_deep_learning_requires_rethinking_generalization_Zhang_2016.pdf)
 
 ## Deconstructing Deep Neural Networks
 
