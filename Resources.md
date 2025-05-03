@@ -236,6 +236,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [The Geometry of Concepts: Sparse Autoencoder Feature Structure, Y. Li et al (Max Tegmark's group at MIT), 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/The_Geometry_of_Concepts_Sparse_Autoencoder_Feature_Structure_Li_2024.pdf)
 
+[Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skean et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
+
 ## Grokking
 
 [The Complexity Dynamics of Grokking, Branton DeMoss, Silvia Sapora, Jakob Foerster, Nick Hawes, Ingmar Posner, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/The_Complexity_Dynamics_of_Grokking_DeMoss_2024.pdf)
