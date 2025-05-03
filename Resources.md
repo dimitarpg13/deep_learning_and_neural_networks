@@ -212,6 +212,8 @@ Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_
 
 [Variational Stochastic Gradient Descent for Deep Neural Networks, Haotian Chen et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/optimizers/Variational_Stochastic_Gradient_Descent_for_Deep_Neural_Networks_Chen_2025.pdf)
 
+repo: https://github.com/generativeai-tue/vsgd/tree/main
+
 [Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models, X. Xie et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/optimizers/Adan-Adaptive_Nesterov_Momentum_Algorithm_for_Faster_Optimizing_Deep_Models_Xie_2024.pdf)
 
 [Adam - A Method for Stochastic Optimization, D. Kingma et al, OpenAI, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/optimizers/Adam-A_Method_for_Stochastic_Optimization_Kingma_OpenAI_2017.pdf)
