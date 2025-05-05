@@ -409,6 +409,11 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 ## Representation Learning
 
+[I-Con: A Unifying Framework for Representation Learning, Shaden Alshammari et al, MIT, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/representation_learning/I-Con-A_Unifying_Framework_for_Representation_Learning_Alshammari_MIT_2025.pdf)
+
+   I-Con blog: https://mhamilton.net/icon
+
+
 [The Platonic Representation Hypothesis, M. Huh et al, MIT, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/representation_learning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf)
 
 [Occam's Razor for Self-Supervised Learning: What Is Sufficient to Learn Good Representation?, M. Ibrahim et al, FAIR Meta, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/representation_learning/Occams_Razor_for_Self-Supervised_Learning-What_is_Sufficient_to_Learn_Good_Representations_Ibrahim_2024.pdf)
@@ -416,6 +421,9 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 [Cross-Entropy is All You Need To Invert The Data Generating Process, P. Reizinger et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/representation_learning/Cross-Entropy_is_All_You_Need_to_Invert_the_Data_Generating_Process_Reizinger_2024.pdf)
 
 [Towards Understanding Grokking: An Effective Theory of Representation Learning, Ziming Liu, Ouail Kitouni, Niklas Nolte, Eric J. Michaud, Max Tegmark, Mike Williams, MIT, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/Towards_Understanding_Grokking-An_Effective_Theory_of_Representation_Learning_Liu_MIT_2022.pdf)
+
+[Graph Representation Learning, W. Hamilton, McGill U., 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Graph_Representation_Learning_Book_Hamilton_2020.pdf)
+
 
 ## Gated Recurrent Units (GRU)
 
