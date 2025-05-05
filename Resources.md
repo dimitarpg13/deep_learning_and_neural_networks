@@ -415,6 +415,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Cross-Entropy is All You Need To Invert The Data Generating Process, P. Reizinger et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/representation_learning/Cross-Entropy_is_All_You_Need_to_Invert_the_Data_Generating_Process_Reizinger_2024.pdf)
 
+[Towards Understanding Grokking: An Effective Theory of Representation Learning, Ziming Liu, Ouail Kitouni, Niklas Nolte, Eric J. Michaud, Max Tegmark, Mike Williams, MIT, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/Towards_Understanding_Grokking-An_Effective_Theory_of_Representation_Learning_Liu_MIT_2022.pdf)
+
 ## Gated Recurrent Units (GRU)
 
 [A Dynamic Regime-Switching Model Using Gated Recurrent Straight-Through Units, N. Antulov-Fantulin, A. Cauderan, Petter N. Kolm, NYU Courant Institute, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/gated_recurrent_unit/A_Dynamic_Regime-Switching_Model_Using_Gated_Recurrent_Straight-Through_Units_Fantoulin_Cauderas_Kolm_2024.pdf)
