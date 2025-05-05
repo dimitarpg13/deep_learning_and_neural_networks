@@ -463,6 +463,12 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Measuring VC Dimension of Learning Machine, Vladimir Vapnik et al, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Measuring_VC_dimension_of_learning_machine_vapnik-levin-lecun-94.pdf)
 
+## Geometric Deep Learning
+
+[Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, M. Bronstein et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
+
+[Equivariant non-linear maps for neural networks on homogeneous spaces, E. Nyholm et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/Equivariant_non-linear_maps_for_neural_networks_on_homogeneous_spaces_Nyholm_2025.pdf)
+
 ## Imitation Learning
 
 [X-IL: Exploring the Design Space of Imitation Learning Policies, X. Jia et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/X-IL-Exploring_the_Design_Space_of_Imitation_Learning_Policies_Jia_2025.pdf)
