@@ -415,6 +415,7 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
    I-Con blog: https://mhamilton.net/icon
 
+[Harnessing the Universal Geometry of Embeddings, Rishi Jha et al, Cornel U., 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/representation_learning/Harnessing_the_Universal_Geometry_of_Embeddings_Jha_2025.pdf)
 
 [The Platonic Representation Hypothesis, M. Huh et al, MIT, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/representation_learning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf)
 
