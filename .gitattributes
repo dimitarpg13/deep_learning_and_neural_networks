@@ -183,3 +183,4 @@ literature/articles/optimizers/Adan-Adaptive_Nesterov_Momentum_Algorithm_for_Fas
 literature/articles/representation_learning/I-Con-A_Unifying_Framework_for_Representation_Learning_Alshammari_MIT_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Patterns_Predictions_and_Actions_Hardt_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/representation_learning/Harnessing_the_Universal_Geometry_of_Embeddings_Jha_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/statistical_mechanics_of_DL/Rate-In-Information-Driven_Adaptive_Dropout_Rates_for_Improved_Inference-Time_Uncertainty_Estimation_Zeevi_2024.pdf filter=lfs diff=lfs merge=lfs -text
