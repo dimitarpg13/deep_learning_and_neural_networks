@@ -265,6 +265,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skean et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
 
+[A Geometric Modeling of Occam’s Razor in Deep Learning, Ke Sun, Frank Nielsen, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/A_Geometric_Modeling_of_Occams_Razor_in_Deep_Learning_Sun_2025.pdf)
+
 ## Grokking
 
 [The Complexity Dynamics of Grokking, Branton DeMoss, Silvia Sapora, Jakob Foerster, Nick Hawes, Ingmar Posner, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/The_Complexity_Dynamics_of_Grokking_DeMoss_2024.pdf)
