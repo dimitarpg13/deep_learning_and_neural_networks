@@ -450,6 +450,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [The Loss Surfaces of Multilayer Networks, A. Choromanska et al, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/The_Loss_Surfaces_of_Multilayer_Networks_Choromanska_2015.pdf)
 
+[Rate-In: Information-Driven Adaptive Dropout Rates for Improved Inference-Time Uncertainty Estimation, Tal Zeevi et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/Rate-In-Information-Driven_Adaptive_Dropout_Rates_for_Improved_Inference-Time_Uncertainty_Estimation_Zeevi_2024.pdf)
+
 [A Common Logic to Seeing Cats and Cosmos, Quanta Magazine, Natalie Wolchover, 2014](https://www.quantamagazine.org/a-common-logic-to-seeing-cats-and-cosmos-20141204/)
 
 [Mimicking The Folding Pathway to Improve Homology-Free Protein Structure Prediction, J. DeBartolo, 2008](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/debartolo-et-al-2009-mimicking-the-folding-pathway-to-improve-homology-free-protein-structure-prediction.pdf)
