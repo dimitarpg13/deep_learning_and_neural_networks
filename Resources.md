@@ -285,6 +285,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Intuitive physics understanding emerges from self-supervised pretraining on natural videos, Q. Garrido et al, Meta FAIR, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/emergence/Intuitive_physics_understanding_emerges_from_self-supervised_pretraining_on_natural_videos_Garrido_2025.pdf)
 
+[From Colors to Classes: Emergence of Concepts in Vision Transformers, Teresa Dorszewski et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/emergence/From_Colors_to_Classes-Emergence_of_Concepts_in_Vision_Transformers_Dorszewski_2025.pdf)
+
 ## AutoEncoders
 
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
