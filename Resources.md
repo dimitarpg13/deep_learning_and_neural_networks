@@ -267,6 +267,16 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [A Geometric Modeling of Occam’s Razor in Deep Learning, Ke Sun, Frank Nielsen, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/A_Geometric_Modeling_of_Occams_Razor_in_Deep_Learning_Sun_2025.pdf)
 
+## Inductive Bias in Deep Learning Networks
+
+[Hints, Yaser-Abu Mostafa, 1995](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/inductive_bias/Hints_Yaser_Abu_Moustafa_1995.pdf)
+
+[The Lack of Apriori Distinctions Between Learning Algorithms, David H. Wolpert, 1996](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/inductive_bias/the-lack-of-a-priori-distinctions-between-learning-Wolpert_1996.pdf)
+
+[The Role of Occam's Razor in Knowledge Discovery, Pedro Domingos, 1999](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/inductive_bias/The_Role_of_Occams_Razor_in_Knowledge_Discovery_Domingos_1999.pdf)
+
+[Ockham’s Razor, Truth, and Information, Kevin T. Kelly, CMU, 2008](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/inductive_bias/Ockhams_Razor_Truth_and_Information_Kelly_2008.pdf)
+
 ## Grokking
 
 [The Complexity Dynamics of Grokking, Branton DeMoss, Silvia Sapora, Jakob Foerster, Nick Hawes, Ingmar Posner, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/The_Complexity_Dynamics_of_Grokking_DeMoss_2024.pdf)
