@@ -239,6 +239,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 ## Generalization in Deep Learning Netoworks, the Double Descent Phenomenon, and Statistical Mechanics interpretations
 
+[A Geometric Modeling of Occam’s Razor in Deep Learning, Ke Sun, Frank Nielsen, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/A_Geometric_Modeling_of_Occams_Razor_in_Deep_Learning_Sun_2025.pdf)
+
 [Understanding the Double Descent Phenomenon in DeepLearning, Marc Lafon, Alexandre Thomas, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Understanding_the_Double_Descent_Phenomenon_in_Deep_Learning_Lafon_2021.pdf)
 
 [Reconciling modern machine learning practice and the bias-variance trade-of, Mikhail Belkin et al, The OSU, 2019 ](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2019.pdf)
