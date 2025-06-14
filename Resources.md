@@ -261,14 +261,6 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Understanding Deep Learning Requires Rethinking Generalization, C. Zhang et al, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Understanding_deep_learning_requires_rethinking_generalization_Zhang_2016.pdf)
 
-## Deconstructing Deep Neural Networks
-
-[The Geometry of Concepts: Sparse Autoencoder Feature Structure, Y. Li et al (Max Tegmark's group at MIT), 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/The_Geometry_of_Concepts_Sparse_Autoencoder_Feature_Structure_Li_2024.pdf)
-
-[Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skean et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
-
-[A Geometric Modeling of Occam’s Razor in Deep Learning, Ke Sun, Frank Nielsen, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/A_Geometric_Modeling_of_Occams_Razor_in_Deep_Learning_Sun_2025.pdf)
-
 ## Inductive Bias in Deep Learning Networks
 
 [Hints, Yaser-Abu Mostafa, 1995](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/inductive_bias/Hints_Yaser_Abu_Moustafa_1995.pdf)
@@ -278,6 +270,16 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 [The Role of Occam's Razor in Knowledge Discovery, Pedro Domingos, 1999](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/inductive_bias/The_Role_of_Occams_Razor_in_Knowledge_Discovery_Domingos_1999.pdf)
 
 [Ockham’s Razor, Truth, and Information, Kevin T. Kelly, CMU, 2008](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/inductive_bias/Ockhams_Razor_Truth_and_Information_Kelly_2008.pdf)
+
+
+## Deconstructing Deep Neural Networks
+
+[The Geometry of Concepts: Sparse Autoencoder Feature Structure, Y. Li et al (Max Tegmark's group at MIT), 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/The_Geometry_of_Concepts_Sparse_Autoencoder_Feature_Structure_Li_2024.pdf)
+
+[Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skean et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
+
+[A Geometric Modeling of Occam’s Razor in Deep Learning, Ke Sun, Frank Nielsen, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/A_Geometric_Modeling_of_Occams_Razor_in_Deep_Learning_Sun_2025.pdf)
+
 
 ## Grokking
 
