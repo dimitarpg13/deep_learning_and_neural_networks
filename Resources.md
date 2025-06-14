@@ -488,6 +488,9 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Equivariant non-linear maps for neural networks on homogeneous spaces, E. Nyholm et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/Equivariant_non-linear_maps_for_neural_networks_on_homogeneous_spaces_Nyholm_2025.pdf)
 
+## Topological Data Analysis 
+[Torsion in Persistent Homology and Neural Networks, Maria Walch, Heidelberg U., 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/torsion/Torsion_in_Persistent_Homology_and_Neural_Networks_Walch_2025.pdf)
+
 ## Imitation Learning
 
 [X-IL: Exploring the Design Space of Imitation Learning Policies, X. Jia et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/X-IL-Exploring_the_Design_Space_of_Imitation_Learning_Policies_Jia_2025.pdf)
