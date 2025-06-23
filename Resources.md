@@ -49,6 +49,8 @@
 
 [Patterns, Predictions, and Actions, Moritz Hardt and Benjamin Recht, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Patterns_Predictions_and_Actions_Hardt_2024.pdf)
 
+[A Brief Introduction to Neural Networks, David Kriesel, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Brief_Intro_to_Neural_Networks_Kriesel_2025.pdf)
+
 ## Articles and tutorials
 [A Logical Calculus of the Ideas Immanent in Nervous Activity, WS McCulloch, Walter Pitts, 1943](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mccolloch.logical.calculus.ideas.1943.pdf)
 
@@ -239,6 +241,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 ## Generalization in Deep Learning Netoworks, the Double Descent Phenomenon, and Statistical Mechanics interpretations
 
+[A Geometric Modeling of Occam’s Razor in Deep Learning, Ke Sun, Frank Nielsen, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/A_Geometric_Modeling_of_Occams_Razor_in_Deep_Learning_Sun_2025.pdf)
+
 [Understanding the Double Descent Phenomenon in DeepLearning, Marc Lafon, Alexandre Thomas, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Understanding_the_Double_Descent_Phenomenon_in_Deep_Learning_Lafon_2021.pdf)
 
 [Reconciling modern machine learning practice and the bias-variance trade-of, Mikhail Belkin et al, The OSU, 2019 ](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2019.pdf)
@@ -259,14 +263,6 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Understanding Deep Learning Requires Rethinking Generalization, C. Zhang et al, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Understanding_deep_learning_requires_rethinking_generalization_Zhang_2016.pdf)
 
-## Deconstructing Deep Neural Networks
-
-[The Geometry of Concepts: Sparse Autoencoder Feature Structure, Y. Li et al (Max Tegmark's group at MIT), 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/The_Geometry_of_Concepts_Sparse_Autoencoder_Feature_Structure_Li_2024.pdf)
-
-[Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skean et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
-
-[A Geometric Modeling of Occam’s Razor in Deep Learning, Ke Sun, Frank Nielsen, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/A_Geometric_Modeling_of_Occams_Razor_in_Deep_Learning_Sun_2025.pdf)
-
 ## Inductive Bias in Deep Learning Networks
 
 [Hints, Yaser-Abu Mostafa, 1995](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/inductive_bias/Hints_Yaser_Abu_Moustafa_1995.pdf)
@@ -276,6 +272,16 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 [The Role of Occam's Razor in Knowledge Discovery, Pedro Domingos, 1999](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/inductive_bias/The_Role_of_Occams_Razor_in_Knowledge_Discovery_Domingos_1999.pdf)
 
 [Ockham’s Razor, Truth, and Information, Kevin T. Kelly, CMU, 2008](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/inductive_bias/Ockhams_Razor_Truth_and_Information_Kelly_2008.pdf)
+
+
+## Deconstructing Deep Neural Networks
+
+[The Geometry of Concepts: Sparse Autoencoder Feature Structure, Y. Li et al (Max Tegmark's group at MIT), 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/The_Geometry_of_Concepts_Sparse_Autoencoder_Feature_Structure_Li_2024.pdf)
+
+[Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skean et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
+
+[A Geometric Modeling of Occam’s Razor in Deep Learning, Ke Sun, Frank Nielsen, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/A_Geometric_Modeling_of_Occams_Razor_in_Deep_Learning_Sun_2025.pdf)
+
 
 ## Grokking
 
