@@ -572,6 +572,8 @@ FastFold github: https://github.com/hpcaitech/fastfold
 
 Prediction-Powered Inference github: https://github.com/aangelopoulos/ppi_py
 
+Protein Workshop github: https://github.com/a-r-j/proteinworkshop
+
 ## Deep Learning for Physical Applications
 
 [Predicting disruptive instabilities in controlled fusion plasmas through deep learning, Julian Kates-Harbeck et al, Harvard U, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/Predicting_disruptive_instabilities_in_controlled_fusion_plasmas_through_deep_learning_Kates-Harbeck_Harvard_2019.pdf)
