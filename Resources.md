@@ -564,6 +564,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Embeddings, Vector Databases and Search, Module 2 slides from Databricks course, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Embedding_Vector_DBs_and_Search_Databricks_slides_2023.pdf)
 
+## Protein Folding and AlphaFold
+
+[AlphaFold 3 predicts the structure and interactions of all of life’s molecules, Google blog, May 08, 2024](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#future-cell-biology)
+
 ## Deep Learning for Physical Applications
 
 [Predicting disruptive instabilities in controlled fusion plasmas through deep learning, Julian Kates-Harbeck et al, Harvard U, 2019](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/plasma_control/Predicting_disruptive_instabilities_in_controlled_fusion_plasmas_through_deep_learning_Kates-Harbeck_Harvard_2019.pdf)
