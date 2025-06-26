@@ -303,6 +303,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [From Colors to Classes: Emergence of Concepts in Vision Transformers, Teresa Dorszewski et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/emergence/From_Colors_to_Classes-Emergence_of_Concepts_in_Vision_Transformers_Dorszewski_2025.pdf)
 
+[Leveraging chaos in the training of artificial neural networks, Pedro Jim´enez-Gonzalez, Miguel C. Soriano and Lucas Lacasa, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/emergence/Leveraging_chaos_in_the_training_of_artificial_neural_networks_Gonzalez_2025.pdf)
+
 ## AutoEncoders
 
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
@@ -561,6 +563,16 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 [Vector database management systems: Fundamental concepts, use-cases, and current challenges, T. Taipalus, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Vector_database_management_systems-Fundamental_concepts_use-cases_and_current_challenges_Taipalus_2023.pdf)
 
 [Embeddings, Vector Databases and Search, Module 2 slides from Databricks course, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Embedding_Vector_DBs_and_Search_Databricks_slides_2023.pdf)
+
+## Protein Folding and AlphaFold
+
+[AlphaFold 3 predicts the structure and interactions of all of life’s molecules, Google blog, May 08, 2024](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#future-cell-biology)
+
+FastFold github: https://github.com/hpcaitech/fastfold
+
+Prediction-Powered Inference github: https://github.com/aangelopoulos/ppi_py
+
+Protein Workshop github: https://github.com/a-r-j/proteinworkshop
 
 ## Deep Learning for Physical Applications
 
