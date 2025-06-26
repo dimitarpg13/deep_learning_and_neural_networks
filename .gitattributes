@@ -191,3 +191,4 @@ literature/articles/inductive_bias/the-lack-of-a-priori-distinctions-between-lea
 literature/books/Brief_Intro_to_Neural_Networks_Kriesel_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/emergence/Leveraging_chaos_in_the_training_of_artificial_neural_networks_Gonzalez_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaFold/AlphaFold-Improved_protein_structure_prediction_using_2_potentials_from_deep_learning_Senior_2020.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/AlphaFold/AlphaFold2_and_its_applications_in_the_fields_of_biology_and_medicine_Yang_2023.pdf filter=lfs diff=lfs merge=lfs -text
