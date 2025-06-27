@@ -196,3 +196,4 @@ literature/books/Lectures_Neural_Dynamics_Bullo_2025.pdf filter=lfs diff=lfs mer
 literature/articles/AlphaFold/AlphaFold_Meets_Flow_Matching_for_Generating_Protein_Ensembles_Jing_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaFold/Deep_Learning_for_Protein-Ligand_Docking-Are_We_There_Yet_Morehead_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaFold/Evaluating_representation_learning_on_the_protein_structure_universe_Jamash_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/AlphaFold/Highly_accurate_protein_structure_prediction_with_AlphaFold_Jumper_2021.pdf filter=lfs diff=lfs merge=lfs -text
