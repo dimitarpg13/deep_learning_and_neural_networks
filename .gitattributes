@@ -199,3 +199,4 @@ literature/articles/AlphaFold/Evaluating_representation_learning_on_the_protein_
 literature/articles/AlphaFold/Highly_accurate_protein_structure_prediction_with_AlphaFold_Jumper_2021.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaFold/Prediction-Powered_Inference_Angelopoulos_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaFold/Robust_deep_learning_based_protein_sequence_design_using_ProteinMPNN_Daupras_2023.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/AlphaFold/Unfolding_AlphaFolds_Bayesian_Roots_in_Probability_Kinematics_Hammelryck_2025.pdf filter=lfs diff=lfs merge=lfs -text
