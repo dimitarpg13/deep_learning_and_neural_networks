@@ -51,6 +51,8 @@
 
 [A Brief Introduction to Neural Networks, David Kriesel, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Brief_Intro_to_Neural_Networks_Kriesel_2025.pdf)
 
+[Lectures on Neural Dynamics, Francesco Bullo, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Lectures_Neural_Dynamics_Bullo_2025.pdf)
+
 ## Articles and tutorials
 [A Logical Calculus of the Ideas Immanent in Nervous Activity, WS McCulloch, Walter Pitts, 1943](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mccolloch.logical.calculus.ideas.1943.pdf)
 
