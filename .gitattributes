@@ -194,3 +194,4 @@ literature/articles/AlphaFold/AlphaFold-Improved_protein_structure_prediction_us
 literature/articles/AlphaFold/AlphaFold2_and_its_applications_in_the_fields_of_biology_and_medicine_Yang_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Lectures_Neural_Dynamics_Bullo_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaFold/AlphaFold_Meets_Flow_Matching_for_Generating_Protein_Ensembles_Jing_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/AlphaFold/Deep_Learning_for_Protein-Ligand_Docking-Are_We_There_Yet_Morehead_2025.pdf filter=lfs diff=lfs merge=lfs -text
