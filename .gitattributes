@@ -198,3 +198,4 @@ literature/articles/AlphaFold/Deep_Learning_for_Protein-Ligand_Docking-Are_We_Th
 literature/articles/AlphaFold/Evaluating_representation_learning_on_the_protein_structure_universe_Jamash_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaFold/Highly_accurate_protein_structure_prediction_with_AlphaFold_Jumper_2021.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaFold/Prediction-Powered_Inference_Angelopoulos_2023.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/AlphaFold/Robust_deep_learning_based_protein_sequence_design_using_ProteinMPNN_Daupras_2023.pdf filter=lfs diff=lfs merge=lfs -text
