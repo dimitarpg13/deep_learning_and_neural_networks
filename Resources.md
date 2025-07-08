@@ -513,6 +513,12 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 ## Topological Data Analysis 
 [Torsion in Persistent Homology and Neural Networks, Maria Walch, Heidelberg U., 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/torsion/Torsion_in_Persistent_Homology_and_Neural_Networks_Walch_2025.pdf)
 
+## Topos Theory in Deep Learning
+
+[Relative Toposes for Artifical General Intelligence, part 1, O. Caramello](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/topos_theory/RelativeToposesAGI_part1.pdf)
+
+[Relative Toposes for Artifical General Intelligence, part 2, O. Caramello](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/topos_theory/RelativeToposesAGI_part2.pdf)
+
 ## Imitation Learning
 
 [X-IL: Exploring the Design Space of Imitation Learning Policies, X. Jia et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/imitation_learning/X-IL-Exploring_the_Design_Space_of_Imitation_Learning_Policies_Jia_2025.pdf)
