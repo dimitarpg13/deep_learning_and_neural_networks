@@ -515,9 +515,9 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 ## Topos Theory in Deep Learning
 
-[Relative Toposes for Artifical General Intelligence, part 1, O. Caramello](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/topos_theory/RelativeToposesAGI_part1.pdf)
+[Relative Toposes for Artifical General Intelligence, part 1, O. Caramello, June 26th, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/topos_theory/RelativeToposesAGI_part1.pdf)
 
-[Relative Toposes for Artifical General Intelligence, part 2, O. Caramello](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/topos_theory/RelativeToposesAGI_part2.pdf)
+[Relative Toposes for Artifical General Intelligence, part 2, O. Caramello, July 3rd, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/topos_theory/RelativeToposesAGI_part2.pdf)
 
 ## Imitation Learning
 
