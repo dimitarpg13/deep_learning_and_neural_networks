@@ -504,6 +504,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Measuring VC Dimension of Learning Machine, Vladimir Vapnik et al, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Measuring_VC_dimension_of_learning_machine_vapnik-levin-lecun-94.pdf)
 
+[This is why large language models can understand the world, Algorithmic Simplicity, April 2025](https://youtu.be/UKcWu1l_UNw?si=D_ER9RmSNCpOqSPe)
+
 ## Geometric Deep Learning
 
 [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, M. Bronstein et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
