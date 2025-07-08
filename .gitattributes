@@ -201,3 +201,4 @@ literature/articles/AlphaFold/Prediction-Powered_Inference_Angelopoulos_2023.pdf
 literature/articles/AlphaFold/Robust_deep_learning_based_protein_sequence_design_using_ProteinMPNN_Daupras_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaFold/Unfolding_AlphaFolds_Bayesian_Roots_in_Probability_Kinematics_Hammelryck_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/chai_discovery/Chai-Discovery_Zero-shot_antibody_design_in_a_24-well_plate_technical_report_Chai_discovery_team_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/topos_theory/RelativeToposesAGI_part1.pdf filter=lfs diff=lfs merge=lfs -text
