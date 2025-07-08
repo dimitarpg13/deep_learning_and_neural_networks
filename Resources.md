@@ -265,8 +265,6 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Understanding Deep Learning Requires Rethinking Generalization, C. Zhang et al, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Understanding_deep_learning_requires_rethinking_generalization_Zhang_2016.pdf)
 
-[Rethinking– or Remembering–Generalization in Neural Networks, Charles H Martin, 2018](https://calculatedcontent.com/2018/04/01/rethinking-or-remembering-generalization-in-neural-networks/)
-
 [Understanding deep learning requires rethinking generalization, Chiyuan Zhang et al, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Understanding_deep_learning_requires_rethinking_generalization_Zhang_2018.pdf)
 
 [Measuring VC Dimension of Learning Machine, Vladimir Vapnik et al, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Measuring_VC_dimension_of_learning_machine_vapnik-levin-lecun-94.pdf)
