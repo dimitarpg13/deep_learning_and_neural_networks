@@ -265,6 +265,13 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Understanding Deep Learning Requires Rethinking Generalization, C. Zhang et al, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/double_descent/Understanding_deep_learning_requires_rethinking_generalization_Zhang_2016.pdf)
 
+[Understanding deep learning requires rethinking generalization, Chiyuan Zhang et al, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Understanding_deep_learning_requires_rethinking_generalization_Zhang_2018.pdf)
+
+[Measuring VC Dimension of Learning Machine, Vladimir Vapnik et al, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Measuring_VC_dimension_of_learning_machine_vapnik-levin-lecun-94.pdf)
+
+[This is why large language models can understand the world, Algorithmic Simplicity, April 2025](https://youtu.be/UKcWu1l_UNw?si=D_ER9RmSNCpOqSPe)
+
+
 ## Inductive Bias in Deep Learning Networks
 
 [Hints, Yaser-Abu Mostafa, 1995](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/inductive_bias/Hints_Yaser_Abu_Moustafa_1995.pdf)
@@ -496,14 +503,6 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Spin Glasses and the Statistical Mechanics of Protein Folding, JD Bryngelson, PG Wolynes, 1987](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/bryngelson-wolynes-1987-spin-glasses-and-the-statistical-mechanics-of-protein-folding.pdf)
 
-## Generalization in Deep Learning
-
-[Rethinking– or Remembering–Generalization in Neural Networks, Charles H Martin, 2018](https://calculatedcontent.com/2018/04/01/rethinking-or-remembering-generalization-in-neural-networks/)
-
-[Understanding deep learning requires rethinking generalization, Chiyuan Zhang et al, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Understanding_deep_learning_requires_rethinking_generalization_Zhang_2018.pdf)
-
-[Measuring VC Dimension of Learning Machine, Vladimir Vapnik et al, 1994](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Measuring_VC_dimension_of_learning_machine_vapnik-levin-lecun-94.pdf)
-
 ## Geometric Deep Learning
 
 [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, M. Bronstein et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
@@ -512,6 +511,12 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 ## Topological Data Analysis 
 [Torsion in Persistent Homology and Neural Networks, Maria Walch, Heidelberg U., 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/torsion/Torsion_in_Persistent_Homology_and_Neural_Networks_Walch_2025.pdf)
+
+## Topos Theory in Deep Learning
+
+[Relative Toposes for Artifical General Intelligence, part 1, O. Caramello, June 26th, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/topos_theory/RelativeToposesAGI_part1.pdf)
+
+[Relative Toposes for Artifical General Intelligence, part 2, O. Caramello, July 3rd, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/topos_theory/RelativeToposesAGI_part2.pdf)
 
 ## Imitation Learning
 
