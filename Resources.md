@@ -53,6 +53,8 @@
 
 [Lectures on Neural Dynamics, Francesco Bullo, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Lectures_Neural_Dynamics_Bullo_2025.pdf)
 
+[The Elements of Differentiable Programming, M. Blondel, Vincent Roulet, Google DeepMind, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/The_Elements_of_Differentiable_Programming_Blondel_2025.pdf)
+
 ## Articles and tutorials
 [A Logical Calculus of the Ideas Immanent in Nervous Activity, WS McCulloch, Walter Pitts, 1943](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mccolloch.logical.calculus.ideas.1943.pdf)
 
