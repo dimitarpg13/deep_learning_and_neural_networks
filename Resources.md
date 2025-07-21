@@ -208,6 +208,10 @@ Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_
 
 [The Unreasonable Effectiveness of Recurrent Neural Networks, Andrej Karpathy's blog, 2015](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+## Training of Deep Learning Models
+
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Sergey Ioffe, Christian Szegedy, Google, 2015](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/batch_normalization/Batch_Normalization-Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift_Ioffe_2015.pdf)
+
 ## Loss Functions and Metrics
 
 [Loss Functions and Metrics in Deep Learning, Juan Terven et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Loss_Functions_and_Metrics_in_Deep_Learning_Terven_2024.pdf)
