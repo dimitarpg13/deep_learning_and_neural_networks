@@ -273,6 +273,9 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [This is why large language models can understand the world, Algorithmic Simplicity, April 2025](https://youtu.be/UKcWu1l_UNw?si=D_ER9RmSNCpOqSPe)
 
+[Generative Modeling of Weights: Generalization or Memorization? Boya Zeng et al, Princeton U., 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/generalization/Generative_Modeling_of_Weights-Generalization_or_Memorization_Zheng_Princeton_2025.pdf)
+
+github repo: https://github.com/boyazeng/weight_memorization
 
 ## Inductive Bias in Deep Learning Networks
 
