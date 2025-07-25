@@ -514,6 +514,10 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [Spin Glasses and the Statistical Mechanics of Protein Folding, JD Bryngelson, PG Wolynes, 1987](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/bryngelson-wolynes-1987-spin-glasses-and-the-statistical-mechanics-of-protein-folding.pdf)
 
+### SETOL: A Semi-Empirical Theory of (Deep) Learning
+
+[SETOL: A Semi-Empirical Theory of (Deep) Learning, Charles H Martin, Christopher Hinrichs, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/SETOL/SETOL-A_Semi-Empirical_Theory_of_Deep_Learning_Martin_2025.pdf)
+
 ## Geometric Deep Learning
 
 [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, M. Bronstein et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
