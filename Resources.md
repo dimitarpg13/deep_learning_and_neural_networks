@@ -249,6 +249,8 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment, J. Guo et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/test_time_adaptation/Everything_to_the_Synthetic-Diffusion-driven_Test-time_Adaptation_via_Synthetic-Domain_Alignment_Guo_2024.pdf)
 
+related repo: https://github.com/SHI-Labs/Diffusion-Driven-Test-Time-Adaptation-via-Synthetic-Domain-Alignment
+
 ## Compression
 
 [Learning to Compress: Local Rank and Information Compression in Deep Neural Networks, Niket Patel, Ravid Shwartz Ziv, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/compression/Learning_to_Compress-Local_Rank_and_Information_Compression_in_Deep_Neural_Networks_Patel_Ziv_2024.pdf)
