@@ -243,6 +243,12 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Foundations of Machine Learning: Over-parameterization and Feature Learning, A. Radhakrishnan, PhD Thesis, MIT, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/radhakrishnan-aradha-phd-eecs-2023-thesis.pdf)
 
+## Test-Time Adaptation
+
+[Deep Researcher with Test-Time Diffusion, Rujun Han et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/test_time_adaptation/Deep_Researcher_with_Test-Time_Diffusion_Han_2025.pdf)
+
+[Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment, J. Guo et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/test_time_adaptation/Everything_to_the_Synthetic-Diffusion-driven_Test-time_Adaptation_via_Synthetic-Domain_Alignment_Guo_2024.pdf)
+
 ## Compression
 
 [Learning to Compress: Local Rank and Information Compression in Deep Neural Networks, Niket Patel, Ravid Shwartz Ziv, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/compression/Learning_to_Compress-Local_Rank_and_Information_Compression_in_Deep_Neural_Networks_Patel_Ziv_2024.pdf)
