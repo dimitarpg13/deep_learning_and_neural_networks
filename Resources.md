@@ -361,6 +361,8 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [LSTM Can Solve Hard Long Time Lag Problems, Sepp Hochreiter, Jurgen Schmidhuber NIPS, 1996](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/NIPS-1996-lstm-can-solve-hard-long-time-lag-problems-Paper_Hochreiter.pdf)
 
+[Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks, J. Schmidhuber et al, 1992](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/Learning_to_Control_Fast-Weight_Memories_1992-schmidhuber.pdf)
+
 [Overcoming the Curse of Sentence Length for Neural Machine Translation using Automatic Segmentation, Jean Pouget-Abadie et al, EPF, 2014](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Overcoming_the_Curse_of_Sentence_Length_for_Neural_Machine_Translation_using_Automatic_Segmentation_Puget-Abadie_EPF_2014.pdf)
 
 [Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations, E. Kiperwasser, Y. Goldberg,  2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Simple_and_Accurate_Dependency_Parsing_Using_Bidirectional_LSTM_Feature_Representations_Kiperwasser_2016.pdf)
