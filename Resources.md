@@ -208,7 +208,7 @@ Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_
 
 [The Unreasonable Effectiveness of Recurrent Neural Networks, Andrej Karpathy's blog, 2015](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-## Training and Fine-Tuning, Regularization of Deep Learning Models
+## Training, Fine-Tuning, Regularization of Deep Learning Models
 
 [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer, Greg Yang et al, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/fine-tunning/Tensor_Programs_V-Tuning_Large_Neural_Networks_via_Zero-Shot_Hyperparameter_Transfer_Yang_2022.pdf)
 
