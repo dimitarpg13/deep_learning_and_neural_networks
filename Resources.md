@@ -196,9 +196,6 @@ related youtube presentation: [here](https://youtu.be/_y1tIdnB__Y?si=kZyy0ldXFUW
 
 [Exploring Adversarial Examples: Patterns of One-Pixel Attack, David Kügler et al, TU Darmstadt, 2019](https://ar5iv.labs.arxiv.org/html/1806.09410)
 
-## Deep Learning for image processing
-
-Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
 
 ## Sequence to Sequence and RNNs
 
@@ -597,16 +594,6 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks, Z. Jia et al, ICML, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/algorithmic_aspects/Exploring_the_hidden_dimension_in_accelerating_convolutional_neural_networks_Jia_ICML_2018.pdf)
 
-## Vector Databases
-
-[Foundations of Vector Retrieval, Sebastian Bruch, 2024, arXiv](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Foundations_of_Vector_Retrieval_Bruch_2024.pdf)
-
-[A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge, Y. Han et al, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/A_Comprehensive_Survey_on_Vector_Database-Storage_and_Retrieval_Technique_Challenge_Han_2023.pdf)
-
-[Vector database management systems: Fundamental concepts, use-cases, and current challenges, T. Taipalus, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Vector_database_management_systems-Fundamental_concepts_use-cases_and_current_challenges_Taipalus_2023.pdf)
-
-[Embeddings, Vector Databases and Search, Module 2 slides from Databricks course, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Embedding_Vector_DBs_and_Search_Databricks_slides_2023.pdf)
-
 ## Protein Folding and AlphaFold
 
 [AlphaFold 3 predicts the structure and interactions of all of life’s molecules, Google blog, May 08, 2024](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#future-cell-biology)
@@ -620,6 +607,11 @@ Protein Workshop github: https://github.com/a-r-j/proteinworkshop
 ## Antibody Discovery 
 
 [Chai-Discovery: Zero-shot antibody design in a 24-well plate, Chai Discovery Team, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/chai_discovery/Chai-Discovery_Zero-shot_antibody_design_in_a_24-well_plate_technical_report_Chai_discovery_team_2025.pdf)
+
+## Deep Learning for Image Processing
+
+Resources on this [link](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
+
 
 ## Deep Learning for Physical Applications
 
@@ -815,6 +807,16 @@ combining PINNs with symbolic regression, Z. Zhang, et al, Brown U, 2023](https:
 [How to Run Machine Learning Hyperparameter Optimization in the Cloud (Part 3) with Chaim Rand](https://towardsdatascience.com/how-to-run-machine-learning-hyperparameter-optimization-in-the-cloud-part-3-f66dddbe1415)
 
 [Recreating PyTorch from Scratch (with GPU Support and Automatic Differentiation), Lucas de Lima Nogueira, 2024, Towards Data Science](https://towardsdatascience.com/recreating-pytorch-from-scratch-with-gpu-support-and-automatic-differentiation-8f565122a3cc)
+
+## Vector Databases
+
+[Foundations of Vector Retrieval, Sebastian Bruch, 2024, arXiv](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Foundations_of_Vector_Retrieval_Bruch_2024.pdf)
+
+[A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge, Y. Han et al, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/A_Comprehensive_Survey_on_Vector_Database-Storage_and_Retrieval_Technique_Challenge_Han_2023.pdf)
+
+[Vector database management systems: Fundamental concepts, use-cases, and current challenges, T. Taipalus, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Vector_database_management_systems-Fundamental_concepts_use-cases_and_current_challenges_Taipalus_2023.pdf)
+
+[Embeddings, Vector Databases and Search, Module 2 slides from Databricks course, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Embedding_Vector_DBs_and_Search_Databricks_slides_2023.pdf)
 
 ## Yan LeCun's Deep Learning Course at Center for Data Science, NYU
 
