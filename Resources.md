@@ -407,6 +407,25 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skean et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/llm_insights/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
 
+## Mixture of Experts
+
+[The First Sparse Mixture of Experts, D. Benveniste, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mixture_of_experts/The_first_sparse_mixture_of_experts_Bienveniste_2025.pdf)
+
+[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer, N. Shazeer et al, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mixture_of_experts/Outrageously_Large_Neural_Networks-The_Sparsely-Gated_Mixture-of-Experts_Layer_Shazeer_2017.pdf)
+
+[The Evolution of Mixture of Experts: A Survey from Basics to Breakthroughs, A. Vats et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mixture_of_experts/The_Evolution_of_Mixture_of_Experts-A_Survey_from_Basics_to_Breakthroughs_Vats_2024.pdf)
+
+[A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications, S. Mu et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mixture_of_experts/Comprehensive_Survey_of_Mixture-of-Experts-Algorithms_Theory_and_Applications_Mu_2025.pdf)
+
+[A Survey on Mixture of Experts in Large Language Models, W. Cai et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mixture_of_experts/Survey_on_Mixture_of_Experts_in_Large_Language_Models_Cai_2025.pdf)
+
+[Mixture of Experts, Lecture from 10-423/10-623 Generative AI, Matt Gromley, Henry Chai](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mixture_of_experts/Mixture_of_Experts_Gormley_2024.pdf)
+
+[Adaptive Mixture of Local Experts, R.A. Jacobs et al, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mixture_of_experts/Adaptive_Mixture_of_Local_Experts_Jacobs_1991.pdf)
+
+[HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts, H. Zhao et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mixture_of_experts/HyperMoE-Towards_Better_Mixture_of_Experts_via_Transferring_Among_Experts_Zhao_2024.pdf)
+
+
 ## Self-organizing maps
 
 [The Self-Organizing Map, Kohonen, IEEE, 1998](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/TheSelfOrganizing_map_Kohonen_IEEE_1998.pdf)
