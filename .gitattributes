@@ -214,3 +214,4 @@ literature/articles/mixture_of_experts/Survey_on_Mixture_of_Experts_in_Large_Lan
 literature/articles/mixture_of_experts/The_Evolution_of_Mixture_of_Experts-A_Survey_from_Basics_to_Breakthroughs_Vats_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/mixture_of_experts/The_first_sparse_mixture_of_experts_Bienveniste_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/DeepLearning_on_Graphs_Ma_2020.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/GraphNeuralNetworks-FoundationsFrontiers_and_Applications_Wu_2022.pdf filter=lfs diff=lfs merge=lfs -text
