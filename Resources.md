@@ -29,7 +29,6 @@
 
 [Pattern Recognition and Machine Learning, Christopher Bishop, 2006](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Bishop-Pattern_Recognition_and_Machine_Learning.pdf)
 
-
 [Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu et al, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/GraphNeuralNetworks-FoundationsFrontiers_and_Applications_Wu_2022.pdf)
 
 [Introduction to Graph Neural Networks, Zhiyuan Liu et al, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Intro_to_Graph_Neural_Networks_Liu_2022.pdf)
@@ -37,6 +36,8 @@
 [Deep Learning on Graphs, Yao Ma et al, 2020](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/DeepLearning_on_Graphs_Ma_2020.pdf)
 
 [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, M. Bronstein et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
+
+[Mathematical Foundations of Geometric Deep Learning, Haitz Saez de Ocariz Borde, Michael Bronstein, U. of Oxford, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Mathematical_Foundation_of_Geometrical_Deep_Learning_Borde_UoO_2025.pdf)
 
 [Machine Learning Refined - Foundations, Algorithms, and Applications, Jeremy Watt, Reza Bohrani, Aggelos Katsaggelos, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Machine_Learning_Refined.pdf)
 
