@@ -395,6 +395,8 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [Log-Linear Attention, Han Guo et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/Log-Linear_Attention_Guo_2025.pdf)
 
+[Scaled-Dot-Product Attention as One-Sided Entropic Optimal Transport, E. Littman, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/Scaled-Dot-Product_Attention_as_One-Sided_Entropic_Optimal_Transport_Littman_2025.pdf)
+
 ## Embeddings
 
 [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
