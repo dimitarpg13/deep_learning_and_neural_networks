@@ -232,6 +232,8 @@ related repo: https://github.com/microsoft/mup
 
 [softmax is not enough (for sharp out-of-distribution), Peter Velickovic et al, DeepMind, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/activation/softmax_is_not_enough_for_sharp_out-of-distribution_Velickovic_2024.pdf)
 
+[Flat Channels to Infinity in Neural Loss Landscapes, Flavio Martinelli et al, EPFL, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Flat_Channels_to_Infinity_in_Neural_Loss_Landscapes_Martinelli_2025.pdf)
+
 ## Neural Network Optimizers, Optimization Problems and Algorithms
 
 [An overview of gradient descent optimization algorithms, S. Ruder, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/optimizers/An_overview_of_gradient_descent_optimization_algorithms_Ruder_2017.pdf)
