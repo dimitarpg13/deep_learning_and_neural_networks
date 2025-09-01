@@ -347,6 +347,8 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [Leveraging chaos in the training of artificial neural networks, Pedro Jim´enez-Gonzalez, Miguel C. Soriano and Lucas Lacasa, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/emergence/Leveraging_chaos_in_the_training_of_artificial_neural_networks_Gonzalez_2025.pdf)
 
+[Flat Channels to Infinity in Neural Loss Landscapes, Flavio Martinelli et al, EPFL, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Flat_Channels_to_Infinity_in_Neural_Loss_Landscapes_Martinelli_2025.pdf)
+
 ## AutoEncoders
 
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
