@@ -222,3 +222,4 @@ literature/articles/attention/All_You_Need_To_Know_About_The_Self-Attention_Laye
 literature/articles/Flat_Channels_to_Infinity_in_Neural_Loss_Landscapes_Martinelli_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/Reconciling_modern_machine_learning_practice_and_the_bias-variance_trade-off_Belkin_2018.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/The_Lottery_Ticket_Hypothesis-Finding_Sparse_Trainable_Neural_Networks_Frankle_2019.pdf filter=lfs diff=lfs merge=lfs -text
+literature/lecture_notes/Optimization_for_Machine_Learning_Gaertner_Lecture_Notes_CS-439_Spring_2025.pdf filter=lfs diff=lfs merge=lfs -text
