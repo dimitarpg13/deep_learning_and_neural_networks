@@ -63,6 +63,10 @@
 
 [The Elements of Differentiable Programming, M. Blondel, Vincent Roulet, Google DeepMind, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/The_Elements_of_Differentiable_Programming_Blondel_2025.pdf)
 
+## Lecture Notes
+
+[Optimization for Machine Learning Lecture Notes CS-439, Spring 2025 Bernd Gartner, ETH, Martin Jaggi, EPFL](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/lecture_notes/Optimization_for_Machine_Learning_Gaertner_Lecture_Notes_CS-439_Spring_2025.pdf)
+
 ## Articles and tutorials
 [A Logical Calculus of the Ideas Immanent in Nervous Activity, WS McCulloch, Walter Pitts, 1943](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/mccolloch.logical.calculus.ideas.1943.pdf)
 
