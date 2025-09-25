@@ -53,6 +53,8 @@
 
 [Statistical Mechanics of Neural Networks, H. Huang, Springer, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Huang-StatMechNeuralNet-Springer21.pdf)
 
+[The Fundamentals of Heavy Tails: Properties, Emergence, and Estimation, Jayakrishnan Nair, Adam Wierman, Bert Zwart, 2021, Draft](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/The_Fundamentals_of_Heavy_Tails_Properties_Emergence_Estimation_Nair_2021_Draft.pdf)
+
 [Probabilistic Artificial Intelligence, Andreas Krause, Jonas Hübotter, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Probabilistic_Artificial_Intelligence_Krause_Huebotter_2025.pdf)
 
 [Patterns, Predictions, and Actions, Moritz Hardt and Benjamin Recht, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Patterns_Predictions_and_Actions_Hardt_2024.pdf)
