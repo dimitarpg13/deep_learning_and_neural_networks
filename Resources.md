@@ -419,6 +419,8 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [Efficient Estimation of Word Representations in Vector Space, Tomas Mikolov et al, Google, 2013](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Efficient_Estimation_of_Word_Representations_in_Vector_Space_Mikolov_Google_2013.pdf)
 
+[Distributed Representations of Words and Phrases and their Compositionality, Thomas Mikolov et al, Google, 2013](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Distributed_Representations_of_Words_and_Phrases_and_their_Compositionality_Mikolov_2013.pdf)
+
 [Factors Influencing the Surprising Instability of Word Embeddings, L. Wendtlandt et al, U. Michigan Ann Arbor, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Factors_Influencing_the_Surprising_Instability_of_Word_Embeddings_Wendlandt_AnnArbor_2018.pdf)
 
 [Is Cosine-Similarity of Embeddings Really About Similarity? Harald Steck, Chaitanya Ekanadham, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Is_Cosine-Similarity_of_Embeddings_Really_About_Similarity_Steck_2024.pdf)
