@@ -891,7 +891,8 @@ https://cds.nyu.edu/deep-learning/
 
 [Building makemore Part 5: Building a WaveNet](https://youtu.be/t3YJ5hKiMQ0)
 
-## Relevant Repos
+### Hopfield Networks
 
-* [Intro to Deep Learning (Tebs Labs fork)](https://github.com/dimitarpg13/intro-to-deep-learning/tree/master) 
+[Hopfield Networks, Jeff Orchard, 2021](https://www.youtube.com/watch?v=81B-ESqgCjs)
+
 
