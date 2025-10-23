@@ -641,6 +641,10 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [Efficient Simulation of Finite Automata by Neural Nets, Noga Alon et al, JACM, Vol. 38, No. 2, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/computability/Efficient_simulations_of_finite_automata_by_neural_nets_Alon_1991.pdf)
 
+## Theory of Explainability of Neural Networks
+
+[Mathematical Foundations of Explainability: A Unified Theory Across Dimensions and Domains, Miquel Noguer i Alonso, AIFI, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/explainability/Mathematical_Foundations_of_Explainability-A_Unified_Theory_Across_Dimensions_and_Domains_Alonso_2025.pdf)
+
 ## Algorithmic Aspects and Parallelization of Neural Networks
 
 [Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks, Z. Jia et al, ICML, 2018](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/algorithmic_aspects/Exploring_the_hidden_dimension_in_accelerating_convolutional_neural_networks_Jia_ICML_2018.pdf)
