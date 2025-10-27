@@ -355,6 +355,12 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [Flat Channels to Infinity in Neural Loss Landscapes, Flavio Martinelli et al, EPFL, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Flat_Channels_to_Infinity_in_Neural_Loss_Landscapes_Martinelli_2025.pdf)
 
+## Criticality of Dynamical Systems
+
+[The Self-Organized Criticality Paradigm in Economics & Finance, Jean-Philippe Bouchaud, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/criticality/The_Self-Organized_Criticality_Paradigm_in_Economics_and_Finance_Bouchaud_2024.pdf)
+
+[Dynamical criticality: overview and open questions, Andrea Roli et al, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/criticality/Dynamical_criticality-overview_and_open_questions_Roli_2016.pdf)
+
 ## AutoEncoders
 
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Autoencoders.pdf)
