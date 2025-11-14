@@ -633,6 +633,13 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [DeepMath - Deep Sequence Models for Premise Selection, Alexander Alemi, Francois Chollet et al, 2016](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/theorem_proving/DeepMath-Deep_Sequence_Models_for_Premise_Selection_alemi_2016.pdf)
 
+## AlphaProof
+
+[Olympiad-level formal mathematical reasoning with reinforcement learning, Thomas Hubert et al, DeepMind, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/AlphaProof/Olympiad-level_formal_mathematical_reasoning_with_reinforcement_learning_Hubert_2025.pdf)
+
+github repo: https://github.com/AlphaProof
+
+
 ## Computability of Neural Networks
 
 [Turing Computability with Neural Nets, Hava T. Siegelmann, Eduardo Sontag, 1991](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/computability/TuringComputabilityWithNeuralNets_Siegelman1991.pdf)
