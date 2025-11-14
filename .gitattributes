@@ -230,3 +230,4 @@ literature/articles/explainability/Mathematical_Foundations_of_Explainability-A_
 literature/articles/criticality/The_Self-Organized_Criticality_Paradigm_in_Economics_and_Finance_Bouchaud_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/attention/Attention_as_Discrete-Time_Markov_Chains_Erel_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaProof/Olympiad-level_formal_mathematical_reasoning_with_reinforcement_learning_Hubert_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/AlphaEvolve/Mathematical_Exploration_and_Discovery_at_Scale_Georgiev_2025.pdf filter=lfs diff=lfs merge=lfs -text
