@@ -639,6 +639,13 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 github repo: https://github.com/AlphaProof
 
+## Evolutionary Algorithms
+
+### AlphaEvolve
+
+[Mathematical Exploration and Discovery at Scale, Bogdan Georgiev et al, Google DeepMind, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/AlphaEvolve/Mathematical_Exploration_and_Discovery_at_Scale_Georgiev_2025.pdf)
+
+github repo: https://github.com/algorithmicsuperintelligence/openevolve
 
 ## Computability of Neural Networks
 
