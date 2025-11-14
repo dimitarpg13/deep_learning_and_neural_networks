@@ -666,6 +666,8 @@ github repo: https://github.com/AlphaProof
 
 [AlphaFold 3 predicts the structure and interactions of all of life’s molecules, Google blog, May 08, 2024](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#future-cell-biology)
 
+github repo: https://github.com/google-deepmind/alphafold3
+
 FastFold github: https://github.com/hpcaitech/fastfold
 
 Prediction-Powered Inference github: https://github.com/aangelopoulos/ppi_py
