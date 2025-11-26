@@ -595,6 +595,8 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, M. Bronstein et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
 
+[Mathematical Foundations of Geometric Deep Learning, Haitz Saez de Ocariz Borde, Michael Bronstein, U. of Oxford, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Mathematical_Foundation_of_Geometrical_Deep_Learning_Borde_UoO_2025.pdf)
+
 [Equivariant non-linear maps for neural networks on homogeneous spaces, E. Nyholm et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/Equivariant_non-linear_maps_for_neural_networks_on_homogeneous_spaces_Nyholm_2025.pdf)
 
 [A Physical perspective on Graph Neural Networks, Michael Bronstein,  EPFL AI Center Seminar Series, 2024 (youtube lecture)](https://www.youtube.com/watch?v=kEyLUY8A5zo)
