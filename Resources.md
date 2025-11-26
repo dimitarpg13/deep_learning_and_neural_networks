@@ -265,6 +265,10 @@ and kernel machines that recursively learn features, A. Radhakrishnan, MIT, 2023
 
 [Foundations of Machine Learning: Over-parameterization and Feature Learning, A. Radhakrishnan, PhD Thesis, MIT, 2023](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/radhakrishnan-aradha-phd-eecs-2023-thesis.pdf)
 
+## Nested Learning
+
+[Nested Learning: The Illusion of Deep Learning Architectures, Ali Behrouz et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/nested_learning/Nested_Learning-The_Illusion_of_Deep_Learning_Architectures_Behrouz_2025.pdf)
+
 ## Test-Time Adaptation
 
 [Deep Researcher with Test-Time Diffusion, Rujun Han et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/test_time_adaptation/Deep_Researcher_with_Test-Time_Diffusion_Han_2025.pdf)
