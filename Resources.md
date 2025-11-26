@@ -597,6 +597,8 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [Equivariant non-linear maps for neural networks on homogeneous spaces, E. Nyholm et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/geometric_deep_learning/Equivariant_non-linear_maps_for_neural_networks_on_homogeneous_spaces_Nyholm_2025.pdf)
 
+[A Physical perspective on Graph Neural Networks, Michael Bronstein,  EPFL AI Center Seminar Series, 2024 (youtube lecture)](https://www.youtube.com/watch?v=kEyLUY8A5zo)
+
 ## Topological Data Analysis 
 [Torsion in Persistent Homology and Neural Networks, Maria Walch, Heidelberg U., 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/torsion/Torsion_in_Persistent_Homology_and_Neural_Networks_Walch_2025.pdf)
 
