@@ -232,3 +232,4 @@ literature/articles/attention/Attention_as_Discrete-Time_Markov_Chains_Erel_2025
 literature/articles/AlphaProof/Olympiad-level_formal_mathematical_reasoning_with_reinforcement_learning_Hubert_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaEvolve/Mathematical_Exploration_and_Discovery_at_Scale_Georgiev_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/nested_learning/Nested_Learning-The_Illusion_of_Deep_Learning_Architectures_Behrouz_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Understanding_Deep_Learning_Application_in_rare_event-prediction_Ranjan_2020.pdf filter=lfs diff=lfs merge=lfs -text
