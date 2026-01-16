@@ -679,6 +679,8 @@ github repo: https://github.com/algorithmicsuperintelligence/openevolve
 
 ## Protein Folding and AlphaFold
 
+[New Methods Using Rigorous Machine Learning For Coarse-Grained Protein Folding And Dynamics, John Jumper, PhD Thesis, University of Chicago, 2017](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/protein_folding/New_Methods_using_Rigorous_Machine_Learning_for_Coarse-Grained_Protein_Folding_and_Dynamics_Jumper_UChicago_2017.pdf)
+
 [AlphaFold 3 predicts the structure and interactions of all of life’s molecules, Google blog, May 08, 2024](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#future-cell-biology)
 
 github repo: https://github.com/google-deepmind/alphafold3
