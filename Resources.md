@@ -1,3 +1,4 @@
+
 # Deep Learning and Neural Networks Resources
 
 ## Books
@@ -869,6 +870,8 @@ combining PINNs with symbolic regression, Z. Zhang, et al, Brown U, 2023](https:
    related repo: https://github.com/ShuaiGuo16/PINN_symbolic_regression
 
 [Solving Inverse Problems With Physics-Informed DeepONet: A Practical Guide With Code Implementation with Shuai Guo](https://towardsdatascience.com/solving-inverse-problems-with-physics-informed-deeponet-a-practical-guide-with-code-implementation-27795eb4f502)
+
+[The "Physics-Based Model" Pitch: When Marketing Meets Thermodynamics, IntelliDynamics, Linkedin article, 2026](https://www.linkedin.com/pulse/physics-based-model-pitch-when-marketing-meets-thermodynamics-veydc/)
 
 ### ML Ops for deep learning 
 [Instance Selection for Deep Learning with Chaim Rand](https://towardsdatascience.com/instance-selection-for-deep-learning-7463d774cff0)
