@@ -349,6 +349,8 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [How to explain grokking, S.V. Kozyrev, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/How_to_explain_grokking_Kozyrev_2025.pdf)
 
+[Late-Stage Generalization Collapse in Grokking: Detecting Antigrokking with WeightWatcher, Hari K. Prakash, Charles H. Martin, 2026](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/grokking/Late-Stage_Generalization_Collapse_in_Grokking-Detecting_Antigrokking_with_WeightWatcher_Prakash_2026.pdf)
+
 ## Emergence phenomena
 
 [Intuitive physics understanding emerges from self-supervised pretraining on natural videos, Q. Garrido et al, Meta FAIR, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/emergence/Intuitive_physics_understanding_emerges_from_self-supervised_pretraining_on_natural_videos_Garrido_2025.pdf)
