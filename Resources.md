@@ -424,6 +424,8 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [The Mathematics of Causality, Miquel Noguer i Alonso, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/The_Mathematics_of_Causality_Noguer_i_Alonso_2025.pdf)
 
+[Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free, Z. Qiu et al, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/attention/Gated_Attention_for_Large_Language_Models-Non-linearity_Sparsity_and_Attention-Sink-Free_Qiu_2025.pdf)
+
 ## Embeddings
 
 [Embeddings in Natural Language Processing: Theory and Advances in Vector Representation of Meaning, M. Pilhevar, J. Camacho-Collados, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/embeddings/Embeddings_in_NLP_Pilhevar_book_draft.pdf)
