@@ -240,3 +240,4 @@ literature/articles/grokking/Late-Stage_Generalization_Collapse_in_Grokking-Dete
 literature/articles/attention/Gated_Attention_for_Large_Language_Models-Non-linearity_Sparsity_and_Attention-Sink-Free_Qiu_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Deep_Learning_for_Computer_Vision_Barak_Or_2026.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/AlphaFold/Mechanisms_of_AI_Protein_Folding_in_ESMFold_Lu_2026.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/AlphaFold/Language_models_of_protein_sequences_at_the_scale_of_evolution_enable_accurate_structure_prediction_Lin_2022.pdf filter=lfs diff=lfs merge=lfs -text
