@@ -692,13 +692,21 @@ github repo: https://github.com/algorithmicsuperintelligence/openevolve
 
 [AlphaFold 3 predicts the structure and interactions of all of life’s molecules, Google blog, May 08, 2024](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#future-cell-biology)
 
+[Language models of protein sequences at the scale of evolution enable accurate structure prediction, Z. Lin et al, 2022](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/AlphaFold/Language_models_of_protein_sequences_at_the_scale_of_evolution_enable_accurate_structure_prediction_Lin_2022.pdf)
+
 [Mechanisms of AI Protein Folding in ESMFold, Kevin Lu et al, 2026](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/AlphaFold/Mechanisms_of_AI_Protein_Folding_in_ESMFold_Lu_2026.pdf)
 
-[related website](https://folding.baulab.info/)
+[related website to the paper](https://folding.baulab.info/)
 
-github repo: https://github.com/google-deepmind/alphafold3
+AlphaFold3 github: https://github.com/google-deepmind/alphafold3
 
 FastFold github: https://github.com/hpcaitech/fastfold
+
+EsmFold github: 
+
+https://github.com/sokrypton/ColabFold/blob/main/ESMFold.ipynb
+
+https://github.com/facebookresearch/esm/tree/main/esm
 
 Prediction-Powered Inference github: https://github.com/aangelopoulos/ppi_py
 
