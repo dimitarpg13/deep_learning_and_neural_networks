@@ -239,3 +239,4 @@ literature/articles/AlphaFold/New_Methods_using_Rigorous_Machine_Learning_for_Co
 literature/articles/grokking/Late-Stage_Generalization_Collapse_in_Grokking-Detecting_Antigrokking_with_WeightWatcher_Prakash_2026.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/attention/Gated_Attention_for_Large_Language_Models-Non-linearity_Sparsity_and_Attention-Sink-Free_Qiu_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Deep_Learning_for_Computer_Vision_Barak_Or_2026.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/AlphaFold/Mechanisms_of_AI_Protein_Folding_in_ESMFold_Lu_2026.pdf filter=lfs diff=lfs merge=lfs -text
