@@ -600,6 +600,10 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [SETOL: A Semi-Empirical Theory of (Deep) Learning, Charles H Martin, Christopher Hinrichs, 2025](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/SETOL/SETOL-A_Semi-Empirical_Theory_of_Deep_Learning_Martin_2025.pdf)
 
+## Neural Networks Weight Dynamics
+
+[From SGD to Spectra: A Theory of Neural Network Weight Dynamics, Brian Richard Olsen et al, 2026](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/statistical_mechanics_of_DL/From_SGD_to_Spectra-A_Theory_of_Neural_Network_Weight_Dynamics_Olsen_2026.pdf)
+
 ## Geometric Deep Learning
 
 [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, M. Bronstein et al, 2021](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/books/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
