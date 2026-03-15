@@ -251,3 +251,4 @@ literature/articles/JEPA/A_Path_Towards_Autonomous_Machine_Intelligence_Version_
 literature/articles/JEPA/Deep_Dive_into_Yann_LeCun_JEPA_by_Rohit_Bandaru.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/JEPA/lecun-20220720-leshouches-02.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/JEPA/VL-JEPA_Joint_Embedding_Predictive_Architecture_for_Vision-language_Chen_2026.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/statistical_mechanics_of_DL/From_SGD_to_Spectra-A_Theory_of_Neural_Network_Weight_Dynamics_Olsen_2026.pdf filter=lfs diff=lfs merge=lfs -text
