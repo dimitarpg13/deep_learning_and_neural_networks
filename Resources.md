@@ -519,6 +519,8 @@ github repo: https://github.com/boyazeng/weight_memorization
 
 [Graph neural networks in TensorFlow, Dustin Zelle, Distin Zelle, Feb 6, 2024, online blog](https://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html)
 
+[Scalable Message Passing Neural Networks: No Need for Attention in Large Graph Representation Learning, Haitz Saez de Ocariz Borde et al, 2026](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/Scalable_Message_Passing_Networks/Scalable_Message_Passing_Neural_Networks_No_Need_for_Attention_in_Large_Graph_Representation_Learning_Borde_ICLR_2026.pdf)
+
 ## Long Short Term Memory (LSTM)
 
 [xLSTM: Extended Long Short-Term Memory, Maximilian Beck et al, 2024](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/literature/articles/xLSTM-Extended_Long_Short-Term_Memory_Beck_2024.pdf)
