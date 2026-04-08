@@ -254,3 +254,4 @@ literature/articles/JEPA/VL-JEPA_Joint_Embedding_Predictive_Architecture_for_Vis
 literature/articles/statistical_mechanics_of_DL/From_SGD_to_Spectra-A_Theory_of_Neural_Network_Weight_Dynamics_Olsen_2026.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/JEPA/LeJEPA-Provable_and_Scalable_Self-Supervised_Learning_Without_the_Heuristics_Ballestriero_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/fast_weights/Linear_Transformers_Are_Secretly_Fast_Weight_Programmers_Schlag_2021.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/fast_weights/Neural_nets_learn_to_program_neural_nets_with_with_fast_weights_retrospective_Schmidhuber_1991.pdf filter=lfs diff=lfs merge=lfs -text
